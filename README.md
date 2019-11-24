@@ -1,1 +1,1 @@
-Very simple app to remember hebrew words
+Very simple app to repeat and remember hebrew words.
