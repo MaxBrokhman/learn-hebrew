@@ -6,6 +6,11 @@
   margin-top: 1px;
 }
 
+.word-item {
+  font-family: 'David Libre', serif;
+  font-size: 2rem;
+}
+
 .next-btn-wrapper {
   margin-top: 20px;
 }

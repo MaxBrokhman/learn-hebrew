@@ -3,7 +3,11 @@ import React, { useState, useEffect } from 'react'
 import { TWord } from '../../data/words'
 import { ListItem } from '../ListItem'
 import { ListItemWithBtn } from '../ListItemWithBtn'
-import { showTranslationBtn, showPronouncingBtn } from '../../config'
+import { 
+  showTranslationBtn, 
+  showPronouncingBtn, 
+  firstListItemClassName,
+} from '../../config'
 
 type TProps = {
   currentWord: TWord,
@@ -26,7 +30,7 @@ export const WordCard = ({ currentWord }: TProps) => {
   return (
     <div className='card'>
       <ul className='list-group list-group-flush'>
-        <ListItem value={word} />
+        <ListItem value={word} className={firstListItemClassName} />
         <ListItemWithBtn
           value={pronouncing} 
           isOpen={isPronouncingShowed}
