@@ -823,4 +823,334 @@ export const words: Array<TWord> = [
     pronouncing: 'кфар',
     translation: 'деревня',
   },
+  {
+    word: 'כשומר',
+    pronouncing: 'кэшомэр',
+    translation: 'охранник',
+  },
+  {
+    word: 'פקיד',
+    pronouncing: 'пакид',
+    translation: 'служащий',
+  },
+  {
+    word: 'גלידה',
+    pronouncing: 'глида',
+    translation: 'мороженное',
+  },
+  {
+    word: 'לאכול',
+    pronouncing: 'лээхоль',
+    translation: 'кушать',
+  },
+  {
+    word: 'בדרך כלל',
+    pronouncing: 'бэдэрэх клаль',
+    translation: 'как правило',
+  },
+  {
+    word: 'לשתות',
+    pronouncing: 'лиштот',
+    translation: 'пить',
+  },
+  {
+    word: 'יושב',
+    pronouncing: 'йошэв',
+    translation: 'сидеть',
+  },
+  {
+    word: 'לשבת',
+    pronouncing: 'лашэвэт',
+    translation: 'сидеть',
+  },
+  {
+    word: 'לגור',
+    pronouncing: 'лягур',
+    translation: 'жить',
+  },
+  {
+    word: 'לטייל',
+    pronouncing: 'лэтаяль',
+    translation: 'путешествовать',
+  },
+  {
+    word: 'שר',
+    pronouncing: 'сар',
+    translation: 'министр',
+  },
+  {
+    word: 'נשאר',
+    pronouncing: 'нишар',
+    translation: 'оставаться',
+  },
+  {
+    word: 'להישאר',
+    pronouncing: 'лэхишаэр',
+    translation: 'оставаться',
+  },
+  {
+    word: 'חי',
+    pronouncing: 'хаи',
+    translation: 'жить',
+  },
+  {
+    word: 'לחיות',
+    pronouncing: 'лихйот',
+    translation: 'жить',
+  },
+  {
+    word: 'לראות',
+    pronouncing: 'лирот',
+    translation: 'видеть',
+  },
+  {
+    word: 'חולה',
+    pronouncing: 'холэ',
+    translation: 'больной, пациент',
+  },
+  {
+    word: 'משחק',
+    pronouncing: 'мисхак',
+    translation: 'играть',
+  },
+  {
+    word: 'לשחק',
+    pronouncing: 'лесахэк',
+    translation: 'играть',
+  },
+  {
+    word: 'מטפל',
+    pronouncing: 'мэтапэль',
+    translation: 'ухаживать, заботиться',
+  },
+  {
+    word: 'לטפל',
+    pronouncing: 'лэтапэль',
+    translation: 'ухаживать, заботиться',
+  },
+  {
+    word: 'ללכת',
+    pronouncing: 'лалэхэт',
+    translation: 'идти',
+  },
+  {
+    word: 'לבוא',
+    pronouncing: 'лаво',
+    translation: 'приходить',
+  },
+  {
+    word: 'לעשות',
+    pronouncing: 'лаасот',
+    translation: 'делать',
+  },
+  {
+    word: 'סוף',
+    pronouncing: 'соф',
+    translation: 'конец',
+  },
+  {
+    word: 'טרי',
+    pronouncing: 'тари',
+    translation: 'свежий',
+  },
+  {
+    word: 'להרגיש',
+    pronouncing: 'лэхаргиш',
+    translation: 'чувствовать себя',
+  },
+  {
+    word: 'קצר',
+    pronouncing: 'кацар',
+    translation: 'короткий',
+  },
+  {
+    word: 'נר',
+    pronouncing: 'нэр',
+    translation: 'свечка',
+  },
+  {
+    word: 'יקר',
+    pronouncing: 'якар',
+    translation: 'дорогой, ценный',
+  },
+  {
+    word: 'אדום',
+    pronouncing: 'адом',
+    translation: 'красный',
+  },
+  {
+    word: 'אור',
+    pronouncing: 'ор',
+    translation: 'свет',
+  },
+  {
+    word: 'בחור',
+    pronouncing: 'бахур',
+    translation: 'парень',
+  },
+  {
+    word: 'בחורה',
+    pronouncing: 'бахура',
+    translation: 'девушка',
+  },
+  {
+    word: 'לפעמים',
+    pronouncing: 'лифамим',
+    translation: 'иногда',
+  },
+  {
+    word: 'חוזר',
+    pronouncing: 'хозэр',
+    translation: 'возвращаться',
+  },
+  {
+    word: 'מוקדם',
+    pronouncing: 'мукдам',
+    translation: 'рано',
+  },
+  {
+    word: 'להכנס',
+    pronouncing: 'лэхихнэс',
+    translation: 'войти, зайти',
+  },
+  {
+    word: 'גבוה',
+    pronouncing: 'гавоа',
+    translation: 'высокий',
+  },
+  {
+    word: 'אחור',
+    pronouncing: 'ахор',
+    translation: 'другой',
+  },
+  {
+    word: 'יקירתי',
+    pronouncing: 'якирати',
+    translation: 'дорогая',
+  },
+  {
+    word: 'תמיד',
+    pronouncing: 'тамид',
+    translation: 'всегда',
+  },
+  {
+    word: 'נכנס',
+    pronouncing: 'нихнас',
+    translation: 'входить, заходить',
+  },
+  {
+    word: 'דרך',
+    pronouncing: 'дэрэх',
+    translation: 'через, дорога, способ',
+  },
+  {
+    word: 'אמיתי',
+    pronouncing: 'амити',
+    translation: 'настоящий, реальный',
+  },
+  {
+    word: 'הורים',
+    pronouncing: 'хорим',
+    translation: 'родители',
+  },
+  {
+    word: 'מתוק',
+    pronouncing: 'маток',
+    translation: 'сладкий, милый',
+  },
+  {
+    word: 'נכד',
+    pronouncing: 'нэхад',
+    translation: 'внук',
+  },
+  {
+    word: 'פרחים',
+    pronouncing: 'прахим',
+    translation: 'цветы',
+  },
+  {
+    word: 'פרטי',
+    pronouncing: 'прати',
+    translation: 'личный',
+  },
+  {
+    word: 'מבוגר',
+    pronouncing: 'мэвугар',
+    translation: 'старший, взрослый',
+  },
+  {
+    word: 'מתקשר',
+    pronouncing: 'миткашэр',
+    translation: 'звонить',
+  },
+  {
+    word: 'עסוק',
+    pronouncing: 'асук',
+    translation: 'занят, занятой',
+  },
+  {
+    word: 'יוצא',
+    pronouncing: 'йоцэ',
+    translation: 'выходить',
+  },
+  {
+    word: 'עוד מעט',
+    pronouncing: 'од мэат',
+    translation: 'скоро',
+  },
+  {
+    word: 'אל תדאג',
+    pronouncing: 'аль тигад',
+    translation: 'не беспокойся',
+  },
+  {
+    word: 'ציבור',
+    pronouncing: 'цивур',
+    translation: 'публичный',
+  },
+  {
+    word: 'משקפיים',
+    pronouncing: 'мишкафаим',
+    translation: 'очки',
+  },
+  {
+    word: 'חסר',
+    pronouncing: 'хасэр',
+    translation: 'отсутствует, не хватает',
+  },
+  {
+    word: 'זקן',
+    pronouncing: 'закэн',
+    translation: 'старик',
+  },
+  {
+    word: 'שמח',
+    pronouncing: 'сомэах',
+    translation: 'счастливый',
+  },
+  {
+    word: 'שוב',
+    pronouncing: 'шув',
+    translation: 'снова, опять',
+  },
+  {
+    word: 'לומר',
+    pronouncing: 'ломар',
+    translation: 'сказать',
+  },
+  {
+    word: 'שום דבר',
+    pronouncing: 'шум дабар',
+    translation: 'ничего',
+  },
+  {
+    word: 'מפני',
+    pronouncing: 'мифнэй',
+    translation: 'потому, ведь',
+  },
+  {
+    word: 'חברה',
+    pronouncing: 'хавэра',
+    translation: 'компания, подруга',
+  },
 ]
