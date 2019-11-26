@@ -876,7 +876,7 @@ export const words: Array<TWord> = [
   {
     word: 'שר',
     pronouncing: 'сар',
-    translation: 'министр',
+    translation: 'министр / петь',
   },
   {
     word: 'נשאר',
@@ -1152,5 +1152,335 @@ export const words: Array<TWord> = [
     word: 'חברה',
     pronouncing: 'хавэра',
     translation: 'компания, подруга',
+  },
+  {
+    word: 'ראש',
+    pronouncing: 'рош',
+    translation: 'голова, глава',
+  },
+  {
+    word: 'ממשלה',
+    pronouncing: 'мэмшала',
+    translation: 'правительство',
+  },
+  {
+    word: 'רוב',
+    pronouncing: 'ров',
+    translation: 'большинство',
+  },
+  {
+    word: 'שונה',
+    pronouncing: 'шонэ',
+    translation: 'другой, непохожий',
+  },
+  {
+    word: 'כלכלה',
+    pronouncing: 'калькала',
+    translation: 'экономика',
+  },
+  {
+    word: 'צבא',
+    pronouncing: 'цава',
+    translation: 'армия',
+  },
+  {
+    word: 'חולם',
+    pronouncing: 'холэм',
+    translation: 'мечтать',
+  },
+  {
+    word: 'לחלום',
+    pronouncing: 'лахлом',
+    translation: 'мечтать',
+  },
+  {
+    word: 'עדיין',
+    pronouncing: 'адаин',
+    translation: 'все еще / до сих пор',
+  },
+  {
+    word: 'חלב',
+    pronouncing: 'халав',
+    translation: 'молоко',
+  },
+  {
+    word: 'מידע',
+    pronouncing: 'мэйда',
+    translation: 'информация / сведения',
+  },
+  {
+    word: 'מוצא',
+    pronouncing: 'моцэ',
+    translation: 'исход / выход',
+  },
+  {
+    word: 'אך',
+    pronouncing: 'ах',
+    translation: 'но',
+  },
+  {
+    word: 'אוצר',
+    pronouncing: 'оцар',
+    translation: 'сокровище / казначейство',
+  },
+  {
+    word: 'שכור',
+    pronouncing: 'шкур',
+    translation: 'арендованный / наемный',
+  },
+  {
+    word: 'נמצא',
+    pronouncing: 'нимца',
+    translation: 'находиться',
+  },
+  {
+    word: 'להימצא',
+    pronouncing: 'лэхимацэ',
+    translation: 'находиться',
+  },
+  {
+    word: 'ברגל',
+    pronouncing: 'барэгэль',
+    translation: 'пешком',
+  },
+  {
+    word: 'רגל',
+    pronouncing: 'рэгэль',
+    translation: 'нога',
+  },
+  {
+    word: 'חדשות',
+    pronouncing: 'хадашот',
+    translation: 'новости',
+  },
+  {
+    word: 'מהנדס',
+    pronouncing: 'мэхандэс',
+    translation: 'инженер',
+  },
+  {
+    word: 'לחכות ל',
+    pronouncing: 'лэхакот лэ',
+    translation: 'ждать',
+  },
+  {
+    word: 'מחכ ל',
+    pronouncing: 'мэхах лэ',
+    translation: 'ждать',
+  },
+  {
+    word: 'רחוק מ',
+    pronouncing: 'рахок мэ',
+    translation: 'далеко от',
+  },
+  {
+    word: 'מזמין',
+    pronouncing: 'мазмин',
+    translation: 'приглашать / заказывать / вызывать',
+  },
+  {
+    word: 'תור',
+    pronouncing: 'тор',
+    translation: 'очередь',
+  },
+  {
+    word: 'קרוב ל',
+    pronouncing: 'каров лэ',
+    translation: 'близко к',
+  },
+  {
+    word: 'מהר',
+    pronouncing: 'махэр',
+    translation: 'быстро',
+  },
+  {
+    word: 'מתי',
+    pronouncing: 'матай',
+    translation: 'когда',
+  },
+  {
+    word: 'לאן',
+    pronouncing: 'лэан',
+    translation: 'куда',
+  },
+  {
+    word: 'רץ',
+    pronouncing: 'рац',
+    translation: 'бежать',
+  },
+  {
+    word: 'לרוץ',
+    pronouncing: 'ларуц',
+    translation: 'бежать',
+  },
+  {
+    word: 'בריכה',
+    pronouncing: 'бриха',
+    translation: 'бассейн',
+  },
+  {
+    word: 'שדה תעופה',
+    pronouncing: 'сдэ тэуфа',
+    translation: 'аэропорт',
+  },
+  {
+    word: 'תעופה',
+    pronouncing: 'тэуфа',
+    translation: 'полет',
+  },
+  {
+    word: 'שדה',
+    pronouncing: 'сдэ',
+    translation: 'поле',
+  },
+  {
+    word: 'רכבת',
+    pronouncing: 'ракэвэт',
+    translation: 'поезд',
+  },
+  {
+    word: 'פצצה',
+    pronouncing: 'пцаца',
+    translation: 'бомба',
+  },
+  {
+    word: 'של מי',
+    pronouncing: 'шель ми',
+    translation: 'чей',
+  },
+  {
+    word: 'עם מי',
+    pronouncing: 'им ми',
+    translation: 'с кем',
+  },
+  {
+    word: 'על מי',
+    pronouncing: 'аль ми',
+    translation: 'о ком',
+  },
+  {
+    word: 'סופר',
+    pronouncing: 'софэр',
+    translation: 'писатель',
+  },
+  {
+    word: 'עולה',
+    pronouncing: 'олэ',
+    translation: 'стоить',
+  },
+  {
+    word: 'כמה',
+    pronouncing: 'кама',
+    translation: 'сколько',
+  },
+  {
+    word: 'מעונות',
+    pronouncing: 'мэонот',
+    translation: 'общежитие',
+  },
+  {
+    word: 'נפגש',
+    pronouncing: 'нифгаш',
+    translation: 'встречать',
+  },
+  {
+    word: 'לפגוש',
+    pronouncing: 'лифгош',
+    translation: 'встречать',
+  },
+  {
+    word: 'לבד',
+    pronouncing: 'лавад',
+    translation: 'в одиночестве / наедине',
+  },
+  {
+    word: 'נמוך',
+    pronouncing: 'намух',
+    translation: 'низкий / маленький',
+  },
+  {
+    word: 'בשביל',
+    pronouncing: 'бишвиль',
+    translation: 'для',
+  },
+  {
+    word: 'לרצות',
+    pronouncing: 'лирцот',
+    translation: 'хотеть',
+  },
+  {
+    word: 'לובש',
+    pronouncing: 'ловэш',
+    translation: 'носить / надевать',
+  },
+  {
+    word: 'ללבוש',
+    pronouncing: 'лильбош',
+    translation: 'носить / надевать',
+  },
+  {
+    word: 'צודק',
+    pronouncing: 'цодэк',
+    translation: 'быть правым / правильно',
+  },
+  {
+    word: 'תפקיד',
+    pronouncing: 'тафкид',
+    translation: 'роль, должность',
+  },
+  {
+    word: 'חלב',
+    pronouncing: 'халав',
+    translation: 'молоко',
+  },
+  {
+    word: 'שחקן',
+    pronouncing: 'сахкан',
+    translation: 'артист / актер',
+  },
+  {
+    word: 'בחים',
+    pronouncing: 'бэхим',
+    translation: 'живой',
+  },
+  {
+    word: 'מדען',
+    pronouncing: 'мадэан',
+    translation: 'ученый',
+  },
+  {
+    word: 'לפי',
+    pronouncing: 'лэфи',
+    translation: 'в соответствии с / согласно',
+  },
+  {
+    word: 'לפני',
+    pronouncing: 'лифнэй',
+    translation: 'до / перед',
+  },
+  {
+    word: 'אחרי',
+    pronouncing: 'ахарэй',
+    translation: 'после',
+  },
+  {
+    word: 'שחור',
+    pronouncing: 'шахор',
+    translation: 'черный',
+  },
+  {
+    word: 'לבן',
+    pronouncing: 'лаван',
+    translation: 'белый',
+  },
+  {
+    word: 'צהוב',
+    pronouncing: 'цахов',
+    translation: 'желтый',
+  },
+  {
+    word: 'כחול',
+    pronouncing: 'кахоль',
+    translation: 'синий / голубой',
   },
 ]
