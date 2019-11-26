@@ -1,6 +1,8 @@
 import React from 'react'
 
 import { ListItem } from '../ListItem'
+import { Btn } from '../Btn'
+import { wordCardBtnClassName } from '../../config'
 
 type TProps = {
   value: string,
@@ -17,11 +19,9 @@ export const ListItemWithBtn = ({
 }: TProps) => (
   isOpen 
     ? <ListItem value={value} />
-    : <button 
-        type='button' 
-        className='btn btn-outline-secondary'
+    : <Btn 
+        className={wordCardBtnClassName}
         onClick={onClick}
-      >
-        {btnValue}
-      </button>
+        value={btnValue}
+      />
 )
