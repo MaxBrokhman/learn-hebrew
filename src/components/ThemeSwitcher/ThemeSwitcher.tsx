@@ -5,7 +5,7 @@ import { Btn } from '../Btn'
 const darkThemeCss = `
   html {
     background-color: #fefefe;
-    filter: invert(85%);
+    filter: invert(87%);
   }
   * {
     background-color: inherit;
