@@ -8,7 +8,7 @@ export const words: Array<TWord> = [
   {
     word: 'כמו',
     pronouncing: 'кмо',
-    translation: 'как, например',
+    translation: 'как / например',
   },
   {
     word: 'נחמד',
@@ -53,7 +53,7 @@ export const words: Array<TWord> = [
   {
     word: 'רווק',
     pronouncing: 'равак',
-    translation: 'холостой, одинокий',
+    translation: 'холостой / одинокий',
   },
   {
     word: 'מקום',
@@ -193,7 +193,7 @@ export const words: Array<TWord> = [
   {
     word: 'שירה',
     pronouncing: 'шира',
-    translation: 'песня, поэзия, стихи',
+    translation: 'песня / поэзия / стихи',
   },
   {
     word: 'עט',
@@ -208,12 +208,12 @@ export const words: Array<TWord> = [
   {
     word: 'מחברת',
     pronouncing: 'махбэрэт',
-    translation: 'тетрадь, блокнот',
+    translation: 'тетрадь / блокнот',
   },
   {
     word: 'לוח',
     pronouncing: 'луах',
-    translation: 'доска, расписание',
+    translation: 'доска / расписание',
   },
   {
     word: 'אוויר',
@@ -258,7 +258,7 @@ export const words: Array<TWord> = [
   {
     word: 'וילון',
     pronouncing: 'вилон',
-    translation: 'штора, занавес',
+    translation: 'штора / занавес',
   },
   {
     word: 'שאלה',
@@ -351,12 +351,12 @@ export const words: Array<TWord> = [
   {
     word: 'רבים',
     pronouncing: 'равим',
-    translation: 'многие, множество',
+    translation: 'многие / множество',
   },
   {
     word: 'יחיד',
     pronouncing: 'яхид',
-    translation: 'единственный, один',
+    translation: 'единственный / один',
   },
   {
     word: 'הר',
@@ -365,13 +365,13 @@ export const words: Array<TWord> = [
   },
   {
     word: 'מדבר',
-    pronouncing: 'мидбар',
-    translation: 'пустыня',
+    pronouncing: 'мидбар / мэдабэр',
+    translation: 'пустыня / говорить',
   },
   {
     word: 'מיוחד',
     pronouncing: 'миюхад',
-    translation: 'специальный, особенный',
+    translation: 'специальный / особенный',
   },
   {
     word: 'חוף',
@@ -406,7 +406,7 @@ export const words: Array<TWord> = [
   {
     word: 'מפעל',
     pronouncing: 'мифаль',
-    translation: 'фабрика, завод',
+    translation: 'фабрика / завод',
   },
   {
     word: 'שכן',
@@ -416,7 +416,7 @@ export const words: Array<TWord> = [
   {
     word: 'טיול',
     pronouncing: 'тиюль',
-    translation: 'экскурсия, тур',
+    translation: 'экскурсия / тур',
   },
   {
     word: 'לקרוא',
@@ -446,7 +446,7 @@ export const words: Array<TWord> = [
   {
     word: 'רישיון',
     pronouncing: 'ришайон',
-    translation: 'права, лицензия',
+    translation: 'права / лицензия',
   },
   {
     word: 'נהיגה',
@@ -506,7 +506,7 @@ export const words: Array<TWord> = [
   {
     word: 'חזק',
     pronouncing: 'хазак',
-    translation: 'сильный, крепкий',
+    translation: 'сильный / крепкий',
   },
   {
     word: 'שמן',
@@ -541,7 +541,7 @@ export const words: Array<TWord> = [
   {
     word: 'רוח',
     pronouncing: 'руах',
-    translation: 'ветер, дух',
+    translation: 'ветер / дух',
   },
   {
     word: 'כוס',
@@ -551,12 +551,12 @@ export const words: Array<TWord> = [
   {
     word: 'ותיק',
     pronouncing: 'ватик',
-    translation: 'давний, ветеран',
+    translation: 'давний / ветеран',
   },
   {
     word: 'סיפור',
     pronouncing: 'сипур',
-    translation: 'история, рассказ',
+    translation: 'история / рассказ',
   },
   {
     word: 'זמר',
@@ -606,7 +606,7 @@ export const words: Array<TWord> = [
   {
     word: 'חשוב',
     pronouncing: 'хашув',
-    translation: 'важно, важный',
+    translation: 'важно / важный',
   },
   {
     word: 'מבחן',
@@ -641,7 +641,7 @@ export const words: Array<TWord> = [
   {
     word: 'מול',
     pronouncing: 'муль',
-    translation: 'напротив, перед',
+    translation: 'напротив / перед',
   },
   {
     word: 'בין',
@@ -666,12 +666,12 @@ export const words: Array<TWord> = [
   {
     word: 'אדוני',
     pronouncing: 'адони',
-    translation: 'сэр, мистер',
+    translation: 'сэр / мистер',
   },
   {
     word: 'גברתי',
     pronouncing: 'гаварти',
-    translation: 'мадам, мисс',
+    translation: 'мадам / мисс',
   },
   {
     word: 'להגיד',
@@ -681,7 +681,7 @@ export const words: Array<TWord> = [
   {
     word: 'תגיד',
     pronouncing: 'тагид',
-    translation: 'скажи, говори',
+    translation: 'скажи / говори',
   },
   {
     word: 'תיק',
@@ -761,7 +761,7 @@ export const words: Array<TWord> = [
   {
     word: 'מעצבן',
     pronouncing: 'мэацвэн',
-    translation: 'мэацвэн',
+    translation: 'раздражающий / надоедливый',
   },
   {
     word: 'תפוח',
@@ -971,7 +971,7 @@ export const words: Array<TWord> = [
   {
     word: 'יקר',
     pronouncing: 'якар',
-    translation: 'дорогой, ценный',
+    translation: 'дорогой / ценный',
   },
   {
     word: 'אדום',
@@ -1011,7 +1011,7 @@ export const words: Array<TWord> = [
   {
     word: 'להכנס',
     pronouncing: 'лэхихнэс',
-    translation: 'войти, зайти',
+    translation: 'войти / зайти',
   },
   {
     word: 'גבוה',
@@ -1036,17 +1036,17 @@ export const words: Array<TWord> = [
   {
     word: 'נכנס',
     pronouncing: 'нихнас',
-    translation: 'входить, заходить',
+    translation: 'входить / заходить',
   },
   {
     word: 'דרך',
     pronouncing: 'дэрэх',
-    translation: 'через, дорога, способ',
+    translation: 'через / дорога / способ',
   },
   {
     word: 'אמיתי',
     pronouncing: 'амити',
-    translation: 'настоящий, реальный',
+    translation: 'настоящий / реальный',
   },
   {
     word: 'הורים',
@@ -1056,7 +1056,7 @@ export const words: Array<TWord> = [
   {
     word: 'מתוק',
     pronouncing: 'маток',
-    translation: 'сладкий, милый',
+    translation: 'сладкий / милый',
   },
   {
     word: 'נכד',
@@ -1076,7 +1076,7 @@ export const words: Array<TWord> = [
   {
     word: 'מבוגר',
     pronouncing: 'мэвугар',
-    translation: 'старший, взрослый',
+    translation: 'старший / взрослый',
   },
   {
     word: 'מתקשר',
@@ -1086,7 +1086,7 @@ export const words: Array<TWord> = [
   {
     word: 'עסוק',
     pronouncing: 'асук',
-    translation: 'занят, занятой',
+    translation: 'занят / занятой',
   },
   {
     word: 'יוצא',
@@ -1116,7 +1116,7 @@ export const words: Array<TWord> = [
   {
     word: 'חסר',
     pronouncing: 'хасэр',
-    translation: 'отсутствует, не хватает',
+    translation: 'отсутствует / не хватает',
   },
   {
     word: 'זקן',
@@ -1131,7 +1131,7 @@ export const words: Array<TWord> = [
   {
     word: 'שוב',
     pronouncing: 'шув',
-    translation: 'снова, опять',
+    translation: 'снова / опять',
   },
   {
     word: 'לומר',
@@ -1146,17 +1146,17 @@ export const words: Array<TWord> = [
   {
     word: 'מפני',
     pronouncing: 'мифнэй',
-    translation: 'потому, ведь',
+    translation: 'потому / ведь',
   },
   {
     word: 'חברה',
     pronouncing: 'хавэра',
-    translation: 'компания, подруга',
+    translation: 'компания / подруга',
   },
   {
     word: 'ראש',
     pronouncing: 'рош',
-    translation: 'голова, глава',
+    translation: 'голова / глава',
   },
   {
     word: 'ממשלה',
@@ -1171,7 +1171,7 @@ export const words: Array<TWord> = [
   {
     word: 'שונה',
     pronouncing: 'шонэ',
-    translation: 'другой, непохожий',
+    translation: 'другой / непохожий',
   },
   {
     word: 'כלכלה',
@@ -1426,7 +1426,7 @@ export const words: Array<TWord> = [
   {
     word: 'תפקיד',
     pronouncing: 'тафкид',
-    translation: 'роль, должность',
+    translation: 'роль / должность',
   },
   {
     word: 'חלב',
