@@ -3,15 +3,16 @@ import React, { useState } from 'react'
 import { WordCard } from '../WordCard'
 import { Btn } from '../Btn'
 import { getWord } from '../../utils/getWord'
-import { words } from '../../data/words'
 import { getCaption } from '../../utils/getCaption'
 import { nextBtnCaption, nextBtnClassName } from '../../config'
 
 import './App.css'
 
-const length = words.length
+type TProps = {
+  length: number,
+}
 
-export const App = () => {
+export const App = ({ length }: TProps) => {
   const [word, setWord] = useState(getWord())
 
   return (

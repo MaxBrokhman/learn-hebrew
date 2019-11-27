@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useLayoutEffect } from 'react'
 
 import { TWord } from '../../data/words'
 import { ListItem } from '../ListItem'
@@ -16,7 +16,7 @@ type TProps = {
 export const WordCard = ({ currentWord }: TProps) => {
   const [isPronouncingShowed, setPronouncingShowed] = useState(false)
   const [isTranslationShowed, setTranslationShowed] = useState(false)
-  useEffect(() => {
+  useLayoutEffect(() => {
     setPronouncingShowed(false)
     setTranslationShowed(false)
   }, [currentWord])
