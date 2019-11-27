@@ -1,5 +1,16 @@
+html, body {
+  height: 100vh;
+}
+
 .container {
   max-width: 500px;
+  position: relative;
+}
+
+.theme-switcher-wrapper {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
 }
 
 .btn.btn-outline-secondary:first-of-type {
