@@ -1483,4 +1483,9 @@ export const words: Array<TWord> = [
     pronouncing: 'кахоль',
     translation: 'синий / голубой',
   },
+  {
+    word: 'גשם',
+    pronouncing: 'гэшэм',
+    translation: 'дождь',
+  },
 ]
