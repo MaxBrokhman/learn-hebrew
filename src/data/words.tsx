@@ -1488,4 +1488,14 @@ export const words: Array<TWord> = [
     pronouncing: 'гэшэм',
     translation: 'дождь',
   },
+  {
+    word: 'לזמן',
+    pronouncing: 'лизман',
+    translation: 'приглашать / заказывать / вызывать',
+  },
+  {
+    word: 'לחזור',
+    pronouncing: 'лахзор',
+    translation: 'возвращаться',
+  },
 ]
