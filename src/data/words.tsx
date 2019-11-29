@@ -1498,4 +1498,279 @@ export const words: Array<TWord> = [
     pronouncing: 'лахзор',
     translation: 'возвращаться',
   },
+  {
+    word: 'פתוח',
+    pronouncing: 'патуах',
+    translation: 'открытый',
+  },
+  {
+    word: 'סגור',
+    pronouncing: 'сагур',
+    translation: 'закрытый',
+  },
+  {
+    word: 'אמבטיה',
+    pronouncing: 'амватия',
+    translation: 'ванная',
+  },
+  {
+    word: 'רהיטים',
+    pronouncing: 'рахитим',
+    translation: 'мебель',
+  },
+  {
+    word: 'בחירות',
+    pronouncing: 'бхирот',
+    translation: 'выборы',
+  },
+  {
+    word: 'מפלגה',
+    pronouncing: 'мифлага',
+    translation: 'партия',
+  },
+  {
+    word: 'בית משפט',
+    pronouncing: 'бэйт мишпат',
+    translation: 'суд',
+  },
+  {
+    word: 'פנוי',
+    pronouncing: 'пануй',
+    translation: 'свободный',
+  },
+  {
+    word: 'אחוז',
+    pronouncing: 'ахуз',
+    translation: 'процент',
+  },
+  {
+    word: 'מוח',
+    pronouncing: 'моах',
+    translation: 'мозг',
+  },
+  {
+    word: 'בגלל',
+    pronouncing: 'биглаль',
+    translation: 'потому что / поскольку',
+  },
+  {
+    word: 'לצייר',
+    pronouncing: 'лэцайэр',
+    translation: 'рисовать',
+  },
+  {
+    word: 'מסיבה',
+    pronouncing: 'мэсиба',
+    translation: 'вечеринка / праздник',
+  },
+  {
+    word: 'לישון',
+    pronouncing: 'лишон',
+    translation: 'спать',
+  },
+  {
+    word: 'ברי',
+    pronouncing: 'бари',
+    translation: 'здоровый',
+  },
+  {
+    word: 'בריאות',
+    pronouncing: 'бриут',
+    translation: 'здоровье',
+  },
+  {
+    word: 'לנוח',
+    pronouncing: 'лануах',
+    translation: 'отдыхать',
+  },
+  {
+    word: 'מטרה',
+    pronouncing: 'матара',
+    translation: 'цель',
+  },
+  {
+    word: 'צפון',
+    pronouncing: 'цафон',
+    translation: 'север',
+  },
+  {
+    word: 'יין',
+    pronouncing: 'яин',
+    translation: 'вино',
+  },
+  {
+    word: 'לצאת',
+    pronouncing: 'лацэт',
+    translation: 'выбраться / выйти',
+  },
+  {
+    word: 'לנגן',
+    pronouncing: 'лэнагэн',
+    translation: 'играть / выступать',
+  },
+  {
+    word: 'לשחות',
+    pronouncing: 'лисхот',
+    translation: 'плавать',
+  },
+  {
+    word: 'לגלוש',
+    pronouncing: 'лиглош',
+    translation: 'кататься / серфить',
+  },
+  {
+    word: 'תוכנה',
+    pronouncing: 'тухна',
+    translation: 'программа',
+  },
+  {
+    word: 'להצליח',
+    pronouncing: 'лэхацлиах',
+    translation: 'преуспеть / справиться',
+  },
+  {
+    word: 'לנהוג',
+    pronouncing: 'линхог',
+    translation: 'водить',
+  },
+  {
+    word: 'חופש',
+    pronouncing: 'хофэш',
+    translation: 'свобода / отпуск / выходные',
+  },
+  {
+    word: 'לשיר',
+    pronouncing: 'лашир',
+    translation: 'петь',
+  },
+  {
+    word: 'לבשל',
+    pronouncing: 'лэвашэль',
+    translation: 'готовить',
+  },
+  {
+    word: 'דבר',
+    pronouncing: 'давар',
+    translation: 'вещь / штука',
+  },
+  {
+    word: 'כרטיס',
+    pronouncing: 'картис',
+    translation: 'билет / карта',
+  },
+  {
+    word: 'אשראי',
+    pronouncing: 'ашрай',
+    translation: 'кредит',
+  },
+  {
+    word: 'מרפסת',
+    pronouncing: 'мирфэсэт',
+    translation: 'балкон',
+  },
+  {
+    word: 'עגבניה',
+    pronouncing: 'агвания',
+    translation: 'помидор',
+  },
+  {
+    word: 'בצל',
+    pronouncing: 'бацаль',
+    translation: 'лук',
+  },
+  {
+    word: 'מלפפון',
+    pronouncing: 'мелафэфон',
+    translation: 'огурец',
+  },
+  {
+    word: 'דף',
+    pronouncing: 'даф',
+    translation: 'страница / лист',
+  },
+  {
+    word: 'שורה',
+    pronouncing: 'шура',
+    translation: 'строка / ряд',
+  },
+  {
+    word: 'טור',
+    pronouncing: 'тур',
+    translation: 'колонка / столбец',
+  },
+  {
+    word: 'אלכסון',
+    pronouncing: 'алахсон',
+    translation: 'диагональ',
+  },
+  {
+    word: 'סוד',
+    pronouncing: 'сод',
+    translation: 'секрет',
+  },
+  {
+    word: 'אתר',
+    pronouncing: 'атар',
+    translation: 'сайт',
+  },
+  {
+    word: 'נקודה',
+    pronouncing: 'нэкуда',
+    translation: 'точка',
+  },
+  {
+    word: 'משתמש',
+    pronouncing: 'миштамэшь',
+    translation: 'использовать / пользоваться',
+  },
+  {
+    word: 'להשתמש',
+    pronouncing: 'лэхиштамэшь',
+    translation: 'использовать / пользоваться',
+  },
+  {
+    word: 'עכבר',
+    pronouncing: 'ахбар',
+    translation: 'мышь',
+  },
+  {
+    word: 'סיסמה',
+    pronouncing: 'сисма',
+    translation: 'пароль / слоган',
+  },
+  {
+    word: 'סיכום',
+    pronouncing: 'сикум',
+    translation: 'итог / резюме',
+  },
+  {
+    word: 'בדיקה',
+    pronouncing: 'бдика',
+    translation: 'проверка / осмотр',
+  },
+  {
+    word: 'לעמוד',
+    pronouncing: 'лаамод',
+    translation: 'стоять / выстоять',
+  },
+  {
+    word: 'שיחה',
+    pronouncing: 'сиха',
+    translation: 'разговор',
+  },
+  {
+    word: 'המשך',
+    pronouncing: 'хамшэх',
+    translation: 'продолжение',
+  },
+  {
+    word: 'בדיוק',
+    pronouncing: 'бэдиук',
+    translation: 'точно / именно',
+  },
+  {
+    word: 'ברירה',
+    pronouncing: 'брира',
+    translation: 'выбор',
+  },
 ]
