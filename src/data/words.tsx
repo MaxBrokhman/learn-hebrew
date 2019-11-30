@@ -1773,4 +1773,59 @@ export const words: Array<TWord> = [
     pronouncing: 'брира',
     translation: 'выбор',
   },
+  {
+    word: 'מאוחר',
+    pronouncing: 'мэюхар',
+    translation: 'поздно',
+  },
+  {
+    word: 'כאן',
+    pronouncing: 'кан',
+    translation: 'здесь',
+  },
+  {
+    word: 'מתחיל',
+    pronouncing: 'матхиль',
+    translation: 'начинать',
+  },
+  {
+    word: 'להתחיל',
+    pronouncing: 'лэхатхиль',
+    translation: 'начинать',
+  },
+  {
+    word: 'עד',
+    pronouncing: 'ад',
+    translation: 'до',
+  },
+  {
+    word: 'לעזור',
+    pronouncing: 'лазор',
+    translation: 'помочь',
+  },
+  {
+    word: 'לשלם',
+    pronouncing: 'лэшалэм',
+    translation: 'платить',
+  },
+  {
+    word: 'עוזר',
+    pronouncing: 'озэр',
+    translation: 'помогать',
+  },
+  {
+    word: 'עומד',
+    pronouncing: 'омэд',
+    translation: 'стоять',
+  },
+  {
+    word: 'קל',
+    pronouncing: 'каль',
+    translation: 'легкий',
+  },
+  {
+    word: 'בכלל',
+    pronouncing: 'бихлаль',
+    translation: 'вообще / совсем',
+  },
 ]
