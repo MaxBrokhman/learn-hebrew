@@ -1828,4 +1828,174 @@ export const words: Array<TWord> = [
     pronouncing: 'бихлаль',
     translation: 'вообще / совсем',
   },
+  {
+    word: 'דרום',
+    pronouncing: 'даром',
+    translation: 'юг',
+  },
+  {
+    word: 'קבוצה',
+    pronouncing: 'квуца',
+    translation: 'группа',
+  },
+  {
+    word: 'מזרח',
+    pronouncing: 'мизрах',
+    translation: 'восток',
+  },
+  {
+    word: 'מערב',
+    pronouncing: 'маарэв',
+    translation: 'запад',
+  },
+  {
+    word: 'גבול',
+    pronouncing: 'гвуль',
+    translation: 'граница',
+  },
+  {
+    word: 'מצרים',
+    pronouncing: 'мицраим',
+    translation: 'Египет',
+  },
+  {
+    word: 'אגם',
+    pronouncing: 'агам',
+    translation: 'озеро',
+  },
+  {
+    word: 'שלג',
+    pronouncing: 'шэлэг',
+    translation: 'снег',
+  },
+  {
+    word: 'שכונה',
+    pronouncing: 'шхуна',
+    translation: 'район / квартал',
+  },
+  {
+    word: 'קדוש',
+    pronouncing: 'кадош',
+    translation: 'святой',
+  },
+  {
+    word: 'אזור',
+    pronouncing: 'эзор',
+    translation: 'зона / область',
+  },
+  {
+    word: 'חיות',
+    pronouncing: 'хайот',
+    translation: 'животные',
+  },
+  {
+    word: 'לשתף',
+    pronouncing: 'лэшатэф',
+    translation: 'делиться',
+  },
+  {
+    word: 'תושבים',
+    pronouncing: 'тошавим',
+    translation: 'жители',
+  },
+  {
+    word: 'כמעט',
+    pronouncing: 'кимат',
+    translation: 'почти',
+  },
+  {
+    word: 'כולם',
+    pronouncing: 'кулам',
+    translation: 'все',
+  },
+  {
+    word: 'להגיע',
+    pronouncing: 'лэхагиа',
+    translation: 'добираться / достигать',
+  },
+  {
+    word: 'מי ש',
+    pronouncing: 'ми шэ',
+    translation: 'кто хочет',
+  },
+  {
+    word: 'לאהוב',
+    pronouncing: 'лээхов',
+    translation: 'любить',
+  },
+  {
+    word: 'רבוע',
+    pronouncing: 'равуа',
+    translation: 'площадь',
+  },
+  {
+    word: 'טבע',
+    pronouncing: 'тэва',
+    translation: 'природа',
+  },
+  {
+    word: 'פה',
+    pronouncing: 'пэ',
+    translation: 'рот',
+  },
+  {
+    word: 'עיניים',
+    pronouncing: 'енаим',
+    translation: 'глаза',
+  },
+  {
+    word: 'כביש',
+    pronouncing: 'квиш',
+    translation: 'шоссе',
+  },
+  {
+    word: 'חוק',
+    pronouncing: 'хок',
+    translation: 'закон',
+  },
+  {
+    word: 'אווירה',
+    pronouncing: 'авира',
+    translation: 'атмосфера',
+  },
+  {
+    word: 'אפילו',
+    pronouncing: 'афилу',
+    translation: 'даже',
+  },
+  {
+    word: 'רעש',
+    pronouncing: 'раш',
+    translation: 'шум',
+  },
+  {
+    word: 'נפלא',
+    pronouncing: 'нифла',
+    translation: 'прекрасный / замечательный',
+  },
+  {
+    word: 'אפשר',
+    pronouncing: 'эфшар',
+    translation: 'возможно',
+  },
+  {
+    word: 'תפילה',
+    pronouncing: 'тфила',
+    translation: 'молитва',
+  },
+  {
+    word: 'למשל',
+    pronouncing: 'лэмашаль',
+    translation: 'например',
+  },
+  {
+    word: 'חילוני',
+    pronouncing: 'хилони',
+    translation: 'светский',
+  },
+  {
+    word: 'אוזניים',
+    pronouncing: 'азнаим',
+    translation: 'уши',
+  },
 ]
