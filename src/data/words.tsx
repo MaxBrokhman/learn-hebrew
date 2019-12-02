@@ -1150,8 +1150,8 @@ export const words: Array<TWord> = [
   },
   {
     word: 'חברה',
-    pronouncing: 'хавэра',
-    translation: 'компания / подруга',
+    pronouncing: 'хавэра / хэвра',
+    translation: 'подруга / компания',
   },
   {
     word: 'ראש',
@@ -1997,5 +1997,160 @@ export const words: Array<TWord> = [
     word: 'אוזניים',
     pronouncing: 'азнаим',
     translation: 'уши',
+  },
+  {
+    word: 'יבשת',
+    pronouncing: 'явэшэт',
+    translation: 'континент',
+  },
+  {
+    word: 'צבע',
+    pronouncing: 'цэва',
+    translation: 'цвет',
+  },
+  {
+    word: 'שמיים',
+    pronouncing: 'шамаим',
+    translation: 'небо',
+  },
+  {
+    word: 'תכלת',
+    pronouncing: 'тхэлэт',
+    translation: 'голубой',
+  },
+  {
+    word: 'רפואה',
+    pronouncing: 'рэфуа',
+    translation: 'медицина',
+  },
+  {
+    word: 'להתפלל',
+    pronouncing: 'лэхитпалэль',
+    translation: 'молиться',
+  },
+  {
+    word: 'קבר',
+    pronouncing: 'кэвэр',
+    translation: 'могила',
+  },
+  {
+    word: 'לאומי',
+    pronouncing: 'лэуми',
+    translation: 'национальный',
+  },
+  {
+    word: 'בחוץ',
+    pronouncing: 'бахуц',
+    translation: 'снаружи',
+  },
+  {
+    word: 'פרה',
+    pronouncing: 'пора',
+    translation: 'корова',
+  },
+  {
+    word: 'עמק',
+    pronouncing: 'эмэк',
+    translation: 'долина',
+  },
+  {
+    word: 'חקלאות',
+    pronouncing: 'хаклаут',
+    translation: 'сельское хозяйство',
+  },
+  {
+    word: 'לבשר',
+    pronouncing: 'лэвасэр',
+    translation: 'сообщить',
+  },
+  {
+    word: 'להכיר',
+    pronouncing: 'лэхакир',
+    translation: 'знакомиться / узнавать',
+  },
+  {
+    word: 'מכיר',
+    pronouncing: 'макир',
+    translation: 'знать / быть знакомым',
+  },
+  {
+    word: 'יותר',
+    pronouncing: 'йотэр',
+    translation: 'больше',
+  },
+  {
+    word: 'לתקשורת',
+    pronouncing: 'латикшорэт',
+    translation: 'связи / коммуникации',
+  },
+  {
+    word: 'מחפש',
+    pronouncing: 'мэхапэс',
+    translation: 'искать',
+  },
+  {
+    word: 'לחפש',
+    pronouncing: 'лэхапэс',
+    translation: 'искать',
+  },
+  {
+    word: 'לקשר',
+    pronouncing: 'лакэшэр',
+    translation: 'связывать / ассоциировать / соединять',
+  },
+  {
+    word: 'רציני',
+    pronouncing: 'рэцини',
+    translation: 'серьезный',
+  },
+  {
+    word: 'היכרויות',
+    pronouncing: 'хэйкируйот',
+    translation: 'находящиеся в отношениях / встречающиеся',
+  },
+  {
+    word: 'נראית',
+    pronouncing: 'нэрэит',
+    translation: 'выглядеть',
+  },
+  {
+    word: 'רזה',
+    pronouncing: 'раза',
+    translation: 'худой',
+  },
+  {
+    word: 'חתיכה',
+    pronouncing: 'хатиха',
+    translation: 'красавица',
+  },
+  {
+    word: 'מטבח',
+    pronouncing: 'митбах',
+    translation: 'кухня',
+  },
+  {
+    word: 'עתיד',
+    pronouncing: 'атид',
+    translation: 'будущее',
+  },
+  {
+    word: 'יחד',
+    pronouncing: 'яхад',
+    translation: 'вместе',
+  },
+  {
+    word: 'פחד',
+    pronouncing: 'пахад',
+    translation: 'страх',
+  },
+  {
+    word: 'כוונה',
+    pronouncing: 'кавана',
+    translation: 'намерение / желание',
+  },
+  {
+    word: 'לחזור',
+    pronouncing: 'лахзор',
+    translation: 'возвращаться',
   },
 ]
