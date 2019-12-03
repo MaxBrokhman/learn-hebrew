@@ -2153,4 +2153,179 @@ export const words: Array<TWord> = [
     pronouncing: 'лахзор',
     translation: 'возвращаться',
   },
+  {
+    word: 'פתק',
+    pronouncing: 'пэтэк',
+    translation: 'записка',
+  },
+  {
+    word: 'מונית',
+    pronouncing: 'монит',
+    translation: 'такси',
+  },
+  {
+    word: 'אחרון',
+    pronouncing: 'ахарон',
+    translation: 'последний',
+  },
+  {
+    word: 'מגיע',
+    pronouncing: 'магиа',
+    translation: 'приходить / заслуживать',
+  },
+  {
+    word: 'משלם',
+    pronouncing: 'мэшалэм',
+    translation: 'платить',
+  },
+  {
+    word: 'מזומן',
+    pronouncing: 'мэзуман',
+    translation: 'наличные',
+  },
+  {
+    word: 'מטלפן ל',
+    pronouncing: 'мэтальпэн лэ',
+    translation: 'звонить',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
 ]
