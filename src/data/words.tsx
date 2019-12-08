@@ -1361,7 +1361,7 @@ export const words: Array<TWord> = [
   {
     word: 'סופר',
     pronouncing: 'софэр',
-    translation: 'писатель',
+    translation: 'писатель / считать',
   },
   {
     word: 'עולה',
@@ -2417,5 +2417,190 @@ export const words: Array<TWord> = [
     word: 'פספוס',
     pronouncing: 'фисфус',
     translation: 'проигрыш / промах',
+  },
+  {
+    word: 'כדי',
+    pronouncing: 'кэдэй',
+    translation: 'чтобы',
+  },
+  {
+    word: 'כש',
+    pronouncing: 'кэш',
+    translation: 'когда',
+  },
+  {
+    word: 'פקק',
+    pronouncing: 'пкак',
+    translation: 'пробка',
+  },
+  {
+    word: 'אם',
+    pronouncing: 'им',
+    translation: 'если',
+  },
+  {
+    word: 'פותח',
+    pronouncing: 'потэах',
+    translation: 'открывать',
+  },
+  {
+    word: 'לאחר',
+    pronouncing: 'лахар',
+    translation: 'опаздывать',
+  },
+  {
+    word: 'מאחר',
+    pronouncing: 'мэахар',
+    translation: 'опаздывать',
+  },
+  {
+    word: 'עונה',
+    pronouncing: 'онэ',
+    translation: 'отвечать',
+  },
+  {
+    word: 'מקשיב',
+    pronouncing: 'макшив',
+    translation: 'слушать',
+  },
+  {
+    word: 'לכן',
+    pronouncing: 'лахэн',
+    translation: 'поэтому',
+  },
+  {
+    word: 'אורז',
+    pronouncing: 'орэз',
+    translation: 'рис',
+  },
+  {
+    word: 'אדמה',
+    pronouncing: 'адама',
+    translation: 'почва / земля',
+  },
+  {
+    word: 'מכין',
+    pronouncing: 'мэхин',
+    translation: 'готовить / делать',
+  },
+  {
+    word: 'תוכן',
+    pronouncing: 'тохэн',
+    translation: 'содержимое / контент',
+  },
+  {
+    word: 'גומר',
+    pronouncing: 'гомэр',
+    translation: 'заканчивать',
+  },
+  {
+    word: 'עייף',
+    pronouncing: 'айэф',
+    translation: 'уставший',
+  },
+  {
+    word: 'להכין',
+    pronouncing: 'лэхахин',
+    translation: 'готовить',
+  },
+  {
+    word: 'להסתכל',
+    pronouncing: 'лэхистакэль',
+    translation: 'смотреть',
+  },
+  {
+    word: 'מצלצל',
+    pronouncing: 'мэцальцэль',
+    translation: 'звонить',
+  },
+  {
+    word: 'להחליף',
+    pronouncing: 'лэхахлиф',
+    translation: 'поменять',
+  },
+  {
+    word: 'מנורה',
+    pronouncing: 'мэнора',
+    translation: 'лампа',
+  },
+  {
+    word: 'מסתכל',
+    pronouncing: 'мистакэль',
+    translation: 'смотреть',
+  },
+  {
+    word: 'להישאר',
+    pronouncing: 'лэхишаэр',
+    translation: 'оставаться',
+  },
+  {
+    word: 'קודם',
+    pronouncing: 'кодэм',
+    translation: 'сначала / сперва',
+  },
+  {
+    word: 'אחר כך',
+    pronouncing: 'ахар ках',
+    translation: 'потом / далее',
+  },
+  {
+    word: 'לסדר',
+    pronouncing: 'лэсадэр',
+    translation: 'убирать / приводить в порядок',
+  },
+  {
+    word: 'מסדר',
+    pronouncing: 'мэсадэр',
+    translation: 'убирать / приводить в порядок',
+  },
+  {
+    word: 'מבשל',
+    pronouncing: 'мэвашэль',
+    translation: 'готовить',
+  },
+  {
+    word: 'מקלחת',
+    pronouncing: 'миклахат',
+    translation: 'душ',
+  },
+  {
+    word: 'מלצר',
+    pronouncing: 'мэльцар',
+    translation: 'официант',
+  },
+  {
+    word: 'בודק',
+    pronouncing: 'бодэк',
+    translation: 'проверять / осмотреть',
+  },
+  {
+    word: 'לבדוק',
+    pronouncing: 'ливдок',
+    translation: 'проверять / осмотреть',
+  },
+  {
+    word: 'לנוח',
+    pronouncing: 'лануах',
+    translation: 'отдыхать',
+  },
+  {
+    word: 'אתמול',
+    pronouncing: 'этмоль',
+    translation: 'вчера',
+  },
+  {
+    word: 'מעורר',
+    pronouncing: 'мэорэр',
+    translation: 'пробуждать / стимулировать',
+  },
+  {
+    word: 'לספור',
+    pronouncing: 'лиспор',
+    translation: 'считать',
+  },
+  {
+    word: 'ספירה',
+    pronouncing: 'сфира',
+    translation: 'подсчет',
   },
 ]
