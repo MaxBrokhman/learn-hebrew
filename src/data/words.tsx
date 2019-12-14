@@ -2603,4 +2603,284 @@ export const words: Array<TWord> = [
     pronouncing: 'сфира',
     translation: 'подсчет',
   },
+  {
+    word: 'לפתוח',
+    pronouncing: 'лифтоах',
+    translation: 'открывать / включать',
+  },
+  {
+    word: 'תואר',
+    pronouncing: 'тоар',
+    translation: 'степень / титул',
+  },
+  {
+    word: 'תוכנית',
+    pronouncing: 'тохнит',
+    translation: 'программа / план',
+  },
+  {
+    word: 'פחות',
+    pronouncing: 'пахот',
+    translation: 'меньше',
+  },
+  {
+    word: 'כאשר',
+    pronouncing: 'каашэр',
+    translation: 'когда',
+  },
+  {
+    word: 'לקחת',
+    pronouncing: 'лакахат',
+    translation: 'брать / принимать',
+  },
+  {
+    word: 'לוקח',
+    pronouncing: 'локэах',
+    translation: 'брать / принимать',
+  },
+  {
+    word: 'חיוך',
+    pronouncing: 'хиюх',
+    translation: 'улыбка',
+  },
+  {
+    word: 'שמחה',
+    pronouncing: 'шэмаха',
+    translation: 'радость',
+  },
+  {
+    word: 'טס',
+    pronouncing: 'тас',
+    translation: 'лететь',
+  },
+  {
+    word: 'לשים',
+    pronouncing: 'ласим',
+    translation: 'класть',
+  },
+  {
+    word: 'לפני ש',
+    pronouncing: 'лифнэй шэ',
+    translation: 'перед тем как',
+  },
+  {
+    word: 'מספר',
+    pronouncing: 'мэсапэр',
+    translation: 'рассказывать',
+  },
+  {
+    word: 'מזג',
+    pronouncing: 'мэзэг',
+    translation: 'характер',
+  },
+  {
+    word: 'קופה',
+    pronouncing: 'купа',
+    translation: 'касса',
+  },
+  {
+    word: 'מכיר',
+    pronouncing: 'макир',
+    translation: 'знать',
+  },
+  {
+    word: 'מתחתן',
+    pronouncing: 'митхатэн',
+    translation: 'жениться / выходить замуж',
+  },
+  {
+    word: 'מתקשר',
+    pronouncing: 'миткашэр',
+    translation: 'звонить',
+  },
+  {
+    word: 'מדליק',
+    pronouncing: 'мадлик',
+    translation: 'включать / заводить',
+  },
+  {
+    word: 'בחו"ל',
+    pronouncing: 'бахуль',
+    translation: 'заграницей',
+  },
+  {
+    word: 'אחרי ש',
+    pronouncing: 'ахарэй шэ',
+    translation: 'после того, как',
+  },
+  {
+    word: 'שוטף',
+    pronouncing: 'шотэф',
+    translation: 'мыть',
+  },
+  {
+    word: 'כלים',
+    pronouncing: 'калим',
+    translation: 'посуда',
+  },
+  {
+    word: 'שימו לב',
+    pronouncing: 'симу лэв',
+    translation: 'внимание!',
+  },
+  {
+    word: 'נייד',
+    pronouncing: 'наяд',
+    translation: 'сотовый телефон',
+  },
+  {
+    word: 'עצם',
+    pronouncing: 'эцэм',
+    translation: 'кость',
+  },
+  {
+    word: 'לימוד',
+    pronouncing: 'лимод',
+    translation: 'занятие',
+  },
+  {
+    word: 'טבעת',
+    pronouncing: 'тават',
+    translation: 'кольцо',
+  },
+  {
+    word: 'כדור',
+    pronouncing: 'кадур',
+    translation: 'мяч',
+  },
+  {
+    word: 'מפסיק',
+    pronouncing: 'мафсик',
+    translation: 'останавливаться / переставать',
+  },
+  {
+    word: 'מקבל',
+    pronouncing: 'мэкабэль',
+    translation: 'получать / принимать',
+  },
+  {
+    word: 'מבקש',
+    pronouncing: 'мэвакэш',
+    translation: 'просить',
+  },
+  {
+    word: 'בוכה',
+    pronouncing: 'бохэ',
+    translation: 'плакать',
+  },
+  {
+    word: 'די',
+    pronouncing: 'дай',
+    translation: 'хватит / довольно',
+  },
+  {
+    word: 'יבשה',
+    pronouncing: 'явэша',
+    translation: 'сухой',
+  },
+  {
+    word: 'סיבה',
+    pronouncing: 'сиба',
+    translation: 'причина',
+  },
+  {
+    word: 'ריבה',
+    pronouncing: 'риба',
+    translation: 'джем',
+  },
+  {
+    word: 'דג',
+    pronouncing: 'даг',
+    translation: 'рыба',
+  },
+  {
+    word: 'מעדיף',
+    pronouncing: 'маадиф',
+    translation: 'предпочитать',
+  },
+  {
+    word: 'שולח',
+    pronouncing: 'шолэах',
+    translation: 'посылать / отправлять',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
+  {
+    word: '',
+    pronouncing: '',
+    translation: '',
+  },
 ]
