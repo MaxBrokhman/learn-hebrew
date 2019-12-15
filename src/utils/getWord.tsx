@@ -1,5 +1,3 @@
-import random from 'lodash/random'
+import { TWord } from '../data/words'
 
-import { words } from '../data/words'
-
-export const getWord = () => words[random(0, words.length - 1)]
+export const getWord = (words: Array<TWord>, idx: number) => words[idx]
