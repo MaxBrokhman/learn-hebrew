@@ -987,7 +987,7 @@ export const words: Array<TWord> = [
   {
     word: 'חסר',
     pronouncing: 'хасэр',
-    translation: 'отсутствует / не хватает',
+    translation: 'отсутствовать / не хватает',
   },
   {
     word: 'זקן',
@@ -2656,7 +2656,7 @@ export const words: Array<TWord> = [
   },
   {
     word: 'עצבני',
-    pronouncing: 'ацвани',
+    pronouncing: 'ацбани',
     translation: 'нервный',
   },
   {
@@ -2665,8 +2665,98 @@ export const words: Array<TWord> = [
     translation: 'ждать',
   },
   {
-    word: 'מסמכים',
-    pronouncing: 'мисмахим',
-    translation: 'документы',
+    word: 'תעשייה',
+    pronouncing: 'таасия',
+    translation: 'промышленность / индустрия',
+  },
+  {
+    word: 'באמת',
+    pronouncing: 'бээмэт',
+    translation: 'действительно',
+  },
+  {
+    word: 'ניתוח',
+    pronouncing: 'нитуах',
+    translation: 'операция',
+  },
+  {
+    word: 'המלצה',
+    pronouncing: 'хамлаца',
+    translation: 'рекомендация',
+  },
+  {
+    word: 'חינוך',
+    pronouncing: 'хинух',
+    translation: 'образование',
+  },
+  {
+    word: 'מכללה',
+    pronouncing: 'михлала',
+    translation: 'колледж',
+  },
+  {
+    word: 'מעט',
+    pronouncing: 'мэат',
+    translation: 'мало',
+  },
+  {
+    word: 'מבלה',
+    pronouncing: 'мэвалэ',
+    translation: 'проводить время / наслаждаться',
+  },
+  {
+    word: 'מסמך',
+    pronouncing: 'мисмах',
+    translation: 'документ',
+  },
+  {
+    word: 'סמל',
+    pronouncing: 'сэмэль',
+    translation: 'символ / герб',
+  },
+  {
+    word: 'אצל',
+    pronouncing: 'эцэль',
+    translation: 'у (кого-то)',
+  },
+  {
+    word: 'במשך',
+    pronouncing: 'бэмэшэх',
+    translation: 'в течение',
+  },
+  {
+    word: 'מספיק',
+    pronouncing: 'маспик',
+    translation: 'достаточно',
+  },
+  {
+    word: 'מלון',
+    pronouncing: 'малон',
+    translation: 'отель',
+  },
+  {
+    word: 'מלח',
+    pronouncing: 'мэлах',
+    translation: 'соль',
+  },
+  {
+    word: 'פתאום',
+    pronouncing: 'питом',
+    translation: 'внезапно / вдруг',
+  },
+  {
+    word: 'עור',
+    pronouncing: 'ор',
+    translation: 'кожа',
+  },
+  {
+    word: 'כדאי',
+    pronouncing: 'кэдай',
+    translation: 'стоит / следует',
+  },
+  {
+    word: 'מתאים',
+    pronouncing: 'матим',
+    translation: 'подходящий / соответствующий',
   },
 ]

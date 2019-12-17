@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/learn-hebrew/static/css/main.acbb67d9.chunk.css",
-    "main.js": "/learn-hebrew/static/js/main.686f8be5.chunk.js",
-    "main.js.map": "/learn-hebrew/static/js/main.686f8be5.chunk.js.map",
+    "main.js": "/learn-hebrew/static/js/main.616e758c.chunk.js",
+    "main.js.map": "/learn-hebrew/static/js/main.616e758c.chunk.js.map",
     "runtime-main.js": "/learn-hebrew/static/js/runtime-main.b72eeca4.js",
     "runtime-main.js.map": "/learn-hebrew/static/js/runtime-main.b72eeca4.js.map",
     "static/js/2.e963bf46.chunk.js": "/learn-hebrew/static/js/2.e963bf46.chunk.js",
     "static/js/2.e963bf46.chunk.js.map": "/learn-hebrew/static/js/2.e963bf46.chunk.js.map",
     "index.html": "/learn-hebrew/index.html",
-    "precache-manifest.5b33ef58dd1ce89e332a3dd13310f6df.js": "/learn-hebrew/precache-manifest.5b33ef58dd1ce89e332a3dd13310f6df.js",
+    "precache-manifest.055511b9eab36eb8665ceee9127743d9.js": "/learn-hebrew/precache-manifest.055511b9eab36eb8665ceee9127743d9.js",
     "service-worker.js": "/learn-hebrew/service-worker.js",
     "static/css/main.acbb67d9.chunk.css.map": "/learn-hebrew/static/css/main.acbb67d9.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b72eeca4.js",
     "static/js/2.e963bf46.chunk.js",
     "static/css/main.acbb67d9.chunk.css",
-    "static/js/main.686f8be5.chunk.js"
+    "static/js/main.616e758c.chunk.js"
   ]
 }
