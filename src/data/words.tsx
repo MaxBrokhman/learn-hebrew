@@ -2759,4 +2759,95 @@ export const words: Array<TWord> = [
     pronouncing: 'матим',
     translation: 'подходящий / соответствующий',
   },
+  // Урок 18
+  {
+    word: 'היה',
+    pronouncing: 'хая',
+    translation: 'был',
+  },
+  {
+    word: 'היתה',
+    pronouncing: 'хайта',
+    translation: 'была',
+  },
+  {
+    word: 'היו',
+    pronouncing: 'хайу',
+    translation: 'были',
+  },
+  {
+    word: 'פעם',
+    pronouncing: 'паам',
+    translation: 'однажды',
+  },
+  {
+    word: 'שירות',
+    pronouncing: 'ширут',
+    translation: 'обслуживание',
+  },
+  {
+    word: 'רגיל',
+    pronouncing: 'рагиль',
+    translation: 'обычный / нормальный',
+  },
+  {
+    word: 'רע',
+    pronouncing: 'ра',
+    translation: 'плохой',
+  },
+  {
+    word: 'נהדר',
+    pronouncing: 'нэхэдар',
+    translation: 'отлично',
+  },
+  {
+    word: 'שיער',
+    pronouncing: 'шэйар',
+    translation: 'волосы / прическа',
+  },
+  {
+    word: 'מעלית',
+    pronouncing: 'маалит',
+    translation: 'лифт',
+  },
+  {
+    word: 'תבלינים',
+    pronouncing: 'тавлиним',
+    translation: 'приправы',
+  },
+  {
+    word: 'לחמנייה',
+    pronouncing: 'лахамния',
+    translation: 'булочка',
+  },
+  {
+    word: 'מנטה',
+    pronouncing: 'мэнта',
+    translation: 'мята',
+  },
+  {
+    word: 'עננים',
+    pronouncing: 'ананим',
+    translation: 'облака',
+  },
+  {
+    word: 'שלשום',
+    pronouncing: 'шэльшум',
+    translation: 'позавчера',
+  },
+  {
+    word: 'שעבר',
+    pronouncing: 'шавар',
+    translation: 'прошлый',
+  },
+  {
+    word: 'מבצע',
+    pronouncing: 'мэвца',
+    translation: 'распродажа',
+  },
+  {
+    word: 'מקולקל',
+    pronouncing: 'мэкулькаль',
+    translation: 'быть сломанным',
+  },
 ]
