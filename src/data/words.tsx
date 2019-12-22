@@ -2850,4 +2850,70 @@ export const words: Array<TWord> = [
     pronouncing: 'мэкулькаль',
     translation: 'быть сломанным',
   },
+  //Урок 19
+  {
+    word: 'ריח',
+    pronouncing: 'рэйах',
+    translation: 'запах',
+  },
+  {
+    word: 'מתגעגע',
+    pronouncing: 'митгагэа',
+    translation: 'скучать',
+  },
+  {
+    word: 'חתונה',
+    pronouncing: 'хатуна',
+    translation: 'свадьба',
+  },
+  {
+    word: 'חתן',
+    pronouncing: 'хатан',
+    translation: 'жених',
+  },
+  {
+    word: 'כלה',
+    pronouncing: 'кала',
+    translation: 'невеста',
+  },
+  {
+    word: 'בטח',
+    pronouncing: 'бэтах',
+    translation: 'конечно / должно быть',
+  },
+  {
+    word: 'כמובן',
+    pronouncing: 'кэмуван',
+    translation: 'конечно / безусловно',
+  },
+  {
+    word: 'להרוג',
+    pronouncing: 'лэхарог',
+    translation: 'убить',
+  },
+  {
+    word: 'חלבון',
+    pronouncing: 'хэльбон',
+    translation: 'протеин',
+  },
+  {
+    word: 'צמחוני',
+    pronouncing: 'цимхони',
+    translation: 'вегетарианский',
+  },
+  {
+    word: 'מסביר',
+    pronouncing: 'масбир',
+    translation: 'объяснять',
+  },
+  {
+    word: 'סוג',
+    pronouncing: 'суг',
+    translation: 'вид / тип',
+  },
+  {
+    word: 'מאכל',
+    pronouncing: 'маэхаль',
+    translation: 'блюдо',
+  },
 ]
