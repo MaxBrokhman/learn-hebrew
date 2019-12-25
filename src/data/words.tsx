@@ -2916,4 +2916,40 @@ export const words: Array<TWord> = [
     pronouncing: 'маэхаль',
     translation: 'блюдо',
   },
+  // Урок 20
+  {
+    word: 'אז',
+    pronouncing: 'аз',
+    translation: 'тогда',
+  },
+  {
+    word: 'צמא',
+    pronouncing: 'цамэ',
+    translation: 'испытывать жажду',
+  },
+  {
+    word: 'שותף',
+    pronouncing: 'шутаф',
+    translation: 'партнер',
+  },
+  {
+    word: 'חדר כושר',
+    pronouncing: 'хадар кошэр',
+    translation: 'спортзал',
+  },
+  {
+    word: 'סדרות',
+    pronouncing: 'сэдарот',
+    translation: 'сериалы / шоу',
+  },
+  {
+    word: 'אסור',
+    pronouncing: 'асур',
+    translation: 'запрещено',
+  },
+  {
+    word: 'מציע',
+    pronouncing: 'мация',
+    translation: 'предлагать',
+  },
 ]
