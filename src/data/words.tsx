@@ -2952,4 +2952,39 @@ export const words: Array<TWord> = [
     pronouncing: 'мация',
     translation: 'предлагать',
   },
+  {
+    word: 'טכנאי',
+    pronouncing: 'тэхэнай',
+    translation: 'техник',
+  },
+  {
+    word: 'קול',
+    pronouncing: 'коль',
+    translation: 'звук / голос',
+  },
+  {
+    word: 'בכלל',
+    pronouncing: 'бихлаль',
+    translation: 'вообще / совсем',
+  },
+  {
+    word: 'אחריות',
+    pronouncing: 'ахарают',
+    translation: 'обязанности',
+  },
+  {
+    word: 'נוח',
+    pronouncing: 'ноах',
+    translation: 'удобно',
+  },
+  {
+    word: 'רושם',
+    pronouncing: 'рошэм',
+    translation: 'записывать',
+  },
+  {
+    word: 'מקווה',
+    pronouncing: 'мэкава',
+    translation: 'надеяться',
+  },
 ]
