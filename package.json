@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "change": "rm -R docs && mv 'build' 'docs'",
-    "words": "git add . && git commit -m 'words updated' && git push origin master"
+    "words": "git add . && git commit -m \"words updated\" && git push origin master"
   },
   "eslintConfig": {
     "extends": "react-app"
