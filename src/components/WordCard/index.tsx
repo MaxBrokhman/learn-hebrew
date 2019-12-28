@@ -1,4 +1,4 @@
-import React, { useState, useLayoutEffect } from 'react'
+import React from 'react'
 
 import { TWord } from '../../data/words'
 import { ListItem } from '../ListItem'
@@ -8,25 +8,26 @@ import {
   showPronouncingBtn, 
   firstListItemClassName,
 } from '../../config'
+import { useWordCardButtons } from './hooks'
 
 type TProps = {
   currentWord: TWord,
 }
 
 export const WordCard = ({ currentWord }: TProps) => {
-  const [isPronouncingShowed, setPronouncingShowed] = useState(false)
-  const [isTranslationShowed, setTranslationShowed] = useState(false)
-  useLayoutEffect(() => {
-    setPronouncingShowed(false)
-    setTranslationShowed(false)
-  }, [currentWord])
-
   const {
     word,
     pronouncing,
     translation,
     sex,
   } = currentWord
+
+  const {
+    isPronouncingShowed,
+    isTranslationShowed,
+    setPronouncingShowed,
+    setTranslationShowed,
+  } = useWordCardButtons(currentWord)
 
   return (
     <div className='card'>
