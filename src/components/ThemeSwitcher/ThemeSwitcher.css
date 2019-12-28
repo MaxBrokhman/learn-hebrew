@@ -1,5 +1,9 @@
 .theme-switcher-wrapper {
   position: absolute;
   left: 1rem;
-  top: 1rem;
+  top: 0.5rem;
+}
+
+.theme-switcher-btn {
+  width: 5.5rem;
 }

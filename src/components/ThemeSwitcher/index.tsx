@@ -27,7 +27,7 @@ export const ThemeSwitcher = () => {
           localStorage.setItem('learn-hebrew-theme', themeToSave)
           toggleTheme(!isDarkTheme)
         }}
-        className='btn btn-dark'
+        className='btn btn-dark theme-switcher-btn'
         value={isDarkTheme ? 'בהיר' : 'כהה'}
       />
       {isDarkTheme && <style media='screen'>
