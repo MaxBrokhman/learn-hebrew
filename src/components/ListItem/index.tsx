@@ -1,5 +1,7 @@
 import React from 'react'
 
+import './ListItem.css'
+
 type TProps = {
   value: string,
   className?: string,

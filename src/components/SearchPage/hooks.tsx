@@ -4,10 +4,10 @@ import filter from 'lodash/filter'
 import slice from 'lodash/slice'
 import get from 'lodash/get'
 
-import { words } from '../../data/words'
+import { TWord } from '../../data/words'
 import { isSearched } from '../../utils'
 
-export const useSearch = () => {
+export const useSearch = (words: Array<TWord>) => {
   const [state, setState] = useState({
     words,
     searchTerm: '',

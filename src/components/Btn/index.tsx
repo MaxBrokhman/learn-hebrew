@@ -1,5 +1,7 @@
 import React from 'react'
 
+import './Btn.css'
+
 type TProps = {
   className: string,
   onClick: () => void,

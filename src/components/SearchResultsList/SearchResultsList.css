@@ -3,3 +3,7 @@
   margin: 0;
   list-style: none;
 }
+
+.search-results-list__item {
+  margin-bottom: 1rem;
+}

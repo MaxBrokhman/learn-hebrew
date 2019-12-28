@@ -14,7 +14,7 @@ type TProps = {
 export const SearchResultsList = ({ wordsToShow }: TProps) => (
   <ul className='search-results-list'>
     {map(wordsToShow, (word) => (
-      <li key={word.word}>
+      <li key={word.word} className='search-results-list__item'>
         <WordCard currentWord={word} />
       </li>
     ))}

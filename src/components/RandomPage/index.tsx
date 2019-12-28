@@ -4,13 +4,17 @@ import { WordCard } from '../WordCard'
 import { Btn } from '../Btn'
 import { nextBtnCaption, nextBtnClassName } from '../../config'
 import { useWords } from './hooks'
+import { TWord } from '../../data/words'
 
-export const RandomPage = () => {
+type TProps ={
+  words: Array<TWord>,
+}
+
+export const RandomPage = ({ words }: TProps) => {
   const {
     currentWord,
     clickHandler,
-  } = useWords()
-  
+  } = useWords(words)
   return (
     <Fragment>
       <WordCard currentWord={currentWord} />

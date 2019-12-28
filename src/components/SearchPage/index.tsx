@@ -9,13 +9,18 @@ import { SearchInput } from '../SearchInput'
 import { SelectSearchType } from '../SelectSearchType'
 import { SearchResultsList } from '../SearchResultsList'
 import { useSearch } from './hooks'
+import { TWord } from '../../data/words'
 
-export const SearchPage = () => {
+type TProps = {
+  words: Array<TWord>,
+}
+
+export const SearchPage = ({ words }: TProps) => {
   const {
     setState,
     wordsToShow,
     search,
-  } = useSearch()
+  } = useSearch(words)
   const inputEl = useRef<HTMLInputElement>(null)
 
   const onSelect = useCallback((evt: BaseSyntheticEvent) => {

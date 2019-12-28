@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react'
 
 import { Btn } from '../Btn'
 
+import './ThemeSwitcher.css'
+
 const darkThemeCss = `
   html {
     background-color: #fefefe;
@@ -12,7 +14,6 @@ const darkThemeCss = `
   }
 `
 export const ThemeSwitcher = () => {
-  
   const [isDarkTheme, toggleTheme] = useState(false)
   useEffect(() => {
     const savedTheme = localStorage.getItem('learn-hebrew-theme')
