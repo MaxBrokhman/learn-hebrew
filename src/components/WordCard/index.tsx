@@ -25,6 +25,7 @@ export const WordCard = ({ currentWord }: TProps) => {
     word,
     pronouncing,
     translation,
+    sex,
   } = currentWord
 
   return (
@@ -43,6 +44,7 @@ export const WordCard = ({ currentWord }: TProps) => {
           onClick={() => setTranslationShowed(true)}
           btnValue={showTranslationBtn}
         />
+        {sex && <ListItem value={sex} />}
       </ul>
     </div>
   )

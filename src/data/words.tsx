@@ -2,6 +2,7 @@ export type TWord = {
   word: string,
   pronouncing: string,
   translation: string,
+  sex?: string,
 }
 
 export const words: Array<TWord> = [
