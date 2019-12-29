@@ -8,7 +8,7 @@ import { TWord } from '../../data/words'
 import './SearchResultsList.css'
 
 type TProps = {
-  wordsToShow: Array<TWord>,
+  wordsToShow?: Array<TWord>,
 }
 
 export const SearchResultsList = ({ wordsToShow }: TProps) => (

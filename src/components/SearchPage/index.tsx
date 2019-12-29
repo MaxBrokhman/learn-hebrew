@@ -39,7 +39,7 @@ export const SearchPage = ({ words }: TProps) => {
         <SelectSearchType onChange={onSelect} />
         <SearchInput search={search} setState={setState} ref={inputEl} />
       </div>
-      {Boolean(search.length) && <SearchResultsList wordsToShow={wordsToShow} />}
+      <SearchResultsList wordsToShow={wordsToShow} />
     </Fragment>
   )
 }

@@ -12,8 +12,8 @@ export const useWords = (words: Array<TWord>) => {
     currentWords: getNewArrayWithout(words, initialIdx),
     currentWord: getWord(words, initialIdx),
   })
-  const { currentWord, currentWords } = state
 
+  const { currentWord, currentWords } = state
   const clickHandler = () => {
     setState(() => {
       if(currentWords.length < 1){

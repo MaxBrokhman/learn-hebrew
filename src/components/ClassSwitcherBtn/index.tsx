@@ -11,7 +11,7 @@ export const ClassSwitcherBtn = ({ onChange }: TProps) => (
     className="input-group-text class-switcher" 
     onChange={onChange}
   >
-    <option value='class5'>כיתה 5</option>
     <option value='class4'>כיתה 4</option>
+    <option value='class5'>כיתה 5</option>
   </select>
 )

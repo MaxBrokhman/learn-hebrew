@@ -1,11 +1,7 @@
 import { useState } from 'react'
 
-import filter from 'lodash/filter'
-import slice from 'lodash/slice'
-import get from 'lodash/get'
-
 import { TWord } from '../../data/words'
-import { isSearched } from '../../utils'
+import { getSearchedWords } from '../../utils'
 
 export const useSearch = (words: Array<TWord>) => {
   const [state, setState] = useState({
@@ -14,15 +10,15 @@ export const useSearch = (words: Array<TWord>) => {
     searchType: 'translation',
   })
 
-  const searchedWords = filter(words, (word) => {
-    const normalizedInput = state.searchTerm.toLowerCase().trim()
-    const searchedWord = get(word, state.searchType)
-    return isSearched(searchedWord, normalizedInput)
-  }) 
-
+  if (state.searchTerm.length) {
+    return {
+      setState,
+      wordsToShow: getSearchedWords(words, state.searchTerm, state.searchType),
+      search: state.searchTerm,
+    }
+  }
   return {
     setState,
-    wordsToShow: slice(searchedWords, 0, 10),
     search: state.searchTerm,
   }
 }

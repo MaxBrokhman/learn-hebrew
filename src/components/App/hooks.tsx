@@ -5,7 +5,7 @@ import get from 'lodash/get'
 import { wordsMapper } from '../../data'
 
 export const useClassWords = () => {
-  const [currentWords, setWords] = useState(get(wordsMapper, 'class5'))
+  const [currentWords, setWords] = useState(get(wordsMapper, 'class4'))
   useEffect(() => {
     const choosedWords = localStorage.getItem('learn-hebrew-words')
     if(choosedWords) setWords(get(wordsMapper, choosedWords))
