@@ -8,12 +8,16 @@ import {
   normalizeString,
 } from './'
 
-export const getSearchedWords = (words: Array<TWord>, term: string, type: string) => slice(
-  filter(words, (word) => {
-    const normalizedInput = normalizeString(term)
-    const searchedWord = get(word, type)
-    return isSearched(searchedWord, normalizedInput)
-  }),
-  0,
-  10,
-)
+export const getSearchedWords = (words: Array<TWord>, term: string, type: string) => {
+  return term.length 
+    ? slice(
+        filter(words, (word) => {
+          const normalizedInput = normalizeString(term)
+          const searchedWord = get(word, type)
+          return isSearched(searchedWord, normalizedInput)
+        }),
+        0,
+        10,
+      )
+    : []
+}

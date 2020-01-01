@@ -1,43 +1,27 @@
-import React, { 
-  Fragment, 
-  BaseSyntheticEvent,
-  useCallback,
-  useRef,
-} from 'react'
+import React, { Fragment } from 'react'
+import { Link } from 'react-router-dom'
 
+import { Arrow } from '../Arrow'
 import { SearchInput } from '../SearchInput'
 import { SelectSearchType } from '../SelectSearchType'
 import { SearchResultsList } from '../SearchResultsList'
 import { useSearch } from './hooks'
-import { TWord } from '../../data/words'
 
-type TProps = {
-  words: Array<TWord>,
-}
-
-export const SearchPage = ({ words }: TProps) => {
+export const SearchPage = () => {
   const {
-    setState,
+    inputEl,
+    searchTypeSelectHandler,
     wordsToShow,
-    search,
-  } = useSearch(words)
-  const inputEl = useRef<HTMLInputElement>(null)
-
-  const onSelect = useCallback((evt: BaseSyntheticEvent) => {
-    const { value } = evt.target
-    inputEl.current && inputEl.current.focus()
-    setState((state) => {
-    return {
-      ...state,
-      searchType: value,
-    }})
-  }, [inputEl, setState])
+  } = useSearch()
 
   return (
     <Fragment>
+      <Link to='/'>
+        <Arrow className={'left'} />
+      </Link>
       <div className="input-group mb-3">
-        <SelectSearchType onChange={onSelect} />
-        <SearchInput search={search} setState={setState} ref={inputEl} />
+        <SelectSearchType onChange={searchTypeSelectHandler} />
+        <SearchInput ref={inputEl} />
       </div>
       <SearchResultsList wordsToShow={wordsToShow} />
     </Fragment>

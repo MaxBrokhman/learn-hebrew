@@ -1,24 +1,23 @@
-import { useState } from 'react'
+import { BaseSyntheticEvent, useRef } from 'react'
 
-import { TWord } from '../../data/words'
-import { getSearchedWords } from '../../utils'
+import { useAppContext } from '../../reducer' 
 
-export const useSearch = (words: Array<TWord>) => {
-  const [state, setState] = useState({
-    words,
-    searchTerm: '',
-    searchType: 'translation',
-  })
-
-  if (state.searchTerm.length) {
-    return {
-      setState,
-      wordsToShow: getSearchedWords(words, state.searchTerm, state.searchType),
-      search: state.searchTerm,
-    }
+export const useSearch = () => {
+  const { state, dispatch } = useAppContext()
+  const inputEl = useRef<HTMLInputElement>(null)
+  const searchTypeSelectHandler = (evt: BaseSyntheticEvent) => {
+    const { value } = evt.target
+    inputEl.current && inputEl.current.focus()
+    dispatch({
+      type: 'SEARCH_TYPE_TOGGLE',
+      payload: value,
+    })
   }
+  const { wordsToShow } = state
+
   return {
-    setState,
-    search: state.searchTerm,
+    inputEl,
+    searchTypeSelectHandler,
+    wordsToShow,
   }
 }

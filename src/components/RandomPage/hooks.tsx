@@ -1,37 +1,31 @@
-import { useState } from 'react'
+import { getWordsWithRandom } from '../../utils'
+import { useAppContext } from '../../reducer' 
 
-import random from 'lodash/random'
+export const useWords = () => {
+  const { 
+    state: {
+      currentWords,
+      words,
+    },
+    dispatch,
+  } = useAppContext()
 
-import { getNewArrayWithout, getWord } from '../../utils'
-import { TWord } from '../../data/words'
-
-export const useWords = (words: Array<TWord>) => {
-  const { length } = words
-  const initialIdx = random(0, length - 1)
-  const [state, setState] = useState({
-    currentWords: getNewArrayWithout(words, initialIdx),
-    currentWord: getWord(words, initialIdx),
-  })
-
-  const { currentWord, currentWords } = state
-  const clickHandler = () => {
-    setState(() => {
-      if(currentWords.length < 1){
-        const newIdx = random(0, words.length - 1)
-        return {
-          currentWords: getNewArrayWithout(words, newIdx),
-          currentWord: getWord(words, newIdx),
-        }
-      }
-      const currentIdx = random(0, currentWords.length - 1)
-      return {
-        currentWords: getNewArrayWithout(currentWords, currentIdx),
-        currentWord: getWord(currentWords, currentIdx),
-    }})
+  const nextBtnClickHandler = () => {
+    if (!currentWords.length) {
+      dispatch({
+        type: 'CURRENT_WORDS_UPDATE',
+        payload: getWordsWithRandom(words)
+      })
+    } else {
+      dispatch({
+        type: 'CURRENT_WORDS_UPDATE',
+        payload: getWordsWithRandom(currentWords)
+      })
+    }
   }
 
   return {
-    currentWord,
-    clickHandler,
+    nextBtnClickHandler,
+    words,
   }
 }

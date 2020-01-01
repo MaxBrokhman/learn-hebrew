@@ -1,35 +1,16 @@
-import React, { 
-  BaseSyntheticEvent, 
-  RefObject,
-  forwardRef,
-} from 'react'
+import React, { forwardRef } from 'react'
 
-import { TSetState } from '../SearchPage/types'
+import { useSearchInput } from './hooks'
 
-type TProps = {
-  search: string,
-  setState: TSetState,
-  ref?: RefObject<any>,
-}
-
-export const SearchInput = forwardRef<HTMLInputElement, TProps>(({ 
-  search, 
-  setState, 
-}: TProps, ref) => (
+export const SearchInput = forwardRef<HTMLInputElement>((props, ref) => {
+  const { searchTerm, searchInputHandler } = useSearchInput()
+  return (
   <input 
     type="text" 
     className="form-control" 
     aria-label="Sizing example input" 
     aria-describedby="inputGroup-sizing-default" 
-    value={search}
+    value={searchTerm}
     ref={ref}
-    onChange={(evt: BaseSyntheticEvent) => {
-      const { value } = evt.target
-      setState((state) => {
-      return {
-        ...state,
-        searchTerm: value,
-      }
-    })
-  }} />
-))
+    onChange={searchInputHandler} />
+)})

@@ -1,6 +1,6 @@
-import { TWord } from './'
+import { getMappedWords } from '../utils'
 
-export const wordsClass4: Array<TWord> = [
+const words = [
   {
     word: 'נחמד',
     pronouncing: 'нэхмад',
@@ -1714,11 +1714,6 @@ export const wordsClass4: Array<TWord> = [
     word: 'לעמוד',
     pronouncing: 'лаамод',
     translation: 'стоять / выстоять',
-  },
-  {
-    word: 'שיחה',
-    pronouncing: 'сиха',
-    translation: 'разговор',
   },
   {
     word: 'המשך',
@@ -3526,6 +3521,8 @@ export const wordsClass4: Array<TWord> = [
     word: 'שיחה',
     pronouncing: 'сиха',
     translation: 'диалог / разговор',
-	sex: 'женский',
+	  sex: 'женский',
   },
 ]
+
+export const wordsClass4 = getMappedWords(words)

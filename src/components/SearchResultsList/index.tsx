@@ -8,13 +8,13 @@ import { TWord } from '../../data/words'
 import './SearchResultsList.css'
 
 type TProps = {
-  wordsToShow?: Array<TWord>,
+  wordsToShow: Array<TWord>,
 }
 
 export const SearchResultsList = ({ wordsToShow }: TProps) => (
   <ul className='search-results-list'>
     {map(wordsToShow, (word) => (
-      <li key={word.word} className='search-results-list__item'>
+      <li key={word.id} className='search-results-list__item'>
         <WordCard currentWord={word} />
       </li>
     ))}

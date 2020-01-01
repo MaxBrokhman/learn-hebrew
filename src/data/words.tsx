@@ -1,11 +1,17 @@
-export type TWord = {
+import { getMappedWords } from '../utils'
+
+export type TWordUnmapped = {
   word: string,
   pronouncing: string,
   translation: string,
   sex?: string,
 }
 
-export const words: Array<TWord> = [
+export type TWord = TWordUnmapped & {
+  id: number,
+}
+
+const words = [
   {
     word: 'נחמד',
     pronouncing: 'нэхмад',
@@ -1036,9 +1042,9 @@ export const words: Array<TWord> = [
     translation: 'большинство',
   },
   {
-    word: 'שונה',
-    pronouncing: 'шонэ',
-    translation: 'другой / непохожий',
+    word: 'שונה מ',
+    pronouncing: 'шонэ мэ',
+    translation: 'отличаться от',
   },
   {
     word: 'כלכלה',
@@ -2988,4 +2994,67 @@ export const words: Array<TWord> = [
     pronouncing: 'мэкава',
     translation: 'надеяться',
   },
+  // Урок 21
+  {
+    word: 'מחליט',
+    pronouncing: 'махлит',
+    translation: 'решать',
+  },
+  {
+    word: 'זיהום',
+    pronouncing: 'зихум',
+    translation: 'инфекция / загрязнение',
+  },
+  {
+    word: 'בונה',
+    pronouncing: 'бонэ',
+    translation: 'строить',
+  },
+  {
+    word: 'מפריע',
+    pronouncing: 'мафриа',
+    translation: 'мешать / беспокоить',
+  },
+  {
+    word: 'אפשרות',
+    pronouncing: 'эфшарут',
+    translation: 'вариант / возможность',
+  },
+  {
+    word: 'בידור',
+    pronouncing: 'бидур',
+    translation: 'развлечение',
+  },
+  {
+    word: 'נפש',
+    pronouncing: 'нэфэш',
+    translation: 'душа',
+  },
+  {
+    word: 'מתעורר',
+    pronouncing: 'митэорэр',
+    translation: 'просыпаться',
+  },
+  {
+    word: 'נסה',
+    pronouncing: 'насэ',
+    translation: 'пробовать',
+  },
+  {
+    word: 'אופנה',
+    pronouncing: 'аофэна',
+    translation: 'мода',
+  },
+  {
+    word: 'כל כך',
+    pronouncing: 'коль ках',
+    translation: 'так / такой',
+  },
+  {
+    word: 'מתכונן',
+    pronouncing: 'митконэн',
+    translation: 'готовиться / собираться',
+  },
 ]
+
+export const wordsClass5 = getMappedWords(words)
