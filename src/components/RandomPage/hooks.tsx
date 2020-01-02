@@ -32,7 +32,7 @@ export const useWords = () => {
       : getWordsWithRandom(words)
       
     currentWordsUpdate(currentValues, dispatch)
-    history.push(getRoute(`/${classWords}/${currentValues.currentWord.id}/`))
+    history.push(getRoute(`${classWords}/${currentValues.currentWord.id}/`))
   }
 
   return {
