@@ -1,6 +1,5 @@
 import React from 'react'
 
-import { TWord } from '../../data/words'
 import { ListItem } from '../ListItem'
 import { ListItemWithBtn } from '../ListItemWithBtn'
 import { 
@@ -9,8 +8,9 @@ import {
   firstListItemClassName,
 } from '../../config'
 import { useWordCardButtons } from './hooks'
+import { TWord } from '../../data'
 
-type TProps = {
+export type TProps = {
   currentWord: TWord,
 }
 

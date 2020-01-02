@@ -1,8 +1,7 @@
-import React from 'react'
+import React, { useReducer } from 'react'
 import { 
   BrowserRouter as Router, 
   Route,
-  Redirect,
   Switch,
 } from 'react-router-dom'
 
@@ -15,17 +14,11 @@ import {
   initialState, 
   Context,
 } from '../../reducer'
-import { useAppWords } from './hooks'
 
 import './App.css'
 
 export const App = () => {
-  const { state, dispatch } = useAppWords(reducer, initialState)
-  const { 
-    classWords,
-    currentWord: { id }, 
-  } = state
-  
+  const [state, dispatch] = useReducer(reducer, initialState)
   return (
     <Router>
       <Context.Provider value={{ state, dispatch }}>
@@ -33,8 +26,7 @@ export const App = () => {
           <Header />
           <Switch>
             <Route path='/search' component={SearchPage} />
-            <Route path={`/:classWords/:id/`} component={RandomPage} />
-            <Redirect from='/' to={`/${classWords}/${id}/`} />
+            <Route path={`/`} component={RandomPage} />
           </Switch>
         </div>
       </Context.Provider>

@@ -8,6 +8,7 @@ import get from 'lodash/get'
 
 import { TWord, wordsMapper } from "../data"
 import { getWordsWithRandom, getSearchedWords } from '../utils'
+import { defaultClass, defaultSearchType } from '../config'
 
 export type TState = {
   words: Array<TWord>,
@@ -31,12 +32,15 @@ type TInitialContext = {
 
 export type TReducer = (state: TState, action: TAction) => TState
 
-const initialWords = get(wordsMapper, 'class4', [])
+const storedWordsType = localStorage.getItem('learn-hebrew-words')
+const wordsType = storedWordsType ? storedWordsType : defaultClass
+
+const initialWords = get(wordsMapper, wordsType, [])
 
 export const initialState: TState = {
   searchTerm: '',
-  searchType: 'translation',
-  classWords: 'class4',
+  searchType: defaultSearchType,
+  classWords:  wordsType,
   wordsToShow: [],
   words: initialWords,
   ...getWordsWithRandom(initialWords),

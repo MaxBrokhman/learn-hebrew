@@ -1,6 +1,7 @@
 import { BaseSyntheticEvent, useRef } from 'react'
 
 import { useAppContext } from '../../reducer' 
+import { searchTypeToggle } from '../../actions'
 
 export const useSearch = () => {
   const { state, dispatch } = useAppContext()
@@ -8,16 +9,12 @@ export const useSearch = () => {
   const searchTypeSelectHandler = (evt: BaseSyntheticEvent) => {
     const { value } = evt.target
     inputEl.current && inputEl.current.focus()
-    dispatch({
-      type: 'SEARCH_TYPE_TOGGLE',
-      payload: value,
-    })
+    searchTypeToggle(value, dispatch)
   }
-  const { wordsToShow } = state
 
   return {
     inputEl,
     searchTypeSelectHandler,
-    wordsToShow,
+    wordsToShow: state.wordsToShow,
   }
 }

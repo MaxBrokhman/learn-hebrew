@@ -1,35 +1,30 @@
 import React, { Fragment } from 'react'
-import { Link, RouteComponentProps } from 'react-router-dom'
-
-import get from 'lodash/get'
+import { Link, Route } from 'react-router-dom'
 
 import { Arrow } from '../Arrow'
 import { WordCard } from '../WordCard'
+import { withWordCardUrl } from '../../hocs'
 import { Btn } from '../Btn'
 import { nextBtnCaption, nextBtnClassName } from '../../config'
 import { useWords } from './hooks'
 
-export const RandomPage = ({ match }: RouteComponentProps) => {
-  const id = get(match, ['params', 'id'])
- const { 
-    words, 
-    nextBtnClickHandler 
-  } = useWords()
-  
+export const RandomPage = () => {
+ const { nextBtnClickHandler } = useWords()
   return (
     <Fragment>
       <Link to='/search'>
         <Arrow className={'right'} />
       </Link>
-      <WordCard currentWord={words[Number(id)]} />
+      <Route 
+        path={`/:classWords/:id/`} 
+        component={withWordCardUrl(WordCard)} 
+      />
       <div className='next-btn-wrapper d-flex justify-content-center'>
-        <Link to='/'>
-          <Btn
-            onClick={nextBtnClickHandler} 
-            className={nextBtnClassName}
-            value={nextBtnCaption}
-          />
-        </Link>
+        <Btn
+          onClick={nextBtnClickHandler} 
+          className={nextBtnClassName}
+          value={nextBtnCaption}
+        />
       </div>
     </Fragment>
   )

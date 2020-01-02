@@ -1,5 +1,4 @@
 import React, { Fragment } from 'react'
-import { Link } from 'react-router-dom'
 
 import { getCaption } from '../../utils'
 import { ThemeSwitcher } from '../ThemeSwitcher'
@@ -20,9 +19,7 @@ export const Header = () => {
   <Fragment>
     <ThemeSwitcher />
     <ClassSwitcherBtn defaultValue={classWords} />
-    <Link to='/'>
-      <h1 className='text-center'>Иврит</h1>
-    </Link>
+    <h1 className='text-center'>Иврит</h1>
     <p className='text-center'>
       {`${passedLength} ${getCaption(passedLength)} из ${length}`}
     </p>

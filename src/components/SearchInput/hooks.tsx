@@ -1,6 +1,7 @@
 import { BaseSyntheticEvent, useContext } from 'react'
 
 import { Context } from '../../reducer'
+import { searchInput } from '../../actions'
 
 export const useSearchInput = () => {
   const { state, dispatch } = useContext(Context)
@@ -8,10 +9,7 @@ export const useSearchInput = () => {
 
   const searchInputHandler = (evt: BaseSyntheticEvent) => {
     const { value } = evt.target
-    dispatch({
-      type: 'SEARCH_INPUT',
-      payload: value,
-    })
+    searchInput(value, dispatch)
   }
 
   return {

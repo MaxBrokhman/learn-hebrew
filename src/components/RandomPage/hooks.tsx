@@ -1,27 +1,38 @@
+import { useHistory, useLocation } from 'react-router-dom'
+import { useEffect } from 'react'
+
 import { getWordsWithRandom } from '../../utils'
-import { useAppContext } from '../../reducer' 
+import { useAppContext } from '../../reducer'
+import { currentWordsUpdate } from '../../actions' 
 
 export const useWords = () => {
   const { 
     state: {
+      classWords,
+      currentWord,
       currentWords,
       words,
     },
     dispatch,
   } = useAppContext()
+  const { id } = currentWord
+  const history = useHistory()
+  const location = useLocation()
+
+  useEffect(() => {
+    const currentWordPathname = `/${classWords}/${id}/`
+    if (location.pathname !== currentWordPathname)
+    history.push(currentWordPathname)
+  }, [classWords])
 
   const nextBtnClickHandler = () => {
-    if (!currentWords.length) {
-      dispatch({
-        type: 'CURRENT_WORDS_UPDATE',
-        payload: getWordsWithRandom(words)
-      })
-    } else {
-      dispatch({
-        type: 'CURRENT_WORDS_UPDATE',
-        payload: getWordsWithRandom(currentWords)
-      })
-    }
+
+    const currentValues = currentWords.length 
+      ? getWordsWithRandom(currentWords)
+      : getWordsWithRandom(words)
+      
+    currentWordsUpdate(currentValues, dispatch)
+    history.push(`/${classWords}/${currentValues.currentWord.id}/`)
   }
 
   return {
