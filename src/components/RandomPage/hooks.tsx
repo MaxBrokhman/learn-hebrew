@@ -1,7 +1,7 @@
 import { useHistory, useLocation } from 'react-router-dom'
 import { useEffect } from 'react'
 
-import { getWordsWithRandom } from '../../utils'
+import { getWordsWithRandom, getRoute } from '../../utils'
 import { useAppContext } from '../../reducer'
 import { currentWordsUpdate } from '../../actions' 
 
@@ -20,7 +20,7 @@ export const useWords = () => {
   const location = useLocation()
 
   useEffect(() => {
-    const currentWordPathname = `/${classWords}/${id}/`
+    const currentWordPathname = getRoute(`/${classWords}/${id}/`)
     if (location.pathname !== currentWordPathname)
     history.push(currentWordPathname)
   }, [classWords])
@@ -32,7 +32,7 @@ export const useWords = () => {
       : getWordsWithRandom(words)
       
     currentWordsUpdate(currentValues, dispatch)
-    history.push(`/${classWords}/${currentValues.currentWord.id}/`)
+    history.push(getRoute(`/${classWords}/${currentValues.currentWord.id}/`))
   }
 
   return {

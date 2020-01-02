@@ -8,7 +8,7 @@ import {
 import { Header } from '../Header'
 import { RandomPage } from '../RandomPage'
 import { SearchPage } from '../SearchPage'
-
+import { getRoute } from '../../utils'
 import { 
   reducer, 
   initialState, 
@@ -25,8 +25,8 @@ export const App = () => {
         <div className='container'>
           <Header />
           <Switch>
-            <Route path='/search' component={SearchPage} />
-            <Route path={`/`} component={RandomPage} />
+            <Route path={getRoute('search/')} component={SearchPage} />
+            <Route path={getRoute()} component={RandomPage} />
           </Switch>
         </div>
       </Context.Provider>

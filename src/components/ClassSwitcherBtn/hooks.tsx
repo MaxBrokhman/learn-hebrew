@@ -3,6 +3,7 @@ import { useHistory } from 'react-router-dom'
 
 import { useAppContext } from '../../reducer'
 import { wordsToggle } from '../../actions'
+import { getRoute } from '../../utils'
 
 export const useClassSwitch = () => {
   const { dispatch } = useAppContext()
@@ -10,7 +11,7 @@ export const useClassSwitch = () => {
   const classSwitcherChangeHandler = (evt: BaseSyntheticEvent) => {
     const { value } = evt.target
     wordsToggle(value, dispatch)
-    history.push('/')
+    history.push(getRoute())
     localStorage.setItem('learn-hebrew-words', value)
   }
   return classSwitcherChangeHandler

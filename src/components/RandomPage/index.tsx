@@ -7,16 +7,17 @@ import { withWordCardUrl } from '../../hocs'
 import { Btn } from '../Btn'
 import { nextBtnCaption, nextBtnClassName } from '../../config'
 import { useWords } from './hooks'
+import { getRoute } from '../../utils'
 
 export const RandomPage = () => {
  const { nextBtnClickHandler } = useWords()
   return (
     <Fragment>
-      <Link to='/search'>
+      <Link to={getRoute('search/')}>
         <Arrow className={'right'} />
       </Link>
       <Route 
-        path={`/:classWords/:id/`} 
+        path={getRoute(`:classWords/:id/`)} 
         component={withWordCardUrl(WordCard)} 
       />
       <div className='next-btn-wrapper d-flex justify-content-center'>

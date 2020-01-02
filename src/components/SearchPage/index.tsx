@@ -6,6 +6,7 @@ import { SearchInput } from '../SearchInput'
 import { SelectSearchType } from '../SelectSearchType'
 import { SearchResultsList } from '../SearchResultsList'
 import { useSearch } from './hooks'
+import { getRoute } from '../../utils'
 
 export const SearchPage = () => {
   const {
@@ -16,7 +17,7 @@ export const SearchPage = () => {
 
   return (
     <Fragment>
-      <Link to='/'>
+      <Link to={getRoute()}>
         <Arrow className={'left'} />
       </Link>
       <div className="input-group mb-3">
