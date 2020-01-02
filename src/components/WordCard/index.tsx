@@ -21,7 +21,7 @@ export const WordCard = ({ currentWord }: TProps) => {
     translation,
     sex,
   } = currentWord
-
+  
   const {
     isPronouncingShowed,
     isTranslationShowed,

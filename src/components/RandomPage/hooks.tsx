@@ -20,7 +20,7 @@ export const useWords = () => {
   const location = useLocation()
 
   useEffect(() => {
-    const currentWordPathname = getRoute(`/${classWords}/${id}/`)
+    const currentWordPathname = getRoute(`${classWords}/${id}/`)
     if (location.pathname !== currentWordPathname)
     history.push(currentWordPathname)
   }, [classWords])
