@@ -20,15 +20,15 @@ import './App.css'
 export const App = () => {
   const [state, dispatch] = useReducer(reducer, initialState)
   return (
-    <Router>
+    <div className='container'>
       <Context.Provider value={{ state, dispatch }}>
-        <div className='container'>
+        <Router>
           <Header />
           <Switch>
             <Route path={getRoute('search/')} component={SearchPage} />
             <Route path={getRoute()} component={RandomPage} />
           </Switch>
-        </div>
+        </Router>
       </Context.Provider>
-    </Router>
+    </div>
 )}
