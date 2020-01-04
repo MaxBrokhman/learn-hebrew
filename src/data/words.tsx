@@ -1,5 +1,3 @@
-import { getMappedWords } from '../utils'
-
 export type TWordUnmapped = {
   word: string,
   pronouncing: string,
@@ -11,7 +9,7 @@ export type TWord = TWordUnmapped & {
   id: number,
 }
 
-const words = [
+export const wordsClass5 = [
   {
     word: 'נחמד',
     pronouncing: 'нэхмад',
@@ -3107,5 +3105,3 @@ const words = [
     translation: 'проходить',
   },
 ]
-
-export const wordsClass5 = getMappedWords(words)
