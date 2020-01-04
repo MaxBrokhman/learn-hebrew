@@ -3055,6 +3055,57 @@ const words = [
     pronouncing: 'митконэн',
     translation: 'готовиться / собираться',
   },
+  // Урок 22
+  {
+    word: 'חוגג',
+    pronouncing: 'хогэг',
+    translation: 'праздновать',
+  },
+  {
+    word: 'דן',
+    pronouncing: 'дан',
+    translation: 'обсуждать',
+  },
+  {
+    word: 'רב',
+    pronouncing: 'рав',
+    translation: 'драться',
+  },
+  {
+    word: 'גופני',
+    pronouncing: 'гуфани',
+    translation: 'физический',
+  },
+  {
+    word: 'שם לב',
+    pronouncing: 'сам лэв',
+    translation: 'замечать / обращать внимание',
+  },
+  {
+    word: 'להסבר',
+    pronouncing: 'лахэсбэр',
+    translation: 'объяснение',
+  },
+  {
+    word: 'מצחיק',
+    pronouncing: 'мацхик',
+    translation: 'смешной',
+  },
+  {
+    word: 'מסביר',
+    pronouncing: 'масбир',
+    translation: 'объяснять',
+  },
+  {
+    word: 'נופל',
+    pronouncing: 'нофэль',
+    translation: 'падать',
+  },
+  {
+    word: 'עובר',
+    pronouncing: 'овэр',
+    translation: 'проходить',
+  },
 ]
 
 export const wordsClass5 = getMappedWords(words)
