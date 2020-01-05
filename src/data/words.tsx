@@ -3104,4 +3104,30 @@ export const wordsClass5 = [
     pronouncing: 'овэр',
     translation: 'проходить',
   },
+  // Урок 23
+  {
+    word: 'כמות',
+    pronouncing: 'камут',
+    translation: 'количество',
+  },
+  {
+    word: 'דווקא',
+    pronouncing: 'давка',
+    translation: 'именно',
+  },
+  {
+    word: 'עוזב',
+    pronouncing: 'озэв',
+    translation: 'уходить / оставлять',
+  },
+  {
+    word: 'מאמין',
+    pronouncing: 'мамин',
+    translation: 'верить',
+  },
+  {
+    word: 'נוחות',
+    pronouncing: 'нохот',
+    translation: 'комфорт',
+  },
 ]
