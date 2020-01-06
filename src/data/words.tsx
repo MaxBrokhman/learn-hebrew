@@ -3130,4 +3130,75 @@ export const wordsClass5 = [
     pronouncing: 'нохот',
     translation: 'комфорт',
   },
+  // Урок 24
+  {
+    word: 'בוחר',
+    pronouncing: 'бохэр',
+    translation: 'выбирать',
+  },
+  {
+    word: 'שורש',
+    pronouncing: 'шорэш',
+    translation: 'корень',
+  },
+  {
+    word: 'מחבר',
+    pronouncing: 'мэхавэр',
+    translation: 'соединять',
+  },
+  {
+    word: 'תספורת',
+    pronouncing: 'тиспорэт',
+    translation: 'стрижка',
+  },
+  {
+    word: 'נהג',
+    pronouncing: 'нахаг',
+    translation: 'водитель',
+  },
+  {
+    word: 'מרוצה',
+    pronouncing: 'мэроцэ',
+    translation: 'доволен',
+  },
+  {
+    word: 'מציאות',
+    pronouncing: 'мэциут',
+    translation: 'реальность',
+  },
+  {
+    word: 'מתאים',
+    pronouncing: 'матаим',
+    translation: 'подходящий',
+  },
+  {
+    word: 'מחלקה',
+    pronouncing: 'махлака',
+    translation: 'отдел',
+  },
+  {
+    word: 'מאושר',
+    pronouncing: 'мэушар',
+    translation: 'счастливый',
+  },
+  {
+    word: 'היתרון',
+    pronouncing: 'хитарон',
+    translation: 'преимущество',
+  },
+  {
+    word: 'חסרון',
+    pronouncing: 'хисарон',
+    translation: 'недостаток',
+  },
+  {
+    word: 'בודד',
+    pronouncing: 'бодэд',
+    translation: 'одинокий',
+  },
+  {
+    word: 'מס',
+    pronouncing: 'мас',
+    translation: 'налог',
+  },
 ]
