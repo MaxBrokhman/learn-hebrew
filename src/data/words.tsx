@@ -3201,4 +3201,55 @@ export const wordsClass5 = [
     pronouncing: 'мас',
     translation: 'налог',
   },
+  // Урок 25
+  {
+    word: 'שמלה',
+    pronouncing: 'симла',
+    translation: 'платье',
+  },
+  {
+    word: 'תגיד לי',
+    pronouncing: 'тагид ли',
+    translation: 'скажи мне',
+  },
+  {
+    word: 'רוחצ',
+    pronouncing: 'рохэц',
+    translation: 'мыть',
+  },
+  {
+    word: 'מותר',
+    pronouncing: 'мутар',
+    translation: 'разрешено (+ инфинитив)',
+  },
+  {
+    word: 'טהור',
+    pronouncing: 'тахур',
+    translation: 'чистый',
+  },
+  {
+    word: 'משכורת',
+    pronouncing: 'маскорэт',
+    translation: 'зарплата',
+  },
+  {
+    word: 'הפגנה',
+    pronouncing: 'хафгана',
+    translation: 'демонстрация / протест',
+  },
+  {
+    word: 'חובה',
+    pronouncing: 'хова',
+    translation: 'долг',
+  },
+  {
+    word: 'משפיע',
+    pronouncing: 'машпиа',
+    translation: 'влиять / действовать',
+  },
+  {
+    word: 'מקווה',
+    pronouncing: 'миквэ',
+    translation: 'надеяться',
+  },
 ]
