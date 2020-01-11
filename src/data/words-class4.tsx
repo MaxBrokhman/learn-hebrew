@@ -982,8 +982,8 @@ export const wordsClass4 = [
     translation: 'ухаживать, заботиться',
   },
   {
-    word: 'סוף',
-    pronouncing: 'соф',
+    word: 'סיום/סוף',
+    pronouncing: 'соф / сийюм',
     translation: 'конец',
   	sex: 'мужской',
   },
@@ -1031,7 +1031,7 @@ export const wordsClass4 = [
   },
   {
     word: 'לפעמים',
-    pronouncing: 'лифамим',
+    pronouncing: 'лефамим',
     translation: 'иногда',
   },
   {
@@ -1051,7 +1051,7 @@ export const wordsClass4 = [
   },
   {
     word: 'אחר',
-    pronouncing: 'ахар',
+    pronouncing: 'ахер',
     translation: 'другой',
   },
   {
@@ -1282,14 +1282,9 @@ export const wordsClass4 = [
     translation: 'инженер',
   },
   {
-    word: 'לחכות ל',
-    pronouncing: 'лэхакот лэ',
-    translation: 'ждать',
-  },
-  {
-    word: 'מחכ ל',
-    pronouncing: 'мэхах лэ',
-    translation: 'ждать',
+    word: 'מחכה/לחכות ל',
+    pronouncing: 'лэхакот лэ / мехаке',
+    translation: 'ждать / подождать',
   },
   {
     word: 'רחוק מ',
@@ -1348,8 +1343,8 @@ export const wordsClass4 = [
   },
   {
     word: 'שדה',
-    pronouncing: 'сдэ',
-    translation: 'поле',
+    pronouncing: 'садэ',
+    translation: 'поле / грядка',
   },
   {
     word: 'רכבת',
@@ -1588,9 +1583,9 @@ export const wordsClass4 = [
     translation: 'играть / выступать',
   },
   {
-    word: 'לגלוש',
-    pronouncing: 'лиглош',
-    translation: 'кататься / серфить',
+    word: 'גולש/לגלוש',
+    pronouncing: 'лиглош/голеш',
+    translation: 'кататься / серфить (в интернете) / искать',
   },
   {
     word: 'תוכנה',
@@ -1700,11 +1695,6 @@ export const wordsClass4 = [
     translation: 'проверка / осмотр',
   },
   {
-    word: 'לעמוד',
-    pronouncing: 'лаамод',
-    translation: 'стоять / выстоять',
-  },
-  {
     word: 'המשך',
     pronouncing: 'хамшэх',
     translation: 'продолжение',
@@ -1740,14 +1730,14 @@ export const wordsClass4 = [
     translation: 'до',
   },
   {
-    word: 'עוזר',
-    pronouncing: 'озэр',
+    word: 'עוזר/לעזור',
+    pronouncing: 'ляазор/озэр',
     translation: 'помогать',
   },
   {
-    word: 'עומד',
-    pronouncing: 'омэд',
-    translation: 'стоять',
+    word: 'עומד/לעמוד',
+    pronouncing: 'ляамод/омэд',
+    translation: 'стоять / выстоять',
   },
   {
     word: 'קל',
@@ -2070,6 +2060,11 @@ export const wordsClass4 = [
     translation: 'такси',
   },
   {
+    word: 'ראשון',
+    pronouncing: 'ришон',
+    translation: 'первый',
+  },
+  {
     word: 'אחרון',
     pronouncing: 'ахарон',
     translation: 'последний',
@@ -2107,9 +2102,9 @@ export const wordsClass4 = [
   	sex: 'мужской',
   },
   {
-    word: 'מוצא',
-    pronouncing: 'моцэ',
-    translation: 'находить',
+    word: 'מוצא/למצוא',
+    pronouncing: 'лимцо/моцэ',
+    translation: 'находить / искать / найдет',
   },
   {
     word: 'רעיון',
@@ -2311,11 +2306,11 @@ export const wordsClass4 = [
   {
     word: 'כש/כאשר',
     pronouncing: 'каашер/кшэ',
-    translation: 'когда',
+    translation: 'когда / как / при',
   },
   {
-    word: 'פקק',
-    pronouncing: 'пкак',
+    word: 'פקק תנועה',
+    pronouncing: 'пкак тнуа',
     translation: 'пробка',
   },
   {
@@ -2329,8 +2324,8 @@ export const wordsClass4 = [
     translation: 'открывать',
   },
   {
-    word: 'מאחר',
-    pronouncing: 'мэахар',
+    word: 'מאחר/לאחר',
+    pronouncing: 'лэахер/мэахер',
     translation: 'опаздывать',
   },
   {
@@ -2389,8 +2384,8 @@ export const wordsClass4 = [
     translation: 'лампа',
   },
   {
-    word: 'מסתכל',
-    pronouncing: 'мистакэль',
+    word: 'מסתכל/להסתכל',
+    pronouncing: 'лэхистакель/мистакэль',
     translation: 'смотреть',
   },
   {
@@ -2625,14 +2620,14 @@ export const wordsClass4 = [
     translation: 'рыба',
   },
   {
-    word: 'מעדיף',
-    pronouncing: 'маадиф',
+    word: 'להעדיף',
+    pronouncing: 'лехаадиф/маадиф',
     translation: 'предпочитать',
   },
   {
     word: 'שולח/לשלוח',
     pronouncing: 'лишоах/шолэах',
-    translation: 'посылать / отправлять',
+    translation: 'посылать / отправлять / отправить',
   },
   {
     word: 'וכולי',
@@ -2655,14 +2650,9 @@ export const wordsClass4 = [
     translation: 'обучать / преподавать',
   },
   {
-    word: 'שם',
-    pronouncing: 'сам / шэм',
-    translation: 'класть / имя',
-  },
-  {
-    word: 'יורד',
-    pronouncing: 'йорэд',
-    translation: 'падать / спускаться',
+    word: 'שם/לשים',
+    pronouncing: 'лесим/сам / шэм',
+    translation: 'класть / положить / имя',
   },
   {
     word: 'מאחל',
@@ -2717,7 +2707,7 @@ export const wordsClass4 = [
   },
   {
     word: 'משעמם',
-    pronouncing: 'мэшамэм',
+    pronouncing: 'мэшаэмэм',
     translation: 'скучный',
   },
   {
@@ -2777,19 +2767,9 @@ export const wordsClass4 = [
   	sex: 'женский',
   },
   {
-    word: 'לבלות',
-    pronouncing: 'лэвалот',
-    translation: 'проводить время / тусоваться',
-  },
-  {
-    word: 'משאיר',
-    pronouncing: 'машэир',
+    word: 'משאיר/להשאיר',
+    pronouncing: 'лэхашэир/машэир',
     translation: 'оставлять',
-  },
-  {
-    word: 'הודעה',
-    pronouncing: 'ходаа',
-    translation: 'сообщение',
   },
   {
     word: 'ניסיון',
@@ -2865,11 +2845,6 @@ export const wordsClass4 = [
     word: 'מעט',
     pronouncing: 'мэат',
     translation: 'мало',
-  },
-  {
-    word: 'מבלה',
-    pronouncing: 'мэвалэ',
-    translation: 'проводить время / наслаждаться',
   },
   {
     word: 'מסמך',
@@ -3020,11 +2995,11 @@ export const wordsClass4 = [
   {
     word: 'מקולקל',
     pronouncing: 'мэкулькаль',
-    translation: 'быть сломанным',
+    translation: 'сломанный',
   },
   {
     word: 'ריח',
-    pronouncing: 'рэйах',
+    pronouncing: 'рэах',
     translation: 'запах',
   },
   {
@@ -3118,8 +3093,8 @@ export const wordsClass4 = [
     translation: 'запрещено',
   },
   {
-    word: 'מציע',
-    pronouncing: 'мация',
+    word: 'מציע/להציע',
+    pronouncing: 'лехация/мация',
     translation: 'предлагать',
   },
   {
@@ -3660,11 +3635,6 @@ export const wordsClass4 = [
     translation: 'желать/желаю',
   },
   {
-    word: 'ימצא/למצוא',
-    pronouncing: 'лимцо/имца',
-    translation: 'найти / находить /найдет',
-  },
-   {
     word: 'מתעורר/להתעורר',
     pronouncing: 'лехиторер/миторер',
     translation: 'просыпаться',
@@ -3688,7 +3658,7 @@ export const wordsClass4 = [
   {
     word: 'מסדר/לסדר',
     pronouncing: 'лесадер/месадер',
-    translation: 'организовать / упорядочить',
+    translation: 'организовать / упорядочить / поправить',
   },
   {
     word: 'מבשל/לבשל',
@@ -3866,7 +3836,7 @@ export const wordsClass4 = [
   {
     word: 'מבלה/לבלות',
     pronouncing: 'левалот/мевале',
-    translation: 'проводить время',
+    translation: 'проводить время / тусоваться',
   },
   {
     word: 'משאיר/להשאיר',
@@ -3898,7 +3868,7 @@ export const wordsClass4 = [
   },
   {
     word: 'יורד/לרדת',
-    pronouncing: 'ляредет/ёред',
+    pronouncing: 'ляредет/йоред',
     translation: 'падать / спускаться',
   },
   {
@@ -3912,5 +3882,314 @@ export const wordsClass4 = [
     pronouncing: 'мэхир',
     translation: 'цена',
   	sex: 'мужской',
+  },
+  {
+    word: 'מפריע/להפריע',
+    pronouncing: 'лехафрия/мафрия',
+    translation: 'беспокоит / волнует / мешает / отвлекает',
+  },
+  {
+    word: 'שוק הפשפשים',
+    pronouncing: 'шук пишпешим',
+    translation: 'блошиный рынок',
+  	sex: 'мужской',
+  },
+  {
+    word: 'פרנסה',
+    pronouncing: 'парнаса',
+    translation: 'заработок',
+  	sex: 'женский',
+  },
+  {
+    word: 'בונה/לבנות',
+    pronouncing: 'ливнот/боне',
+    translation: 'строить',
+  },
+  {
+    word: 'מנסה/לנסות',
+    pronouncing: 'ленасот/менасе',
+    translation: 'пробовать',
+  },
+  {
+    word: 'נפרד/להיפרד',
+    pronouncing: 'лехипаред/нипаред',
+    translation: 'расстаться',
+  },
+  {
+    word: 'אפשרויות',
+    pronouncing: 'эфшаруёт',
+    translation: 'возможности',
+  	sex: 'женский',
+  },
+  {
+    word: 'אין מה לעשות',
+    pronouncing: 'эйн ма ляосот',
+    translation: 'нечего делать',
+  },
+  {
+    word: 'פעילות',
+    pronouncing: 'пэйлут',
+    translation: 'активность / деятельность',
+  	sex: 'женский',
+  },
+  {
+    word: 'זול',
+    pronouncing: 'золь',
+    translation: 'дешевый',
+  },
+  {
+    word: 'יתרונות',
+    pronouncing: 'итронот',
+    translation: 'преимущества',
+  	sex: 'женский',
+  },
+  {
+    word: 'חסרונות',
+    pronouncing: 'хесронот',
+    translation: 'недостатки',
+  	sex: 'женский',
+  },
+  {
+    word: 'פשרהת',
+    pronouncing: 'пшара',
+    translation: 'компромисс',
+  	sex: 'женский',
+  },
+  {
+    word: 'המון',
+    pronouncing: 'хамон',
+    translation: 'куча / очень много / толпа',
+  	sex: 'мужской',
+  },
+  {
+    word: 'אבן',
+    pronouncing: 'эвен',
+    translation: 'камень',
+  	sex: 'мужской',
+  },
+  {
+    word: 'פוחד/לפחד',
+    pronouncing: 'лефахед/похед',
+    translation: 'бояться',
+  },
+  {
+    word: 'וילון',
+    pronouncing: 'вилон',
+    translation: 'жалюзи / штора',
+  	sex: 'мужской — искл',
+  },
+  {
+    word: 'בשבילי',
+    pronouncing: 'бишвили',
+    translation: 'для меня',
+  },
+  {
+    word: 'חבילה',
+    pronouncing: 'хавила',
+    translation: 'посылка',
+  	sex: 'женский',
+  },
+  {
+    word: 'נוהג/לנהוג',
+    pronouncing: 'линхог/нохег',
+    translation: 'вести (машину)',
+  },
+  {
+    word: 'כריך',
+    pronouncing: 'карих',
+    translation: 'сендвич / бутерброд',
+  	sex: 'мужской',
+  },
+  {
+    word: 'בהיר',
+    pronouncing: 'бахир',
+    translation: 'светлый / яркий',
+  },
+  {
+    word: 'כהה',
+    pronouncing: 'кехе',
+    translation: 'темный / мрачный',
+  },
+  {
+    word: 'חילוני',
+    pronouncing: 'хилони',
+    translation: 'светский',
+  },
+  {
+    word: 'אמצע',
+    pronouncing: 'эмца',
+    translation: 'посреди / середина',
+  },
+  {
+	word: 'אופנה',
+    pronouncing: 'офна',
+    translation: 'мода',
+  	sex: 'женский',
+  },
+  {
+    word: 'אופנתי',
+    pronouncing: 'офнати',
+    translation: 'модный',
+  },
+  {
+	word: 'חיבור',
+    pronouncing: 'хибур',
+    translation: 'сочинение',
+  	sex: 'мужской',
+  },
+  {
+	word: 'גוף',
+    pronouncing: 'гуф',
+    translation: 'тело / корпус / основная часть',
+  	sex: 'мужской',
+  },
+  {
+    word: 'מישהו',
+    pronouncing: 'мишеху',
+    translation: 'кто-то',
+  	sex: 'мужской'
+  },
+  {
+    word: 'יומיים',
+    pronouncing: 'йамаим',
+    translation: '2 дня',
+  },
+  {
+    word: 'שבועיים',
+    pronouncing: 'швуаим',
+    translation: '2 недели',
+  },
+  {
+    word: 'עזרה',
+    pronouncing: 'эзра',
+    translation: 'помощь',
+  	sex: 'женский'
+  },
+  {
+    word: 'קל',
+    pronouncing: 'каль',
+    translation: 'легко',
+  },
+  {
+    word: 'מלמד/ללמד',
+    pronouncing: 'лэламед/меламед',
+    translation: 'обучать',
+  },
+  {
+    word: 'מתלמד',
+    pronouncing: 'митламед',
+    translation: 'стажер / ученик',
+  	sex: 'мужской'
+  },
+  {
+    word: 'התמחות',
+    pronouncing: 'хитмахут',
+    translation: 'стажировка',
+  	sex: 'женский'
+  },
+  {
+    word: 'מחליט/להחליט',
+    pronouncing: 'лэхахлит/махлит',
+    translation: 'обучать',
+  },
+  {
+    word: 'תלויים ב',
+    pronouncing: 'талуим бэ',
+    translation: 'зависит от',
+  },
+  {
+    word: 'זה את זה',
+    pronouncing: 'зэ эт зэ',
+    translation: 'друг друга',
+  },
+  {
+    word: 'זה מזה',
+    pronouncing: 'зэ мизэ',
+    translation: 'друг от друга',
+  },
+  {
+    word: 'מסדר/לסדר',
+    pronouncing: 'лэсадер/месадер',
+    translation: 'организовывать / поправлять',
+  },
+  {
+    word: 'סוף סוף',
+    pronouncing: 'соф соф',
+    translation: 'наконец / в конце концов',
+  },
+  {
+    word: 'דרך חיים',
+    pronouncing: 'дерех хаим',
+    translation: 'жизненный путь / стиль жизни',
+  },
+  {
+    word: 'היה/להיות',
+    pronouncing: 'лэхийот/месадер',
+    translation: 'быть / стать',
+  },
+  {
+    word: 'לפני פעם',
+    pronouncing: 'лифне паам',
+    translation: 'когда-то',
+  },
+  {
+    word: 'קשת',
+    pronouncing: 'кешет',
+    translation: 'радуга',
+	  sex: 'женский'
+  },
+  {
+    word: 'מתלונן/להתלונן',
+    pronouncing: 'лехитлонен/митлонен',
+    translation: 'жаловаться',
+  },
+  {
+    word: 'משכורת',
+    pronouncing: 'маскорет',
+    translation: 'зарплата',
+	  sex: 'женский'
+  },
+  {
+    word: 'מחליף/להחליף',
+    pronouncing: 'лехахлиф/махалив',
+    translation: 'сменить / изменить',
+  },
+  {
+    word: 'מסרון',
+    pronouncing: 'мисрон',
+    translation: 'сообщение (sms)',
+  	sex: 'мужской',
+  },
+  {
+    word: 'שטפון',
+    pronouncing: 'шитафон',
+    translation: 'наводнение / потоп',
+  	sex: 'мужской - искл',
+  },
+  {
+    word: 'זקן',
+    pronouncing: 'закен',
+    translation: 'старый',
+  },
+  {
+    word: 'לימודים',
+    pronouncing: 'лимудим',
+    translation: 'обучение / учеба',
+  },
+  {
+    word: 'בחינה',
+    pronouncing: 'бхина',
+    translation: 'экзамен / тест',
+  	sex: 'женский'
+  },
+  {
+    word: 'רוחץ/לרחוץ',
+    pronouncing: 'лирхоц/рохец',
+    translation: 'мыть',
+  },
+  {
+    word: 'עכשין',
+    pronouncing: 'ахшин',
+    translation: 'теперь',
   },
 ]

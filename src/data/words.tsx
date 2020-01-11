@@ -2950,7 +2950,7 @@ export const wordsClass5 = [
   {
     word: 'אסור',
     pronouncing: 'асур',
-    translation: 'запрещено',
+    translation: 'запрещено (+инфинитив)',
   },
   {
     word: 'מציע',
