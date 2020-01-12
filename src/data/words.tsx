@@ -3252,4 +3252,110 @@ export const wordsClass5 = [
     pronouncing: 'миквэ',
     translation: 'надеяться',
   },
+  // Урок 26
+  {
+    word: 'נגמר',
+    pronouncing: 'нигмар',
+    translation: 'заканчиваться',
+  },
+  {
+    word: 'ימינה',
+    pronouncing: 'ямина',
+    translation: 'направо',
+  },
+  {
+    word: 'שמאלה',
+    pronouncing: 'шэмээлэ',
+    translation: 'налево',
+  },
+  {
+    word: 'מת',
+    pronouncing: 'мэт',
+    translation: 'мертвый',
+  },
+  {
+    word: 'מטוס',
+    pronouncing: 'матос',
+    translation: 'самолет',
+  },
+  {
+    word: 'טעות',
+    pronouncing: 'таут',
+    translation: 'ошибка',
+  },
+  {
+    word: 'אנוש',
+    pronouncing: 'ануш',
+    translation: 'человеческий',
+  },
+  {
+    word: 'טיל',
+    pronouncing: 'тиль',
+    translation: 'ракета',
+  },
+  {
+    word: 'הורג',
+    pronouncing: 'хорэг',
+    translation: 'убивать',
+  },
+  {
+    word: 'אחריות',
+    pronouncing: 'ахрают',
+    translation: 'ответственность',
+  },
+  {
+    word: 'להתפטר',
+    pronouncing: 'лэхитпатэр',
+    translation: 'увольняться',
+  },
+  {
+    word: 'סערה',
+    pronouncing: 'сэара',
+    translation: 'шторм',
+  },
+  {
+    word: 'תיווך',
+    pronouncing: 'тивух',
+    translation: 'риэлтор',
+  },
+  {
+    word: 'פונה',
+    pronouncing: 'понэ',
+    translation: 'поворачивать / обращаться',
+  },
+  {
+    word: 'תנאי',
+    pronouncing: 'тэнай',
+    translation: 'условие',
+  },
+  {
+    word: 'טועה',
+    pronouncing: 'тоэ',
+    translation: 'ошибаться',
+  },
+  {
+    word: 'בתוך',
+    pronouncing: 'бэтох',
+    translation: 'внутри',
+  },
+  {
+    word: 'התחלה',
+    pronouncing: 'хатхала',
+    translation: 'начало',
+  },
+  {
+    word: 'אורח',
+    pronouncing: 'орэх',
+    translation: 'гость',
+  },
+  {
+    word: 'עני',
+    pronouncing: 'ани',
+    translation: 'бедный',
+  },
+  {
+    word: 'עשור',
+    pronouncing: 'асур',
+    translation: 'богатый',
+  },
 ]
