@@ -19,9 +19,6 @@ import './App.css'
 
 export const App = () => {
   const [state, dispatch] = useReducer(reducer, initialState)
-  window.onbeforeunload = () => {
-    window.history.pushState(null, 'main page' ,getRoute())
-  }
   return (
     <div className='container'>
       <Context.Provider value={{ state, dispatch }}>
