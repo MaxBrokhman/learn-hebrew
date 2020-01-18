@@ -3358,4 +3358,141 @@ export const wordsClass5 = [
     pronouncing: 'асур',
     translation: 'богатый',
   },
+  // Урок 27
+  {
+    word: 'זוכה',
+    pronouncing: 'зохэ',
+    translation: 'выигрывать',
+  },
+  {
+    word: 'מחסן',
+    pronouncing: 'махсан',
+    translation: 'склад / кладовая',
+  },
+  {
+    word: 'חנייה',
+    pronouncing: 'хания',
+    translation: 'парковка',
+  },
+  {
+    word: 'אשפה',
+    pronouncing: 'ашпа',
+    translation: 'мусор',
+  },
+  {
+    word: 'תחבורה',
+    pronouncing: 'тахбура',
+    translation: 'транспорт',
+  },
+  {
+    word: 'גודל',
+    pronouncing: 'годэль',
+    translation: 'размер',
+  },
+  {
+    word: 'קרקע',
+    pronouncing: 'карка',
+    translation: 'земля',
+  },
+  {
+    word: 'משותף',
+    pronouncing: 'мэшутаф',
+    translation: 'общий / совместный / общественный',
+  },
+  {
+    word: 'מקלט',
+    pronouncing: 'миклат',
+    translation: 'убежище',
+  },
+  {
+    word: 'חשמל',
+    pronouncing: 'хашмаль',
+    translation: 'электричество',
+  },
+  {
+    word: 'דוד שמש',
+    pronouncing: 'дод шэмэш',
+    translation: 'бойлер',
+  },
+  {
+    word: 'בקשר',
+    pronouncing: 'бакэшэр',
+    translation: 'в связи',
+  },
+  {
+    word: 'לברר',
+    pronouncing: 'лэварэр',
+    translation: 'выяснять',
+  },
+  {
+    word: 'פרטים',
+    pronouncing: 'пратим',
+    translation: 'детали / подробности',
+  },
+  {
+    word: 'מחיר',
+    pronouncing: 'махир',
+    translation: 'цена',
+  },
+  // Урок 28
+  {
+    word: 'קובע',
+    pronouncing: 'ковэа',
+    translation: 'назначать / определять',
+  },
+  {
+    word: 'מסכימה',
+    pronouncing: 'маскима',
+    translation: 'быть согласным',
+  },
+  {
+    word: 'מלוכלך',
+    pronouncing: 'мэлухлах',
+    translation: 'грязный',
+  },
+  {
+    word: 'נשק',
+    pronouncing: 'нэшэк',
+    translation: 'оружие',
+  },
+  {
+    word: 'ארנק',
+    pronouncing: 'арнак',
+    translation: 'кошелек',
+  },
+  {
+    word: 'מרווח',
+    pronouncing: 'мэрвах',
+    translation: 'просторный',
+  },
+  {
+    word: 'מואר',
+    pronouncing: 'муар',
+    translation: 'светло',
+  },
+  {
+    word: 'חשוך',
+    pronouncing: 'хашух',
+    translation: 'темный',
+  },
+  {
+    word: 'בזבוז',
+    pronouncing: 'базбуз',
+    translation: 'трата',
+  },
+  {
+    word: 'האזעקה',
+    pronouncing: 'хаазака',
+    translation: 'сирена / тревога',
+  },
+  {
+    word: 'מצד',
+    pronouncing: 'мицад',
+    translation: 'сторона',
+  },
+  {
+    word: 'רגוע',
+    pronouncing: 'рагуа',
+    translation: 'спокойный',
+  },
 ]
