@@ -3371,7 +3371,7 @@ export const wordsClass5 = [
   },
   {
     word: 'חנייה',
-    pronouncing: 'хания',
+    pronouncing: 'ханая',
     translation: 'парковка',
   },
   {
@@ -3462,7 +3462,7 @@ export const wordsClass5 = [
   },
   {
     word: 'מרווח',
-    pronouncing: 'мэрвах',
+    pronouncing: 'мэрувах',
     translation: 'просторный',
   },
   {
@@ -3494,5 +3494,182 @@ export const wordsClass5 = [
     word: 'רגוע',
     pronouncing: 'рагуа',
     translation: 'спокойный',
+  },
+  // Урок 29
+  {
+    word: 'לסיים',
+    pronouncing: 'лэсайэм',
+    translation: 'заканчивать',
+  },
+  {
+    word: 'מפרסם',
+    pronouncing: 'мэфарсэм',
+    translation: 'публиковать',
+  },
+  {
+    word: 'תשלום',
+    pronouncing: 'ташлум',
+    translation: 'оплата',
+  },
+  {
+    word: 'סכום',
+    pronouncing: 'сэхум',
+    translation: 'сумма',
+  },
+  {
+    word: 'לעבור',
+    pronouncing: 'лаавор',
+    translation: 'переезжать',
+  },
+  {
+    word: 'להמליץ',
+    pronouncing: 'лэхамлиц',
+    translation: 'рекомендовать',
+  },
+  {
+    word: 'רמה',
+    pronouncing: 'рама',
+    translation: 'уровень',
+  },
+  {
+    word: 'למכור',
+    pronouncing: 'лимкор',
+    translation: 'продавать',
+  },
+  {
+    word: 'לתלות',
+    pronouncing: 'литлот',
+    translation: 'повесить',
+  },
+  {
+    word: 'סביבה',
+    pronouncing: 'свива',
+    translation: 'окружение / обстановка',
+  },
+  // Урок 30
+  {
+    word: 'מנשק',
+    pronouncing: 'мэнашэк',
+    translation: 'целовать',
+  },
+  {
+    word: 'מחבק',
+    pronouncing: 'мэхабэк',
+    translation: 'обнимать',
+  },
+  {
+    word: 'מצלם',
+    pronouncing: 'мэцалэм',
+    translation: 'снимать',
+  },
+  {
+    word: 'מבטל',
+    pronouncing: 'мэватэль',
+    translation: 'отменять',
+  },
+  {
+    word: 'אי',
+    pronouncing: 'и',
+    translation: 'остров',
+  },
+  {
+    word: 'להמשך',
+    pronouncing: 'лэхамшэх',
+    translation: 'продолжаться',
+  },
+  {
+    word: 'בלש',
+    pronouncing: 'балаш',
+    translation: 'детектив',
+  },
+  {
+    word: 'לתקן',
+    pronouncing: 'лэтакэн',
+    translation: 'чинить',
+  },
+  {
+    word: 'לאבד',
+    pronouncing: 'лэавэд',
+    translation: 'терять',
+  },
+  {
+    word: 'דם',
+    pronouncing: 'дам',
+    translation: 'кровь',
+  },
+  {
+    word: 'בעד',
+    pronouncing: 'бэад',
+    translation: 'для',
+  },
+  {
+    word: 'גוף',
+    pronouncing: 'гуф',
+    translation: 'тело',
+  },
+  {
+    word: 'בטן',
+    pronouncing: 'бэтэн',
+    translation: 'живот / желудок',
+  },
+  {
+    word: 'פה',
+    pronouncing: 'пэ',
+    translation: 'рот',
+  },
+  {
+    word: 'גרון',
+    pronouncing: 'гарон',
+    translation: 'горло',
+  },
+  {
+    word: 'חזה',
+    pronouncing: 'хаза',
+    translation: 'грудь',
+  },
+  {
+    word: 'גב',
+    pronouncing: 'гав',
+    translation: 'спина',
+  },
+  {
+    word: 'ישבן',
+    pronouncing: 'яшван',
+    translation: 'зад',
+  },
+  {
+    word: 'תחת',
+    pronouncing: 'тахат',
+    translation: 'жопа',
+  },
+  {
+    word: 'אף',
+    pronouncing: 'аф',
+    translation: 'нос',
+  },
+  {
+    word: 'שן',
+    pronouncing: 'шэн',
+    translation: 'зуб',
+  },
+  {
+    word: 'לשון',
+    pronouncing: 'лашон',
+    translation: 'язык',
+  },
+  {
+    word: 'צוואר',
+    pronouncing: 'цавар',
+    translation: 'шея',
+  },
+  {
+    word: 'כואב',
+    pronouncing: 'коэв',
+    translation: 'болеть',
+  },
+  {
+    word: 'שריר',
+    pronouncing: 'шэрир',
+    translation: 'мускул',
   },
 ]
