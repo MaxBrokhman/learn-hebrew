@@ -3259,14 +3259,14 @@ export const wordsClass5 = [
     translation: 'заканчиваться',
   },
   {
-    word: 'ימינה',
-    pronouncing: 'ямина',
-    translation: 'направо',
+    word: 'ימין',
+    pronouncing: 'ямин',
+    translation: 'право',
   },
   {
-    word: 'שמאלה',
-    pronouncing: 'шэмээлэ',
-    translation: 'налево',
+    word: 'שמאל',
+    pronouncing: 'смоль',
+    translation: 'лево',
   },
   {
     word: 'מת',
@@ -3671,5 +3671,132 @@ export const wordsClass5 = [
     word: 'שריר',
     pronouncing: 'шэрир',
     translation: 'мускул',
+  },
+  // Урок 31
+  {
+    word: 'קהילה',
+    pronouncing: 'кэхила',
+    translation: 'сообщество',
+  },
+  {
+    word: 'מת',
+    pronouncing: 'мэт',
+    translation: 'умирать',
+  },
+  {
+    word: 'מהי',
+    pronouncing: 'махи',
+    translation: 'в чем',
+  },
+  {
+    word: 'מועדון',
+    pronouncing: 'моадон',
+    translation: 'клуб',
+  },
+  {
+    word: 'כף',
+    pronouncing: 'каф',
+    translation: 'ложка / ладонь',
+  },
+  {
+    word: 'אצבעות',
+    pronouncing: 'эцваот',
+    translation: 'пальцы',
+  },
+  {
+    word: 'מנסה',
+    pronouncing: 'мэнасэ',
+    translation: 'пытаться',
+  },
+  {
+    word: 'תרופה',
+    pronouncing: 'труфа',
+    translation: 'лекарство',
+  },
+  {
+    word: 'בזכות',
+    pronouncing: 'базхут',
+    translation: 'благодаря',
+  },
+  {
+    word: 'מטוגן',
+    pronouncing: 'мэтуган',
+    translation: 'жаренный',
+  },
+  {
+    word: 'חשיבה',
+    pronouncing: 'хашива',
+    translation: 'мышление',
+  },
+  {
+    word: 'חיובי',
+    pronouncing: 'хиуви',
+    translation: 'положительный / позитивный',
+  },
+  {
+    word: 'שלילי',
+    pronouncing: 'шлили',
+    translation: 'негативный / отрицательный',
+  },
+  {
+    word: 'אמונה',
+    pronouncing: 'эмуна',
+    translation: 'вера / доверие',
+  },
+  {
+    word: 'תהליך',
+    pronouncing: 'тахалих',
+    translation: 'процесс / процедура',
+  },
+  {
+    word: 'ריק',
+    pronouncing: 'рэйк',
+    translation: 'пустой',
+  },
+  {
+    word: 'מסביב',
+    pronouncing: 'мисавив',
+    translation: 'вокруг',
+  },
+  // Урок 32
+  {
+    word: 'אישור',
+    pronouncing: 'ишур',
+    translation: 'разрешение / справка',
+  },
+  {
+    word: 'תנור',
+    pronouncing: 'танур',
+    translation: 'печь / духовка',
+  },
+  {
+    word: 'אסיפה',
+    pronouncing: 'асифа',
+    translation: 'собрание',
+  },
+  {
+    word: 'תוצאה',
+    pronouncing: 'тоцаа',
+    translation: 'результат',
+  },
+  {
+    word: 'שביתה',
+    pronouncing: 'швита',
+    translation: 'забастовка',
+  },
+  {
+    word: 'מחס',
+    pronouncing: 'мэхэс',
+    translation: 'таможня',
+  },
+  {
+    word: 'פח אשפה',
+    pronouncing: 'пах ашпа',
+    translation: 'мусорный бак',
+  },
+  {
+    word: 'כביסה',
+    pronouncing: 'квиса',
+    translation: 'стирка',
   },
 ]
