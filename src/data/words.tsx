@@ -3799,4 +3799,50 @@ export const wordsClass5 = [
     pronouncing: 'квиса',
     translation: 'стирка',
   },
+  //Урок 33
+  {
+    word: 'גובה',
+    pronouncing: 'гова',
+    translation: 'высота',
+  },
+  {
+    word: 'משקל',
+    pronouncing: 'машкаль',
+    translation: 'вес',
+  },
+  {
+    word: 'בדידות',
+    pronouncing: 'бдидут',
+    translation: 'одиночество',
+  },
+  {
+    word: 'אמת',
+    pronouncing: 'эмэт',
+    translation: 'правда',
+  },
+  {
+    word: 'כוכב',
+    pronouncing: 'кохав',
+    translation: 'звезда',
+  },
+  {
+    word: 'ממשיך',
+    pronouncing: 'мамших',
+    translation: 'продолжать',
+  },
+  {
+    word: 'מבטיח',
+    pronouncing: 'мавтиах',
+    translation: 'обещать',
+  },
+  {
+    word: 'חלש',
+    pronouncing: 'халаш',
+    translation: 'слабый',
+  },
+  {
+    word: 'נשימה',
+    pronouncing: 'нэшима',
+    translation: 'дыхание',
+  },
 ]
