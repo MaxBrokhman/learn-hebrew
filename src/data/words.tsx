@@ -3845,4 +3845,45 @@ export const wordsClass5 = [
     pronouncing: 'нэшима',
     translation: 'дыхание',
   },
+  // Урок 34
+  {
+    word: 'להקים',
+    pronouncing: 'лэхаким',
+    translation: 'основать',
+  },
+  {
+    word: 'מזיז',
+    pronouncing: 'мэзиз',
+    translation: 'двигать',
+  },
+  {
+    word: 'מביא',
+    pronouncing: 'мэви',
+    translation: 'приносить',
+  },
+  {
+    word: 'הווה',
+    pronouncing: 'хава',
+    translation: 'настоящее',
+  },
+  {
+    word: 'מכניס',
+    pronouncing: 'махнис',
+    translation: 'ставить / засовывать',
+  },
+  {
+    word: 'המחאה',
+    pronouncing: 'хамхаа',
+    translation: 'чек',
+  },
+  {
+    word: 'חומר',
+    pronouncing: 'хомэр',
+    translation: 'материал / вещество / товар',
+  },
+  {
+    word: 'רצון',
+    pronouncing: 'рацон',
+    translation: 'воля',
+  },
 ]
