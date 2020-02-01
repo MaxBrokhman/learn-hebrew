@@ -3886,4 +3886,100 @@ export const wordsClass5 = [
     pronouncing: 'рацон',
     translation: 'воля',
   },
+  {
+    word: 'למעלה',
+    pronouncing: 'лэмаалэ',
+    translation: 'вверх',
+  },
+  {
+    word: 'למטה',
+    pronouncing: 'лэмата',
+    translation: 'вниз',
+  }, 
+  // Урок 35
+  {
+    word: 'חייב',
+    pronouncing: 'хаяв',
+    translation: 'обязан / должен',
+  }, 
+  {
+    word: 'מסיים',
+    pronouncing: 'мэсайэм',
+    translation: 'заканчивать',
+  }, 
+  {
+    word: 'למרות ש',
+    pronouncing: 'ламрот шэ',
+    translation: 'несмотря на',
+  }, 
+  {
+    word: 'עבור',
+    pronouncing: 'авур',
+    translation: 'ради',
+  }, 
+  {
+    word: 'בעד',
+    pronouncing: 'бэад',
+    translation: 'за',
+  }, 
+  {
+    word: 'משתעל',
+    pronouncing: 'миштааль',
+    translation: 'кашлять',
+  }, 
+  {
+    word: 'מברך',
+    pronouncing: 'мэварэх',
+    translation: 'поздравлять / благославлять',
+  }, 
+  {
+    word: 'רמזור',
+    pronouncing: 'рамзор',
+    translation: 'светофор',
+  }, 
+  {
+    word: 'להתקדם',
+    pronouncing: 'лэхиткадэм',
+    translation: 'продвигаться',
+  }, 
+  {
+    word: 'להתרגל ל',
+    pronouncing: 'лэхитрагэль лэ',
+    translation: 'привыкать к',
+  }, 
+  {
+    word: 'להתנדב',
+    pronouncing: 'лэхитнадэв',
+    translation: 'вызываться добровольцем',
+  }, 
+  {
+    word: 'להתאהב',
+    pronouncing: 'лэхитахэв',
+    translation: 'влюбляться',
+  }, 
+  {
+    word: 'משתתף',
+    pronouncing: 'миштатэф',
+    translation: 'участвовать',
+  }, 
+  {
+    word: 'משתמש',
+    pronouncing: 'миштамэш',
+    translation: 'использовать',
+  }, 
+  {
+    word: 'להתנצל',
+    pronouncing: 'лэхитнацэль',
+    translation: 'извиняться',
+  }, 
+  {
+    word: 'להתנהג',
+    pronouncing: 'лэхитнахэг',
+    translation: 'вести себя',
+  }, 
+  {
+    word: 'להבריז',
+    pronouncing: 'лэхавриз',
+    translation: 'прогуливать / пропускать',
+  },
 ]
