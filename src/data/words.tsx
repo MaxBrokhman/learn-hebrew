@@ -3497,11 +3497,6 @@ export const wordsClass5 = [
   },
   // Урок 29
   {
-    word: 'לסיים',
-    pronouncing: 'лэсайэм',
-    translation: 'заканчивать',
-  },
-  {
     word: 'מפרסם',
     pronouncing: 'мэфарсэм',
     translation: 'публиковать',
@@ -3596,11 +3591,6 @@ export const wordsClass5 = [
     word: 'דם',
     pronouncing: 'дам',
     translation: 'кровь',
-  },
-  {
-    word: 'בעד',
-    pronouncing: 'бэад',
-    translation: 'для',
   },
   {
     word: 'גוף',
@@ -3981,5 +3971,111 @@ export const wordsClass5 = [
     word: 'להבריז',
     pronouncing: 'лэхавриз',
     translation: 'прогуливать / пропускать',
+  },
+  // Урок 36
+  {
+    word: 'מסוכן',
+    pronouncing: 'мэсукан',
+    translation: 'опасный',
+  },
+  {
+    word: 'נזלת',
+    pronouncing: 'назэлэт',
+    translation: 'насморк',
+  },
+  {
+    word: 'מחקר',
+    pronouncing: 'мэхкар',
+    translation: 'исследование',
+  },
+  {
+    word: 'להבריא',
+    pronouncing: 'лэхаври',
+    translation: 'выздоравливать',
+  },
+  {
+    word: 'גורם',
+    pronouncing: 'горэм',
+    translation: 'вызывать / быть причиной',
+  },
+  {
+    word: 'מנוחה',
+    pronouncing: 'мэнуха',
+    translation: 'отдых',
+  },
+  {
+    word: 'מוצר',
+    pronouncing: 'муцар',
+    translation: 'продукт / товар',
+  },
+  {
+    word: 'תחרות',
+    pronouncing: 'тахарут',
+    translation: 'соревнование / конкурс',
+  },
+  {
+    word: 'צד',
+    pronouncing: 'цад',
+    translation: 'сторона',
+  },
+  {
+    word: 'מסתדר',
+    pronouncing: 'мистадэр',
+    translation: 'уживаться / складываться',
+  },
+  {
+    word: 'מתווכח',
+    pronouncing: 'митвакэах',
+    translation: 'спорить / обсуждать',
+  },
+  {
+    word: 'לפחות',
+    pronouncing: 'лэфахот',
+    translation: 'как минимум',
+  },
+  {
+    word: 'להטעין',
+    pronouncing: 'лэхатаин',
+    translation: 'заряжать / пополнять',
+  },
+  {
+    word: 'מודיעין',
+    pronouncing: 'модэин',
+    translation: 'информационный отдел',
+  },
+  {
+    word: 'רציף',
+    pronouncing: 'рациф',
+    translation: 'платформа',
+  },
+  {
+    word: 'הבא',
+    pronouncing: 'хаба',
+    translation: 'следующий',
+  },
+  {
+    word: 'הנחה',
+    pronouncing: 'ханаха',
+    translation: 'скидка',
+  },
+  {
+    word: 'כל כמה',
+    pronouncing: 'коль кама',
+    translation: 'как часто',
+  },
+  {
+    word: 'ישיר',
+    pronouncing: 'яшир',
+    translation: 'прямой',
+  },
+  {
+    word: 'מאסף',
+    pronouncing: 'мэасэф',
+    translation: 'маршрутный',
+  },
+  {
+    word: 'עודף',
+    pronouncing: 'одэф',
+    translation: 'сдача',
   },
 ]
