@@ -4078,4 +4078,20 @@ export const wordsClass5 = [
     pronouncing: 'одэф',
     translation: 'сдача',
   },
+  // Урок 37
+  {
+    word: 'נפרד',
+    pronouncing: 'нифрад',
+    translation: 'порывать / расставаться',
+  },
+  {
+    word: 'נרטב',
+    pronouncing: 'ниртав',
+    translation: 'промокать',
+  },
+  {
+    word: 'נשלח',
+    pronouncing: 'нишлах',
+    translation: 'быть отправленным',
+  },
 ]
