@@ -3380,4 +3380,49 @@ export const wordsClass5 = [
     pronouncing: 'маатафа',
     translation: 'конверт',
   },
+  {
+    word: 'לשכנע',
+    pronouncing: 'лэшахнэа',
+    translation: 'убеждать',
+  },
+  {
+    word: 'בעיקר',
+    pronouncing: 'бэикар',
+    translation: 'в основном / главным образом',
+  },
+  {
+    word: 'משופץ',
+    pronouncing: 'мэшупац',
+    translation: 'ремонтированный',
+  },
+  {
+    word: 'נסיעה',
+    pronouncing: 'нэсия',
+    translation: 'поездка',
+  },
+  {
+    word: 'בקשה',
+    pronouncing: 'бакаша',
+    translation: 'просьба',
+  },
+  {
+    word: 'הסכם',
+    pronouncing: 'хэскэм',
+    translation: 'соглашение',
+  },
+  {
+    word: 'החלטה',
+    pronouncing: 'хахлата',
+    translation: 'решение',
+  },
+  {
+    word: 'ראיון',
+    pronouncing: 'рэайон',
+    translation: 'интервью',
+  },
+  {
+    word: 'הבטחה',
+    pronouncing: 'хавтэха',
+    translation: 'обещание',
+  },
 ]
