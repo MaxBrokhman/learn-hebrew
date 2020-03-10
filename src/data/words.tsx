@@ -3425,4 +3425,19 @@ export const wordsClass5 = [
     pronouncing: 'хавтэха',
     translation: 'обещание',
   },
+  {
+    word: 'לצעוק',
+    pronouncing: 'лицок',
+    translation: 'кричать',
+  },
+  {
+    word: 'לשפץ',
+    pronouncing: 'лешапэц',
+    translation: 'переделать / отремонтировать',
+  },
+  {
+    word: 'לאשר',
+    pronouncing: 'лэашэр',
+    translation: 'подтвердить / одобрить',
+  },
 ]
