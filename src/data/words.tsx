@@ -3440,4 +3440,24 @@ export const wordsClass5 = [
     pronouncing: 'лэашэр',
     translation: 'подтвердить / одобрить',
   },
+  {
+    word: 'מן',
+    pronouncing: 'мин',
+    translation: 'из',
+  },
+  {
+    word: 'לנצח',
+    pronouncing: 'лэнацэах',
+    translation: 'навсегда',
+  },
+  {
+    word: 'נדמה',
+    pronouncing: 'нидмэ',
+    translation: 'кажется',
+  },
+  {
+    word: 'נשבע',
+    pronouncing: 'нишва',
+    translation: 'клясться',
+  },
 ]
