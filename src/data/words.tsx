@@ -3460,4 +3460,104 @@ export const wordsClass5 = [
     pronouncing: 'нишва',
     translation: 'клясться',
   },
+  {
+    word: 'תוספת',
+    pronouncing: 'тосэфэт',
+    translation: 'дополнение / прибавка',
+  },
+  {
+    word: 'לשכב',
+    pronouncing: 'лишкав',
+    translation: 'лежать / переспать',
+  },
+  {
+    word: 'לנהל',
+    pronouncing: 'лэнахэль',
+    translation: 'управлять',
+  },
+  {
+    word: 'לרכל',
+    pronouncing: 'лэрахэль',
+    translation: 'сплетничать',
+  },
+  {
+    word: 'ידוע',
+    pronouncing: 'ядуа',
+    translation: 'известный',
+  },
+  {
+    word: 'אוסר',
+    pronouncing: 'осэр',
+    translation: 'запрещать',
+  },
+  {
+    word: 'בכל זאת',
+    pronouncing: 'бэхоль зот',
+    translation: 'несмотря на это',
+  },
+  {
+    word: 'סובל',
+    pronouncing: 'совэль',
+    translation: 'страдать',
+  },
+  {
+    word: 'נכשל',
+    pronouncing: 'нихшаль',
+    translation: 'проваливаться / терпеть неудачу',
+  },
+  {
+    word: 'ממד',
+    pronouncing: 'мамад',
+    translation: 'комната безопасности',
+  },
+  {
+    word: 'מרוהט',
+    pronouncing: 'мэрухат',
+    translation: 'меблированный',
+  },
+  {
+    word: 'עניין',
+    pronouncing: 'иньян',
+    translation: 'интерес',
+  },
+  {
+    word: 'מודעה',
+    pronouncing: 'модаа',
+    translation: 'объявление',
+  },
+  {
+    word: 'מיקום',
+    pronouncing: 'микум',
+    translation: 'местонахождение / расположение',
+  },
+  {
+    word: 'כניסה',
+    pronouncing: 'книса',
+    translation: 'вход',
+  },
+  {
+    word: 'מייד',
+    pronouncing: 'мияд',
+    translation: 'немедленно / сразу',
+  },
+  {
+    word: 'צביעה',
+    pronouncing: 'цвия',
+    translation: 'покраска',
+  },
+  {
+    word: 'להוריד',
+    pronouncing: 'лэхорид',
+    translation: 'убрать / опустить',
+  },
+  {
+    word: 'גמיש',
+    pronouncing: 'гамиш',
+    translation: 'гибкий',
+  },
+  {
+    word: 'לשנות',
+    pronouncing: 'лэшанот',
+    translation: 'менять',
+  },
 ]
