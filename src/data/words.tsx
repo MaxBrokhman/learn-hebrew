@@ -3560,4 +3560,19 @@ export const wordsClass5 = [
     pronouncing: 'лэшанот',
     translation: 'менять',
   },
+  {
+    word: 'להרוויח',
+    pronouncing: 'лэхарвиах',
+    translation: 'зарабатывать',
+  },
+  {
+    word: 'קבועה',
+    pronouncing: 'квуа',
+    translation: 'постоянный / стабильный',
+  },
+  {
+    word: 'התמיכה',
+    pronouncing: 'хатмиха',
+    translation: 'поддержка',
+  },
 ]
