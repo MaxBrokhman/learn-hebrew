@@ -3575,4 +3575,35 @@ export const wordsClass5 = [
     pronouncing: 'хатмиха',
     translation: 'поддержка',
   },
+  {
+    word: 'פעיל',
+    pronouncing: 'пайиль',
+    translation: 'активный / действующий',
+  },
+  {
+    word: 'תשומת',
+    pronouncing: 'тэссумэт',
+    translation: 'внимание',
+  },
+  {
+    word: 'הבדל',
+    pronouncing: 'хабдаль',
+    translation: 'разница / различие',
+  },
+  {
+    word: 'עיקר',
+    pronouncing: 'икэр',
+    translation: 'в основном',
+  },
+  {
+    word: 'עצה',
+    pronouncing: 'аца',
+    translation: 'совет',
+  },
+  
+  {
+    word: 'עמוד',
+    pronouncing: 'амуд',
+    translation: 'страница',
+  },
 ]
