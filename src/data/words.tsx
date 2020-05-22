@@ -3600,10 +3600,19 @@ export const wordsClass5 = [
     pronouncing: 'аца',
     translation: 'совет',
   },
-  
   {
     word: 'עמוד',
     pronouncing: 'амуд',
     translation: 'страница',
+  },
+  {
+    word: 'צורה',
+    pronouncing: 'цура',
+    translation: 'форма',
+  },
+  {
+    word: 'טופס',
+    pronouncing: 'тофэс',
+    translation: 'форма / бланк',
   },
 ]
