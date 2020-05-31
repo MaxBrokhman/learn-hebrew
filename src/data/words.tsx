@@ -3615,4 +3615,39 @@ export const wordsClass5 = [
     pronouncing: 'тофэс',
     translation: 'форма / бланк',
   },
+  {
+    word: 'תרמיל',
+    pronouncing: 'тармиль',
+    translation: 'рюкзак',
+  },
+  {
+    word: 'מתבסס',
+    pronouncing: 'митвасэс',
+    translation: 'основываться',
+  },
+  {
+    word: 'כללי',
+    pronouncing: 'клали',
+    translation: 'правила',
+  },
+  {
+    word: 'קבוע',
+    pronouncing: 'квуа',
+    translation: 'постоянный',
+  },
+  {
+    word: 'מוסיף',
+    pronouncing: 'мосиф',
+    translation: 'добавлять',
+  },
+  {
+    word: 'ירח',
+    pronouncing: 'ярэах',
+    translation: 'луна',
+  },
+  {
+    word: 'להוסיף',
+    pronouncing: 'лэхосиф',
+    translation: 'добавлять',
+  },
 ]
