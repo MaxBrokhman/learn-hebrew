@@ -3650,4 +3650,14 @@ export const wordsClass5 = [
     pronouncing: 'лэхосиф',
     translation: 'добавлять',
   },
+  {
+    word: 'לפגוע',
+    pronouncing: 'лифгоа',
+    translation: 'причинять вред',
+  },
+  {
+    word: 'לערוך',
+    pronouncing: 'лаарох',
+    translation: 'устраивать / проводить / накрывать',
+  },
 ]
