@@ -83,7 +83,11 @@ export const reducer = (state: TState, action: TAction) => {
       return {
         ...state,
         searchTerm: term,
-        wordsToShow: getSearchedWords(words, term, searchType),
+        wordsToShow: getSearchedWords(
+          words, 
+          term, 
+          searchType,
+        ),
       }
     }
     case 'SEARCH_TYPE_TOGGLE': {
@@ -94,7 +98,11 @@ export const reducer = (state: TState, action: TAction) => {
       return {
         ...state,
         searchType: action.payload,
-        wordsToShow: getSearchedWords(words, searchTerm, action.payload),
+        wordsToShow: getSearchedWords(
+          words, 
+          searchTerm, 
+          action.payload,
+        ),
       }
     }
     default: {

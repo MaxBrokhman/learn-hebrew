@@ -14,7 +14,7 @@ export const ClassSwitcherBtn = ({ defaultValue }: TProps) => (
     onChange={useClassSwitch()}
     value={defaultValue}
   >
-    <option value='class4'>כיתה 4</option>
-    <option value='class5'>כיתה 5</option>
+    <option value='class4' selected={defaultValue === 'class4' || undefined}>כיתה 4</option>
+    <option value='class5' selected={defaultValue === 'class4' || undefined}>כיתה 5</option>
   </select>
 )
