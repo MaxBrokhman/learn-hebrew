@@ -3660,4 +3660,29 @@ export const wordsClass5 = [
     pronouncing: 'лаарох',
     translation: 'устраивать / проводить / накрывать',
   },
+  {
+    word: 'קבלת קהל',
+    pronouncing: 'кабалат кахаль',
+    translation: 'рабочее время',
+  },
+  {
+    word: 'מוכן',
+    pronouncing: 'мухан',
+    translation: 'быть готовым',
+  },
+  {
+    word: 'מסתובב',
+    pronouncing: 'мистовэв',
+    translation: 'тусоваться',
+  },
+  {
+    word: 'כיכר',
+    pronouncing: 'кикар',
+    translation: 'площадь',
+  },
+  {
+    word: 'צומת',
+    pronouncing: 'цомэт',
+    translation: 'перекресток',
+  },
 ]
