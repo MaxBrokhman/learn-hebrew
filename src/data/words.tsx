@@ -3685,4 +3685,24 @@ export const wordsClass5 = [
     pronouncing: 'цомэт',
     translation: 'перекресток',
   },
+  {
+    word: 'ימינה',
+    pronouncing: 'ямина',
+    translation: 'направо',
+  },
+  {
+    word: 'שמאלה',
+    pronouncing: 'смола',
+    translation: 'налево',
+  },
+  {
+    word: 'קדימה',
+    pronouncing: 'кадима',
+    translation: 'вперед',
+  },
+  {
+    word: 'אחורה',
+    pronouncing: 'ахора',
+    translation: 'назад',
+  },
 ]
