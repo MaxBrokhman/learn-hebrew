@@ -3705,4 +3705,14 @@ export const wordsClass5 = [
     pronouncing: 'ахора',
     translation: 'назад',
   },
+  {
+    word: 'בינתיים',
+    pronouncing: 'бэентаим',
+    translation: 'тем временем / а пока',
+  },
+  {
+    word: 'שונא',
+    pronouncing: 'сонэ',
+    translation: 'ненавидеть',
+  },
 ]
