@@ -3715,4 +3715,19 @@ export const wordsClass5 = [
     pronouncing: 'сонэ',
     translation: 'ненавидеть',
   },
+  {
+    word: 'עבה',
+    pronouncing: 'авэ',
+    translation: 'толстый',
+  },
+  {
+    word: 'דק',
+    pronouncing: 'дак',
+    translation: 'тонкий',
+  },
+  {
+    word: 'לערוך',
+    pronouncing: 'лаарох',
+    translation: 'проводить / устраивать',
+  },
 ]
