@@ -3730,4 +3730,19 @@ export const wordsClass5 = [
     pronouncing: 'лаарох',
     translation: 'проводить / устраивать',
   },
+  {
+    word: 'מתרגם',
+    pronouncing: 'метаргэм',
+    translation: 'переводить',
+  },
+  {
+    word: 'מוריד',
+    pronouncing: 'морид',
+    translation: 'снимать / убирать',
+  },
+  {
+    word: 'מוסיף',
+    pronouncing: 'мосиф',
+    translation: 'добавлять',
+  },
 ]
