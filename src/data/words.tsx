@@ -3745,4 +3745,14 @@ export const wordsClass5 = [
     pronouncing: 'мосиф',
     translation: 'добавлять',
   },
+  {
+    word: 'המתנה',
+    pronouncing: 'хамтана',
+    translation: 'ожидание',
+  },
+  {
+    word: 'בחזרה',
+    pronouncing: 'бэхазара',
+    translation: 'обратно',
+  },
 ]
