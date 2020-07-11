@@ -3780,4 +3780,24 @@ export const wordsClass5 = [
     pronouncing: 'ихпат ли / ло ихпат ли',
     translation: 'мне важно / мне все равно',
   },
+  {
+    word: 'בקיצור',
+    pronouncing: 'бэкицур',
+    translation: 'короче говоря / в общем',
+  },
+  {
+    word: 'חידוש',
+    pronouncing: 'хидуш',
+    translation: 'обновление / новшество',
+  },
+  {
+    word: 'בדור',
+    pronouncing: 'бадор',
+    translation: 'поколение',
+  },
+  {
+    word: 'עיסוק',
+    pronouncing: 'исок',
+    translation: 'занятие / профессия',
+  },
 ]
