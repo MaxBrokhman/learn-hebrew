@@ -3755,4 +3755,29 @@ export const wordsClass5 = [
     pronouncing: 'бэхазара',
     translation: 'обратно',
   },
+  {
+    word: 'לכבס',
+    pronouncing: 'лэхабэс',
+    translation: 'стирать',
+  },
+  {
+    word: 'מבצע',
+    pronouncing: 'мэвацэа',
+    translation: 'выполнять / совершать',
+  },
+  {
+    word: 'לוחש',
+    pronouncing: 'лохэш',
+    translation: 'шептать',
+  },
+  {
+    word: 'לנשום',
+    pronouncing: 'линшом',
+    translation: 'передохнуть / подышать',
+  },
+  {
+    word: 'אכפת לי / לא אכפת לי',
+    pronouncing: 'ихпат ли / ло ихпат ли',
+    translation: 'мне важно / мне все равно',
+  },
 ]
