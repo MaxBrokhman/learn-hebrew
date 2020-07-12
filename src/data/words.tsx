@@ -3800,4 +3800,19 @@ export const wordsClass5 = [
     pronouncing: 'исок',
     translation: 'занятие / профессия',
   },
+  {
+    word: 'לשם מה',
+    pronouncing: 'лашэм ма',
+    translation: 'для чего',
+  },
+  {
+    word: 'משלוח',
+    pronouncing: 'мишлоах',
+    translation: 'доставка',
+  },
+  {
+    word: 'שליח',
+    pronouncing: 'шалиах',
+    translation: 'курьер',
+  },
 ]
