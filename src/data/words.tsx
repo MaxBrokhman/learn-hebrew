@@ -3815,4 +3815,9 @@ export const wordsClass5 = [
     pronouncing: 'шалиах',
     translation: 'курьер',
   },
+  {
+    word: 'במסירות',
+    pronouncing: 'бамэсирут',
+    translation: 'самоотверженно',
+  },
 ]
