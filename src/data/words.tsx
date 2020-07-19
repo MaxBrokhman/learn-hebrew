@@ -3820,4 +3820,9 @@ export const wordsClass5 = [
     pronouncing: 'бамэсирут',
     translation: 'самоотверженно',
   },
+  {
+    word: 'אופניים',
+    pronouncing: 'офанаим',
+    translation: 'велосипед',
+  },
 ]
