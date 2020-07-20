@@ -3825,4 +3825,9 @@ export const wordsClass5 = [
     pronouncing: 'офанаим',
     translation: 'велосипед',
   },
+  {
+    word: 'שקית',
+    pronouncing: 'сакит',
+    translation: 'пакет',
+  },
 ]
