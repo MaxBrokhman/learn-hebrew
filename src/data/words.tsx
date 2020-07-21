@@ -3830,4 +3830,9 @@ export const wordsClass5 = [
     pronouncing: 'сакит',
     translation: 'пакет',
   },
+  {
+    word: 'תירס',
+    pronouncing: 'тирас',
+    translation: 'кукуруза',
+  },
 ]
