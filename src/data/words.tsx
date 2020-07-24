@@ -3835,4 +3835,39 @@ export const wordsClass5 = [
     pronouncing: 'тирас',
     translation: 'кукуруза',
   },
+  {
+    word: 'מרשם',
+    pronouncing: 'миршам',
+    translation: 'рецепт',
+  },
+  {
+    word: 'נמאס',
+    pronouncing: 'нимас',
+    translation: 'надоело',
+  },
+  {
+    word: 'נחשב',
+    pronouncing: 'нэхшав',
+    translation: 'считается',
+  },
+  {
+    word: 'שפתיים',
+    pronouncing: 'сфатаим',
+    translation: 'губы',
+  },
+  {
+    word: 'מבט',
+    pronouncing: 'мават',
+    translation: 'взгляд',
+  },
+  {
+    word: 'תמים',
+    pronouncing: 'тамим',
+    translation: 'наивный',
+  },
+  {
+    word: 'כיצד',
+    pronouncing: 'кэйцад',
+    translation: 'как',
+  },
 ]
