@@ -3870,4 +3870,14 @@ export const wordsClass5 = [
     pronouncing: 'кэйцад',
     translation: 'как',
   },
+  {
+    word: 'במקום',
+    pronouncing: 'бимком',
+    translation: 'вместо',
+  },
+  {
+    word: 'לדאוג',
+    pronouncing: 'лидог',
+    translation: 'беспокоиться',
+  },
 ]
