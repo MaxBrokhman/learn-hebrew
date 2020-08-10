@@ -3880,4 +3880,34 @@ export const wordsClass5 = [
     pronouncing: 'лидог',
     translation: 'беспокоиться',
   },
+  {
+    word: 'תקופה',
+    pronouncing: 'ткуфа',
+    translation: 'период',
+  },
+  {
+    word: 'בטאבים',
+    pronouncing: 'батаавим',
+    translation: 'вкладки',
+  },
+  {
+    word: 'גישה',
+    pronouncing: 'гиша',
+    translation: 'подход, отношение',
+  },
+  {
+    word: 'לעתים',
+    pronouncing: 'лэитим',
+    translation: 'иногда',
+  },
+  {
+    word: 'מדמיין',
+    pronouncing: 'мэдамиэн',
+    translation: 'представлять',
+  },
+  {
+    word: 'קריאת',
+    pronouncing: 'криат',
+    translation: 'чтение',
+  },
 ]
