@@ -3910,4 +3910,144 @@ export const wordsClass5 = [
     pronouncing: 'криат',
     translation: 'чтение',
   },
+  {
+    word: 'חווית',
+    pronouncing: 'хавият',
+    translation: 'опыт',
+  },
+  {
+    word: 'אין טעם',
+    pronouncing: 'эйн таам',
+    translation: 'нет смысла',
+  },
+  {
+    word: 'לשבור',
+    pronouncing: 'лишбор',
+    translation: 'ломать / разбивать',
+  },
+  {
+    word: 'גרוע',
+    pronouncing: 'гаруа',
+    translation: 'ужасный / отвратительный',
+  },
+  {
+    word: 'להישבר',
+    pronouncing: 'лэхишавэр',
+    translation: 'ломаться / разбиваться',
+  },
+  {
+    word: 'רסיסים',
+    pronouncing: 'рэсисим',
+    translation: 'осколки',
+  },
+  {
+    word: 'להתקל',
+    pronouncing: 'лэхитакэль',
+    translation: 'стокнуться / натолкнуться',
+  },
+  {
+    word: 'בטירוף',
+    pronouncing: 'батэруф',
+    translation: 'безумие',
+  },
+  {
+    word: 'הזדמנויות',
+    pronouncing: 'хиздамнует',
+    translation: 'возможности',
+  },
+  {
+    word: 'חשק',
+    pronouncing: 'хэшэк',
+    translation: 'желание',
+  },
+  {
+    word: 'מיומנות',
+    pronouncing: 'миоманут',
+    translation: 'талант / мастерство',
+  },
+  {
+    word: 'מסלול',
+    pronouncing: 'маслуль',
+    translation: 'курс / маршрут',
+  },
+  {
+    word: 'מבנה',
+    pronouncing: 'мивнэ',
+    translation: 'строение / структура',
+  },
+  {
+    word: 'מסוים',
+    pronouncing: 'мэсуям',
+    translation: 'конкретный / определенный',
+  },
+  {
+    word: 'מרצה',
+    pronouncing: 'марцэ',
+    translation: 'преподаватель',
+  },
+  {
+    word: 'ידע',
+    pronouncing: 'яда',
+    translation: 'знания',
+  },
+  {
+    word: 'הערות',
+    pronouncing: 'хаарот',
+    translation: 'заметки',
+  },
+  {
+    word: 'משובים',
+    pronouncing: 'мэшувим',
+    translation: 'советы / отклик',
+  },
+  {
+    word: 'מפגש',
+    pronouncing: 'мифгашь',
+    translation: 'встреча',
+  },
+  {
+    word: 'קצב',
+    pronouncing: 'кэцэв',
+    translation: 'ритм',
+  },
+  {
+    word: 'מפתיע',
+    pronouncing: 'мафтиа',
+    translation: 'удивлять',
+  },
+  {
+    word: 'להפוך',
+    pronouncing: 'лаафох',
+    translation: 'стать / превратиться',
+  },
+  {
+    word: 'להוביל',
+    pronouncing: 'лэховиль',
+    translation: 'проводить / управлять',
+  },
+  {
+    word: 'השתתפות',
+    pronouncing: 'хиштатфут',
+    translation: 'участие',
+  },
+  {
+    word: 'דורש',
+    pronouncing: 'дорэш',
+    translation: 'требовать',
+  },
+  {
+    word: 'נושא',
+    pronouncing: 'носэ',
+    translation: 'тема / предмет',
+  },
+  {
+    word: 'מעבר',
+    pronouncing: 'маавар',
+    translation: 'кроме / помимо',
+  },
+  {
+    word: 'לסילבוס',
+    pronouncing: 'лэсильбус',
+    translation: 'учебная программа',
+  },
 ]
