@@ -4043,11 +4043,246 @@ export const wordsClass5 = [
   {
     word: 'מעבר',
     pronouncing: 'маавар',
-    translation: 'кроме / помимо',
+    translation: 'кроме / помимо / проход',
   },
   {
     word: 'לסילבוס',
     pronouncing: 'лэсильбус',
     translation: 'учебная программа',
+  },
+  {
+    word: 'מועיל',
+    pronouncing: 'моиль',
+    translation: 'полезный',
+  },
+  {
+    word: 'לפתור',
+    pronouncing: 'лифтор',
+    translation: 'решить / уладить',
+  },
+  {
+    word: 'מסגרת',
+    pronouncing: 'мисгэрэт',
+    translation: 'рамка',
+  },
+  {
+    word: 'אחלה',
+    pronouncing: 'эхлэ',
+    translation: 'отлично',
+  },
+  {
+    word: 'מקליד',
+    pronouncing: 'миклид',
+    translation: 'печатать / набирать',
+  },
+  {
+    word: 'חידה',
+    pronouncing: 'хида',
+    translation: 'загадка',
+  },
+  {
+    word: 'תכנות',
+    pronouncing: 'тихнут',
+    translation: 'программирование',
+  },
+  {
+    word: 'אקראי',
+    pronouncing: 'акраи',
+    translation: 'случайный',
+  },
+  {
+    word: 'הופך',
+    pronouncing: 'хофэх',
+    translation: 'превращать',
+  },
+  {
+    word: 'שווה',
+    pronouncing: 'шав',
+    translation: 'стоит / заслуживает',
+  },
+  {
+    word: 'טווח',
+    pronouncing: 'твах',
+    translation: 'диапазон / спектр',
+  },
+  {
+    word: 'מזמן',
+    pronouncing: 'мизман',
+    translation: 'давно',
+  },
+  {
+    word: 'אתגר',
+    pronouncing: 'этгар',
+    translation: 'вызов / испытание',
+  },
+  {
+    word: 'נתקע',
+    pronouncing: 'нитка',
+    translation: 'застревать',
+  },
+  {
+    word: 'קישור',
+    pronouncing: 'кишур',
+    translation: 'ссылка',
+  },
+  {
+    word: 'הקלטה',
+    pronouncing: 'хаклата',
+    translation: 'запись / пленка',
+  },
+  {
+    word: 'כפתור',
+    pronouncing: 'кафтор',
+    translation: 'кнопка',
+  },
+  {
+    word: 'מסך',
+    pronouncing: 'масах',
+    translation: 'экран',
+  },
+  {
+    word: 'שקוף',
+    pronouncing: 'шакуф',
+    translation: 'прозрачный / очевидный',
+  },
+  {
+    word: 'צורה',
+    pronouncing: 'цура',
+    translation: 'форма / облик',
+  },
+  {
+    word: 'מוחק',
+    pronouncing: 'мохэк',
+    translation: 'удалять',
+  },
+  {
+    word: 'פריט',
+    pronouncing: 'парит',
+    translation: 'пункт / элемент',
+  },
+  {
+    word: 'שילוב',
+    pronouncing: 'шилув',
+    translation: 'комбинация / сочетание',
+  },
+  {
+    word: 'אירוע',
+    pronouncing: 'эйруа',
+    translation: 'событие',
+  },
+  {
+    word: 'טיפוס',
+    pronouncing: 'типус',
+    translation: 'тип',
+  },
+  {
+    word: 'מחובר',
+    pronouncing: 'мэхубар',
+    translation: 'быть связанным / подключенным',
+  },
+  {
+    word: 'רשת',
+    pronouncing: 'рэшэт',
+    translation: 'сеть',
+  },
+  {
+    word: 'הגדרות',
+    pronouncing: 'хагдарот',
+    translation: 'настройки / конфигурации',
+  },
+  {
+    word: 'סקר',
+    pronouncing: 'сэкэр',
+    translation: 'опрос',
+  },
+  {
+    word: 'ערך',
+    pronouncing: 'эрэх',
+    translation: 'значение / ценность',
+  },
+  {
+    word: 'ברירת מחדל',
+    pronouncing: 'брират мэхдаль',
+    translation: 'выбор по умолчанию',
+  },
+  {
+    word: 'יישום',
+    pronouncing: 'исум',
+    translation: 'приложение',
+  },
+  {
+    word: 'אופן הבא',
+    pronouncing: 'офэн хабаа',
+    translation: 'следующим образом',
+  },
+  {
+    word: 'מחזיק',
+    pronouncing: 'махзик',
+    translation: 'держать',
+  },
+  {
+    word: 'הנה',
+    pronouncing: 'хинэ',
+    translation: 'вот',
+  },
+  {
+    word: 'קובץ',
+    pronouncing: 'ковэц',
+    translation: 'файл',
+  },
+  {
+    word: 'שגיאה',
+    pronouncing: 'шгиа',
+    translation: 'ошибка',
+  },
+  {
+    word: 'הערה',
+    pronouncing: 'хараа',
+    translation: 'комментарий',
+  },
+  {
+    word: 'להגדיר',
+    pronouncing: 'лэхагдир',
+    translation: 'настроить',
+  },
+  {
+    word: 'קלט',
+    pronouncing: 'кэлэт',
+    translation: 'ввод / инпут',
+  },
+  {
+    word: 'לכלול',
+    pronouncing: 'лихлоль',
+    translation: 'включать в себя',
+  },
+  {
+    word: 'הדרגתית',
+    pronouncing: 'хадрагатит',
+    translation: 'постепенно',
+  },
+  {
+    word: 'לגרום',
+    pronouncing: 'лигром',
+    translation: 'заставлять',
+  },
+  {
+    word: 'לדלג',
+    pronouncing: 'лэдалэг',
+    translation: 'пропускать',
+  },
+  {
+    word: 'תמיכה',
+    pronouncing: 'тмиха',
+    translation: 'поддержка',
+  },
+  {
+    word: 'לעקוב',
+    pronouncing: 'лааков',
+    translation: 'отследить',
+  },
+  {
+    word: 'הדיון',
+    pronouncing: 'хадиун',
+    translation: 'дебаты / обсуждение',
   },
 ]
