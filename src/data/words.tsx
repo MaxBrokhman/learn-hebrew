@@ -4243,7 +4243,7 @@ export const wordsClass5 = [
   {
     word: 'להגדיר',
     pronouncing: 'лэхагдир',
-    translation: 'настроить',
+    translation: 'настроить / определить',
   },
   {
     word: 'קלט',
@@ -4284,5 +4284,100 @@ export const wordsClass5 = [
     word: 'הדיון',
     pronouncing: 'хадиун',
     translation: 'дебаты / обсуждение',
+  },
+  {
+    word: 'מורכב',
+    pronouncing: 'мэрукав',
+    translation: 'сложный',
+  },
+  {
+    word: 'היכולת',
+    pronouncing: 'хаехолэт',
+    translation: 'способность',
+  },
+  {
+    word: 'מחרוזת',
+    pronouncing: 'махарозэт',
+    translation: 'строка',
+  },
+  {
+    word: 'מימוש',
+    pronouncing: 'мимуш',
+    translation: 'реализация / имплементация',
+  },
+  {
+    word: 'לטעון',
+    pronouncing: 'лэтаон',
+    translation: 'утверждать',
+  },
+  {
+    word: 'מופיע',
+    pronouncing: 'мофиа',
+    translation: 'появляться',
+  },
+  {
+    word: 'מטעה',
+    pronouncing: 'матээ',
+    translation: 'быть обманчивым / подводить',
+  },
+  {
+    word: 'יוצר',
+    pronouncing: 'йоцэр',
+    translation: 'создавать',
+  },
+  {
+    word: 'מערכת',
+    pronouncing: 'марэхэт',
+    translation: 'система',
+  },
+  {
+    word: 'מתריע',
+    pronouncing: 'матриа',
+    translation: 'сигнализировать',
+  },
+  {
+    word: 'מגדיר',
+    pronouncing: 'магдир',
+    translation: 'определять',
+  },
+  {
+    word: 'ברור',
+    pronouncing: 'барур',
+    translation: 'ясно / очевидно',
+  },
+  {
+    word: 'מצפה',
+    pronouncing: 'мэцапэ',
+    translation: 'ждать',
+  },
+  {
+    word: 'מעדכן',
+    pronouncing: 'мэадкэн',
+    translation: 'обновлять',
+  },
+  {
+    word: 'יצירת',
+    pronouncing: 'яцират',
+    translation: 'создание',
+  },
+  {
+    word: 'עשוי',
+    pronouncing: 'асуй',
+    translation: 'сделанный',
+  },
+  {
+    word: 'להיראות',
+    pronouncing: 'лэхираот',
+    translation: 'выглядеть / казаться',
+  },
+  {
+    word: 'בתור',
+    pronouncing: 'бэтор',
+    translation: 'в качестве',
+  },
+  {
+    word: 'מציג',
+    pronouncing: 'мациг',
+    translation: 'представлять / показывать',
   },
 ]
