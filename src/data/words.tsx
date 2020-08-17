@@ -4380,4 +4380,39 @@ export const wordsClass5 = [
     pronouncing: 'мациг',
     translation: 'представлять / показывать',
   },
+  {
+    word: 'תומך',
+    pronouncing: 'томэх',
+    translation: 'поддерживать',
+  },
+  {
+    word: 'הגדרת',
+    pronouncing: 'хагдэрэт',
+    translation: 'настройка / установка',
+  },
+  {
+    word: 'חיצוני',
+    pronouncing: 'хицони',
+    translation: 'внешний',
+  },
+  {
+    word: 'לעדכן',
+    pronouncing: 'лэадкэн',
+    translation: 'сообщить / проинформировать',
+  },
+  {
+    word: 'רקע',
+    pronouncing: 'рэка',
+    translation: 'фон',
+  },
+  {
+    word: 'ריבוע',
+    pronouncing: 'рибуа',
+    translation: 'квадрат',
+  },
+  {
+    word: 'מקיף',
+    pronouncing: 'макиф',
+    translation: 'окружать',
+  },
 ]
