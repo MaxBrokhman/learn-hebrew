@@ -35,11 +35,11 @@ export const wordsClass5 = [
   //   pronouncing: 'сафа',
   //   translation: 'язык',
   // },
-  {
-    word: 'מקצוע',
-    pronouncing: 'микцоа',
-    translation: 'профессия',
-  },
+  // {
+  //   word: 'מקצוע',
+  //   pronouncing: 'микцоа',
+  //   translation: 'профессия',
+  // },
   {
     word: 'מתכנת',
     pronouncing: 'мэтахэнэт',
@@ -1246,8 +1246,8 @@ export const wordsClass5 = [
   //   translation: 'храм',
   // },
   // {
-  //   word: 'כיתרון',
-  //   pronouncing: 'китарон',
+  //   word: 'פיתרון',
+  //   pronouncing: 'питарон',
   //   translation: 'решение',
   // },
   // {
@@ -4344,5 +4344,170 @@ export const wordsClass5 = [
     word: 'מקיף',
     pronouncing: 'макиф',
     translation: 'окружать',
+  },
+  {
+    word: 'לאפשר',
+    pronouncing: 'лэафшэр',
+    translation: 'окружать',
+  },
+  {
+    word: 'לחיצה',
+    pronouncing: 'лэхица',
+    translation: 'клик',
+  },
+  {
+    word: 'מאפיין',
+    pronouncing: 'мэафьен',
+    translation: 'свойство',
+  },
+  {
+    word: 'משתנה',
+    pronouncing: 'мэштанэ',
+    translation: 'переменная',
+  },
+  {
+    word: 'יצירתי',
+    pronouncing: 'ецирати',
+    translation: 'креативный',
+  },
+  {
+    word: 'מרחב',
+    pronouncing: 'мэрхав',
+    translation: 'пространство',
+  },
+  {
+    word: 'מניח',
+    pronouncing: 'мэниах',
+    translation: 'считать / думать',
+  },
+  {
+    word: 'להתבלבל',
+    pronouncing: 'лэхитбальбэль',
+    translation: 'запутаться',
+  },
+  {
+    word: 'כולל',
+    pronouncing: 'колэль',
+    translation: 'включать в себя',
+  },
+  {
+    word: 'התקנת',
+    pronouncing: 'хитканэт',
+    translation: 'установка',
+  },
+  {
+    word: 'להתקין',
+    pronouncing: 'лэхаткин',
+    translation: 'устанавливать',
+  },
+  {
+    word: 'בתמורה',
+    pronouncing: 'битмура',
+    translation: 'взамен',
+  },
+  {
+    word: 'מספק',
+    pronouncing: 'мэсапэк',
+    translation: 'предоставлять',
+  },
+  {
+    word: 'מכיל',
+    pronouncing: 'мэхиль',
+    translation: 'содержать / вмещать',
+  },
+  {
+    word: 'מאגר',
+    pronouncing: 'маагар',
+    translation: 'запас / репозиторий',
+  },
+  {
+    word: 'לשלב',
+    pronouncing: 'лэшалэв',
+    translation: 'совместить / интегрировать',
+  },
+  {
+    word: 'לייצר',
+    pronouncing: 'лэяцэр',
+    translation: 'создавать / сгенерировать',
+  },
+  {
+    word: 'תיקיה',
+    pronouncing: 'тикэя',
+    translation: 'папка',
+  },
+  {
+    word: 'יחס',
+    pronouncing: 'яхас',
+    translation: 'отношение',
+  },
+  {
+    word: 'כלומר',
+    pronouncing: 'кэломар',
+    translation: 'то есть',
+  },
+  {
+    word: 'מומלץ',
+    pronouncing: 'мумлац',
+    translation: 'рекомендуется',
+  },
+  {
+    word: 'עדיף',
+    pronouncing: 'адиф',
+    translation: 'предпочтительно',
+  },
+  {
+    word: 'מוודא',
+    pronouncing: 'мэвадэ',
+    translation: 'проверить / убедиться',
+  },
+  {
+    word: 'גנרי',
+    pronouncing: 'гэнэри',
+    translation: 'универсальный',
+  },
+  {
+    word: 'צפוי',
+    pronouncing: 'цафуй',
+    translation: 'предсказуемый',
+  },
+  {
+    word: 'להישמר',
+    pronouncing: 'лэхишамэр',
+    translation: 'храниться / поддерживаться',
+  },
+  {
+    word: 'תיעוד',
+    pronouncing: 'тиуд',
+    translation: 'запись',
+  },
+  {
+    word: 'ספרון',
+    pronouncing: 'сифрон',
+    translation: 'брошюра / пособие',
+  },
+  {
+    word: 'תבנית',
+    pronouncing: 'тавнит',
+    translation: 'шаблон',
+  },
+  {
+    word: 'חיבור',
+    pronouncing: 'хибур',
+    translation: 'связь / соединение',
+  },
+  {
+    word: 'אינספור',
+    pronouncing: 'эйнспор',
+    translation: 'бесчисленное множество',
+  },
+  {
+    word: 'להיתקל',
+    pronouncing: 'лэхитакэль',
+    translation: 'сталкиваться / встречаться',
+  },
+  {
+    word: 'הסבר',
+    pronouncing: 'эсбэр',
+    translation: 'объяснение',
   },
 ]
