@@ -2481,7 +2481,7 @@ export const wordsClass5 = [
   // {
   //   word: 'מצלם',
   //   pronouncing: 'мэцалэм',
-  //   translation: 'снимать',
+  //   translation: 'снимать / фотографировать',
   // },
   // {
   //   word: 'מבטל',
@@ -4509,5 +4509,40 @@ export const wordsClass5 = [
     word: 'הסבר',
     pronouncing: 'эсбэр',
     translation: 'объяснение',
+  },
+  {
+    word: 'משאיר',
+    pronouncing: 'машир',
+    translation: 'оставлять',
+  },
+  {
+    word: 'מוריד',
+    pronouncing: 'морид',
+    translation: 'снимать',
+  },
+  {
+    word: 'נוער',
+    pronouncing: 'ноар',
+    translation: 'молодежь',
+  },
+  {
+    word: 'מצטרף',
+    pronouncing: 'мицтарэф',
+    translation: 'присоединяться',
+  },
+  {
+    word: 'נרשם',
+    pronouncing: 'ниршам',
+    translation: 'записаться / зарегистрироваться',
+  },
+  {
+    word: 'מוכרח',
+    pronouncing: 'мухрэах',
+    translation: 'быть вынужденным',
+  },
+  {
+    word: 'מעריך',
+    pronouncing: 'маарих',
+    translation: 'ценить',
   },
 ]
