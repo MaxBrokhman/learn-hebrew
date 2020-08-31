@@ -4545,4 +4545,29 @@ export const wordsClass5 = [
     pronouncing: 'маарих',
     translation: 'ценить',
   },
+  {
+    word: 'שתף',
+    pronouncing: 'шатэф',
+    translation: 'делиться / шарить',
+  },
+  {
+    word: 'מפקיר',
+    pronouncing: 'мафкир',
+    translation: 'кидать / бросать',
+  },
+  {
+    word: 'שיטה',
+    pronouncing: 'шита',
+    translation: 'метод / система / тактика',
+  },
+  {
+    word: 'פקודה',
+    pronouncing: 'пкуда',
+    translation: 'команда / приказ',
+  },
+  {
+    word: 'גירסה',
+    pronouncing: 'гирса',
+    translation: 'версия',
+  },
 ]
