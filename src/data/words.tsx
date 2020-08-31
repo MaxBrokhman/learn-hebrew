@@ -4570,4 +4570,19 @@ export const wordsClass5 = [
     pronouncing: 'гирса',
     translation: 'версия',
   },
+  {
+    word: 'תומך',
+    pronouncing: 'томэх',
+    translation: 'поддерживать',
+  },
+  {
+    word: 'בסקרים',
+    pronouncing: 'бэскарим',
+    translation: 'по опросам',
+  },
+  {
+    word: 'גישה',
+    pronouncing: 'гиша',
+    translation: 'подход / отношение',
+  },
 ]
