@@ -4585,4 +4585,39 @@ export const wordsClass5 = [
     pronouncing: 'гиша',
     translation: 'подход / отношение',
   },
+  {
+    word: 'מקור',
+    pronouncing: 'макор',
+    translation: 'источник',
+  },
+  {
+    word: 'ביצועים',
+    pronouncing: 'бицуим',
+    translation: 'производительность',
+  },
+  {
+    word: 'לדלג',
+    pronouncing: 'лэдалэг',
+    translation: 'пропустить / опустить',
+  },
+  {
+    word: 'מורכב',
+    pronouncing: 'муркав',
+    translation: 'сложный',
+  },
+  {
+    word: 'מפיל',
+    pronouncing: 'мафиль',
+    translation: 'ронять',
+  },
+  {
+    word: 'מנצח',
+    pronouncing: 'мэнацэах',
+    translation: 'победитель',
+  },
+  {
+    word: 'צורך',
+    pronouncing: 'цорэх',
+    translation: 'необходимость',
+  },
 ]
