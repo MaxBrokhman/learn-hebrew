@@ -4603,7 +4603,7 @@ export const wordsClass5 = [
   {
     word: 'מורכב',
     pronouncing: 'муркав',
-    translation: 'сложный',
+    translation: 'сложный / состоять (из)',
   },
   {
     word: 'מפיל',
@@ -4619,5 +4619,115 @@ export const wordsClass5 = [
     word: 'צורך',
     pronouncing: 'цорэх',
     translation: 'необходимость',
+  },
+  {
+    word: 'באמצעות',
+    pronouncing: 'бээмцаут',
+    translation: 'с помощью / при помощи',
+  },
+  {
+    word: 'חלוקה',
+    pronouncing: 'халука',
+    translation: 'деление / дробление',
+  },
+  {
+    word: 'להפעיל',
+    pronouncing: 'лэхафиль',
+    translation: 'активировать / включить',
+  },
+  {
+    word: 'תיבת',
+    pronouncing: 'тиват',
+    translation: 'коробка / бокс',
+  },
+  {
+    word: 'מושפע',
+    pronouncing: 'мушпа',
+    translation: 'зависеть / находиться под влиянием',
+  },
+  {
+    word: 'לצמצם',
+    pronouncing: 'лэцамцэм',
+    translation: 'сократить / уменьшить',
+  },
+  {
+    word: 'השוואה',
+    pronouncing: 'ашваа',
+    translation: 'сравнение',
+  },
+  {
+    word: 'רכיב',
+    pronouncing: 'рэхив',
+    translation: 'элемент / компонент',
+  },
+  {
+    word: 'מנגנון',
+    pronouncing: 'манганон',
+    translation: 'механизм',
+  },
+  {
+    word: 'תחילה',
+    pronouncing: 'тхила',
+    translation: 'сначала / сперва',
+  },
+  {
+    word: 'להסיק',
+    pronouncing: 'лэхасик',
+    translation: 'заключить / сделать вывод',
+  },
+  {
+    word: 'לברוח',
+    pronouncing: 'ливроах',
+    translation: 'сбежать / скрыться',
+  },
+  {
+    word: 'כפול',
+    pronouncing: 'кафуль',
+    translation: 'двойной',
+  },
+  {
+    word: 'במידת האפשר',
+    pronouncing: 'бэмидат аэфшар',
+    translation: 'если возможно',
+  },
+  {
+    word: 'מערך',
+    pronouncing: 'маарах',
+    translation: 'массив / набор',
+  },
+  {
+    word: 'להעלם',
+    pronouncing: 'лэхалам',
+    translation: 'исчезать',
+  },
+  {
+    word: 'ביצוע',
+    pronouncing: 'бицуа',
+    translation: 'исполнение / совершение',
+  },
+  {
+    word: 'ביטוי',
+    pronouncing: 'битуй',
+    translation: 'выражение',
+  },
+  {
+    word: 'רשימת',
+    pronouncing: 'рэшимат',
+    translation: 'список',
+  },
+  {
+    word: 'ליישם',
+    pronouncing: 'лэясэм',
+    translation: 'применять / использовать',
+  },
+  {
+    word: 'עוטף',
+    pronouncing: 'отэф',
+    translation: 'оборачивать',
+  },
+  {
+    word: 'מקורי',
+    pronouncing: 'мэкори',
+    translation: 'оригинальный / подлинный',
   },
 ]
