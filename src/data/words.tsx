@@ -4730,4 +4730,19 @@ export const wordsClass5 = [
     pronouncing: 'мэкори',
     translation: 'оригинальный / подлинный',
   },
+  {
+    word: 'משלב',
+    pronouncing: 'мэшалэв',
+    translation: 'объединять',
+  },
+  {
+    word: 'לציין',
+    pronouncing: 'лэцаен',
+    translation: 'упомянуть / заметить',
+  },
+  {
+    word: 'פקד',
+    pronouncing: 'пакад',
+    translation: 'компонент',
+  },
 ]
