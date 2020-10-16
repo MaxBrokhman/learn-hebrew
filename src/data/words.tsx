@@ -4328,7 +4328,7 @@ export const wordsClass5 = [
   {
     word: 'לעדכן',
     pronouncing: 'лэадкэн',
-    translation: 'сообщить / проинформировать',
+    translation: 'обновить / проинформировать',
   },
   {
     word: 'רקע',
@@ -4744,5 +4744,85 @@ export const wordsClass5 = [
     word: 'פקד',
     pronouncing: 'пакад',
     translation: 'компонент',
+  },
+  {
+    word: 'לצורך',
+    pronouncing: 'лэцОрэх',
+    translation: 'ради',
+  },
+  {
+    word: 'ניהול',
+    pronouncing: 'нихуль',
+    translation: 'менеджмент / управление',
+  },
+  {
+    word: 'נועד',
+    pronouncing: 'ноад',
+    translation: 'предназначено / должно было',
+  },
+  {
+    word: 'מבחינת',
+    pronouncing: 'мэбхинат',
+    translation: 'с точки зрения',
+  },
+  {
+    word: 'לאפשר',
+    pronouncing: 'лэафшэр',
+    translation: 'позволить / дать',
+  },
+  {
+    word: 'כולו',
+    pronouncing: 'куло',
+    translation: 'полностью / целиком',
+  },
+  {
+    word: 'מבעוד',
+    pronouncing: 'мивод',
+    translation: 'заранее',
+  },
+  {
+    word: 'מתאר',
+    pronouncing: 'мэтаэр',
+    translation: 'описывать',
+  },
+  {
+    word: 'תגובה',
+    pronouncing: 'тгува',
+    translation: 'реакция',
+  },
+  {
+    word: 'עדכון',
+    pronouncing: 'идкун',
+    translation: 'новость / обновление',
+  },
+  {
+    word: 'חלופה',
+    pronouncing: 'халуфа',
+    translation: 'альтернатива',
+  },
+  {
+    word: 'יחסית',
+    pronouncing: 'яхасит',
+    translation: 'сравнительно / относительно',
+  },
+  {
+    word: 'מוגבל',
+    pronouncing: 'мугваль',
+    translation: 'ограниченный',
+  },
+  {
+    word: 'לחלק',
+    pronouncing: 'лэхалэк',
+    translation: 'разделять',
+  },
+  {
+    word: 'שליטה',
+    pronouncing: 'шлита',
+    translation: 'контроль',
+  },
+  {
+    word: 'קריאה',
+    pronouncing: 'криа',
+    translation: 'вызов / чтение',
   },
 ]
