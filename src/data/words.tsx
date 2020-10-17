@@ -4825,4 +4825,29 @@ export const wordsClass5 = [
     pronouncing: 'криа',
     translation: 'вызов / чтение',
   },
+  {
+    word: 'שיפור',
+    pronouncing: 'шипур',
+    translation: 'улучшение',
+  },
+  {
+    word: 'טעינה',
+    pronouncing: 'тэина',
+    translation: 'загрузка / зарядка',
+  },
+  {
+    word: 'ניצול',
+    pronouncing: 'ницуль',
+    translation: 'эксплуатация / использование',
+  },
+  {
+    word: 'מנצל',
+    pronouncing: 'мэнацэль',
+    translation: 'использовать',
+  },
+  {
+    word: 'דפדפן',
+    pronouncing: 'дафдэфан',
+    translation: 'браузер',
+  },
 ]
