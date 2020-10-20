@@ -4850,4 +4850,34 @@ export const wordsClass5 = [
     pronouncing: 'дафдэфан',
     translation: 'браузер',
   },
+  {
+    word: 'שרת',
+    pronouncing: 'шарат',
+    translation: 'сервер',
+  },
+  {
+    word: 'סביר',
+    pronouncing: 'савир',
+    translation: 'вероятно / вероятный',
+  },
+  {
+    word: 'לוותר',
+    pronouncing: 'лэватэр',
+    translation: 'отказаться',
+  },
+  {
+    word: 'ציון',
+    pronouncing: 'циун',
+    translation: 'оценка',
+  },
+  {
+    word: 'איטי',
+    pronouncing: 'ити',
+    translation: 'медленный',
+  },
+  {
+    word: 'מטמון',
+    pronouncing: 'мэтамон',
+    translation: 'кеш',
+  },
 ]
