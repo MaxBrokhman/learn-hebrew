@@ -4880,4 +4880,284 @@ export const wordsClass5 = [
     pronouncing: 'мэтамон',
     translation: 'кеш',
   },
+  {
+    word: 'בשיגרה',
+    pronouncing: 'башигра',
+    translation: 'в бытовухе',
+  },
+  {
+    word: 'משבר',
+    pronouncing: 'машбэр',
+    translation: 'кризис',
+  },
+  {
+    word: 'כרוך',
+    pronouncing: 'карух',
+    translation: 'подразумевать',
+  },
+  {
+    word: 'צוות',
+    pronouncing: 'цэвэт',
+    translation: 'команда / коллектив',
+  },
+  {
+    word: 'כורח',
+    pronouncing: 'корэах',
+    translation: 'нужда / необходимость',
+  },
+  {
+    word: 'יעילות',
+    pronouncing: 'эйлут',
+    translation: 'эффективность',
+  },
+  {
+    word: 'להפנות',
+    pronouncing: 'лэхафнот',
+    translation: 'направить',
+  },
+  {
+    word: 'ראשית',
+    pronouncing: 'рашит',
+    translation: 'во-первых',
+  },
+  {
+    word: 'זריז',
+    pronouncing: 'зариз',
+    translation: 'быстрый',
+  },
+  {
+    word: 'משמעותי',
+    pronouncing: 'машмаути',
+    translation: 'значительный',
+  },
+  {
+    word: 'מעיד',
+    pronouncing: 'мэид',
+    translation: 'указывает / свидетельствует',
+  },
+  {
+    word: 'עצמאי',
+    pronouncing: 'ацмаи',
+    translation: 'независимый / самостоятельный',
+  },
+  {
+    word: 'משימה',
+    pronouncing: 'мэсима',
+    translation: 'задача / поручение',
+  },
+  {
+    word: 'מודע',
+    pronouncing: 'модэ',
+    translation: 'быть в курсе',
+  },
+  {
+    word: 'להתגבר',
+    pronouncing: 'лэхитгавэр',
+    translation: 'преодолеть',
+  },
+  {
+    word: 'היבט',
+    pronouncing: 'хэйбэт',
+    translation: 'аспект',
+  },
+  {
+    word: 'להשתדל',
+    pronouncing: 'лэхиштадэль',
+    translation: 'стараться',
+  },
+  {
+    word: 'חלל',
+    pronouncing: 'халаль',
+    translation: 'пространство / космос',
+  },
+  {
+    word: 'מדובר',
+    pronouncing: 'мэдубар',
+    translation: 'речь идет о / мы говорим о',
+  },
+  {
+    word: 'קרח',
+    pronouncing: 'кэрэах',
+    translation: 'лед',
+  },
+  {
+    word: 'מסדרון',
+    pronouncing: 'мисдэрон',
+    translation: 'корридор',
+  },
+  {
+    word: 'הליכה',
+    pronouncing: 'алиха',
+    translation: 'прогулка / ходьба',
+  },
+  {
+    word: 'מבחין',
+    pronouncing: 'мавхин',
+    translation: 'замечать',
+  },
+  {
+    word: 'לאורך',
+    pronouncing: 'лэорэх',
+    translation: 'на протяжении / в течении',
+  },
+  {
+    word: 'זקוק',
+    pronouncing: 'закук',
+    translation: 'нуждаться в',
+  },
+  {
+    word: 'לקדם',
+    pronouncing: 'лэкадэм',
+    translation: 'повысить / продвинуть',
+  },
+  {
+    word: 'החלפה',
+    pronouncing: 'ахлафа',
+    translation: 'обмен',
+  },
+  {
+    word: 'גורל',
+    pronouncing: 'гораль',
+    translation: 'судьба',
+  },
+  {
+    word: 'מונע',
+    pronouncing: 'монэа',
+    translation: 'останавливать / удерживать',
+  },
+  {
+    word: 'מגוון',
+    pronouncing: 'мигэван',
+    translation: 'многообразие',
+  },
+  {
+    word: 'כלי',
+    pronouncing: 'кэли',
+    translation: 'инструмент',
+  },
+  {
+    word: 'כגון',
+    pronouncing: 'кэгон',
+    translation: 'например',
+  },
+  {
+    word: 'לצרף',
+    pronouncing: 'лэцарэф',
+    translation: 'привлечь / подключить',
+  },
+  {
+    word: 'ממוקד',
+    pronouncing: 'мэмукад',
+    translation: 'быть сосредоточенным',
+  },
+  {
+    word: 'חזותי',
+    pronouncing: 'хазути',
+    translation: 'визуальный',
+  },
+  {
+    word: 'שקיפות',
+    pronouncing: 'шкифут',
+    translation: 'прозрачность / открытость',
+  },
+  {
+    word: 'לפרגן',
+    pronouncing: 'лэфаргэн',
+    translation: 'порадоваться',
+  },
+  {
+    word: 'מתחם',
+    pronouncing: 'митхам',
+    translation: 'участок / комплекс / периметр',
+  },
+  {
+    word: 'מעסיק',
+    pronouncing: 'маасик',
+    translation: 'работодатель',
+  },
+  {
+    word: 'לתאם',
+    pronouncing: 'лэтаэм',
+    translation: 'координировать / согласовывать',
+  },
+  {
+    word: 'שאר',
+    pronouncing: 'шэар',
+    translation: 'остальной',
+  },
+  {
+    word: 'ציפיות',
+    pronouncing: 'цифиот',
+    translation: 'ожидания',
+  },
+  {
+    word: 'לרבות',
+    pronouncing: 'лэработ',
+    translation: 'включая / в том числе',
+  },
+  {
+    word: 'מניסיוני',
+    pronouncing: 'минэсиони',
+    translation: 'по моему опыту',
+  },
+  {
+    word: 'תיאור',
+    pronouncing: 'тэур',
+    translation: 'описание',
+  },
+  {
+    word: 'מדויק',
+    pronouncing: 'мэдуяк',
+    translation: 'точный',
+  },
+  {
+    word: 'ממשק',
+    pronouncing: 'мимшак',
+    translation: 'интерфейс',
+  },
+  {
+    word: 'הנחיות',
+    pronouncing: 'ханэхайот',
+    translation: 'инструкции',
+  },
+  {
+    word: 'הדרכה',
+    pronouncing: 'хадраха',
+    translation: 'руководство',
+  },
+  {
+    word: 'תחושה',
+    pronouncing: 'тхуша',
+    translation: 'ощущение',
+  },
+  {
+    word: 'שכיח',
+    pronouncing: 'шахиах',
+    translation: 'обычное дело / не редкость',
+  },
+  {
+    word: 'נמנע',
+    pronouncing: 'нимна',
+    translation: 'избежать',
+  },
+  {
+    word: 'הכשרת',
+    pronouncing: 'ахшарат',
+    translation: 'подготовка / обучение',
+  },
+  {
+    word: 'להזניח',
+    pronouncing: 'лэхазниах',
+    translation: 'пренебрегать',
+  },
+  {
+    word: 'מאמר',
+    pronouncing: 'маамар',
+    translation: 'статья',
+  },
+  {
+    word: 'לעודד',
+    pronouncing: 'лэодэд',
+    translation: 'поощрять',
+  },
 ]
