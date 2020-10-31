@@ -5160,4 +5160,24 @@ export const wordsClass5 = [
     pronouncing: 'лэодэд',
     translation: 'поощрять',
   },
+  {
+    word: 'ציפיה',
+    pronouncing: 'ципия',
+    translation: 'ожидания',
+  },
+  {
+    word: 'זורח',
+    pronouncing: 'зорэах',
+    translation: 'сиять',
+  },
+  {
+    word: 'מריץ',
+    pronouncing: 'мэриц',
+    translation: 'запускать',
+  },
+  {
+    word: 'דגיש',
+    pronouncing: 'дагиш',
+    translation: 'подчеркнуть',
+  },
 ]
