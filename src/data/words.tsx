@@ -3552,7 +3552,7 @@ export const wordsClass5 = [
   },
   {
     word: 'הבדל',
-    pronouncing: 'хабдаль',
+    pronouncing: 'хэвдэль',
     translation: 'разница / различие',
   },
   {
@@ -5179,5 +5179,135 @@ export const wordsClass5 = [
     word: 'דגיש',
     pronouncing: 'дагиш',
     translation: 'подчеркнуть',
+  },
+  {
+    word: 'במקור',
+    pronouncing: 'бэмакор',
+    translation: 'изначально',
+  },
+  {
+    word: 'לגמרי',
+    pronouncing: 'лэгамрэй',
+    translation: 'полностью',
+  },
+  {
+    word: 'ספק',
+    pronouncing: 'сафэк',
+    translation: 'сомнение',
+  },
+  {
+    word: 'בסיסי',
+    pronouncing: 'бсиси',
+    translation: 'базовый',
+  },
+  {
+    word: 'מקף',
+    pronouncing: 'мэкаф',
+    translation: 'дефис',
+  },
+  {
+    word: 'משקיע',
+    pronouncing: 'машкиа',
+    translation: 'инвестировать',
+  },
+  {
+    word: 'מצגת',
+    pronouncing: 'мацэгэт',
+    translation: 'презентация',
+  },
+  {
+    word: 'כתיב',
+    pronouncing: 'катив',
+    translation: 'синтаксис',
+  },
+  {
+    word: 'סוגריים',
+    pronouncing: 'суграим',
+    translation: 'скобки',
+  },
+  {
+    word: 'מסולסל',
+    pronouncing: 'мэсульсаль',
+    translation: 'волнистый / вьющийся',
+  },
+  {
+    word: 'מיותר',
+    pronouncing: 'мэйотэр',
+    translation: 'излишне',
+  },
+  {
+    word: 'עסק',
+    pronouncing: 'асак',
+    translation: 'бизнес / занятие',
+  },
+  {
+    word: 'תחביר',
+    pronouncing: 'тахбир',
+    translation: 'синтаксис',
+  },
+  {
+    word: 'שירטוט',
+    pronouncing: 'шэйртот',
+    translation: 'набросок',
+  },
+  {
+    word: 'תואם',
+    pronouncing: 'тоэм',
+    translation: 'совпадать / соответствовать',
+  },
+  {
+    word: 'לחלוטין',
+    pronouncing: 'лахалутин',
+    translation: 'полностью / абсолютно',
+  },
+  {
+    word: 'סיומות',
+    pronouncing: 'сиомот',
+    translation: 'расширения',
+  },
+  {
+    word: 'תכף',
+    pronouncing: 'тэхэф',
+    translation: 'сейчас / немедленно',
+  },
+  {
+    word: 'מובנית',
+    pronouncing: 'мувнит',
+    translation: 'встроенный',
+  },
+  {
+    word: 'זהה',
+    pronouncing: 'зээ',
+    translation: 'такой же',
+  },
+  {
+    word: 'ניצחונה',
+    pronouncing: 'ницхона',
+    translation: 'победа',
+  },
+  {
+    word: 'מקונן',
+    pronouncing: 'мэконэн',
+    translation: 'вложенный',
+  },
+  {
+    word: 'מסורבל',
+    pronouncing: 'мэсурбаль',
+    translation: 'неуклюжий',
+  },
+  {
+    word: 'לוכסן',
+    pronouncing: 'лохсан',
+    translation: 'слэш',
+  },
+  {
+    word: 'לעומק',
+    pronouncing: 'лаомэк',
+    translation: 'вглубь',
+  },
+  {
+    word: 'עדין',
+    pronouncing: 'адин',
+    translation: 'нежный / деликатный',
   },
 ]
