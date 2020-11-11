@@ -5310,4 +5310,124 @@ export const wordsClass5 = [
     pronouncing: 'адин',
     translation: 'нежный / деликатный',
   },
+  {
+    word: 'הפרדה',
+    pronouncing: 'хафрада',
+    translation: 'разделение',
+  },
+  {
+    word: 'סידור',
+    pronouncing: 'сидур',
+    translation: 'соглашение / договоренность',
+  },
+  {
+    word: 'חוויה',
+    pronouncing: 'хавая',
+    translation: 'опыт / переживание',
+  },
+  {
+    word: 'לחשב',
+    pronouncing: 'лэхашэв',
+    translation: 'рассчитать / вычислить',
+  },
+  {
+    word: 'נגזרים',
+    pronouncing: 'нигзарим',
+    translation: 'производные',
+  },
+  {
+    word: 'מציין',
+    pronouncing: 'мэцаен',
+    translation: 'показывает / указывает',
+  },
+  {
+    word: 'נע',
+    pronouncing: 'на',
+    translation: 'перемещаться',
+  },
+  {
+    word: 'אגב',
+    pronouncing: 'агав',
+    translation: 'кстати',
+  },
+  {
+    word: 'חישוב',
+    pronouncing: 'хишув',
+    translation: 'вычисление',
+  },
+  {
+    word: 'גופן',
+    pronouncing: 'гуфан',
+    translation: 'шрифт',
+  },
+  {
+    word: 'השוליים',
+    pronouncing: 'хашулаим',
+    translation: 'границы',
+  },
+  {
+    word: 'תיעוד',
+    pronouncing: 'тиуд',
+    translation: 'документация',
+  },
+  {
+    word: 'גוון',
+    pronouncing: 'гавэн',
+    translation: 'оттенок',
+  },
+  {
+    word: 'אטום',
+    pronouncing: 'атом',
+    translation: 'непрозрачный',
+  },
+  {
+    word: 'שקוף',
+    pronouncing: 'шакуф',
+    translation: 'прозрачный',
+  },
+  {
+    word: 'לעגל',
+    pronouncing: 'лэагэль',
+    translation: 'округлять',
+  },
+  {
+    word: 'שלם',
+    pronouncing: 'шалэм',
+    translation: 'целый / полный',
+  },
+  {
+    word: 'מיכל',
+    pronouncing: 'михаль',
+    translation: 'контейнер',
+  },
+  {
+    word: 'עיצוב',
+    pronouncing: 'ицув',
+    translation: 'дизайн',
+  },
+  {
+    word: 'בקרה',
+    pronouncing: 'бакара',
+    translation: 'центр / диспетчер',
+  },
+  {
+    word: 'לולאה',
+    pronouncing: 'лулаа',
+    translation: 'цикл',
+  },
+  {
+    word: 'נניח',
+    pronouncing: 'наниах',
+    translation: 'предположим / допустим',
+  },
+  {
+    word: 'להתאים',
+    pronouncing: 'лэхатэим',
+    translation: 'сопоставить / сравнить',
+  },
+  {
+    word: 'כותרת',
+    pronouncing: 'котэрэт',
+    translation: 'заголовок',
+  },
 ]
