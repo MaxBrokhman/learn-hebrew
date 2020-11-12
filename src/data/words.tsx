@@ -5430,4 +5430,19 @@ export const wordsClass5 = [
     pronouncing: 'котэрэт',
     translation: 'заголовок',
   },
+  {
+    word: 'תוקף',
+    pronouncing: 'токэф',
+    translation: 'срок годности / срок действия',
+  },
+  {
+    word: 'פינוק',
+    pronouncing: 'пинук',
+    translation: 'удовольствие',
+  },
+  {
+    word: 'לשכפל',
+    pronouncing: 'лэшахпэль',
+    translation: 'копировать / воспроизводить',
+  },
 ]
