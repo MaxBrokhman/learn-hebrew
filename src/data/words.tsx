@@ -5445,4 +5445,14 @@ export const wordsClass5 = [
     pronouncing: 'лэшахпэль',
     translation: 'копировать / воспроизводить',
   },
+  {
+    word: 'מקשקש',
+    pronouncing: 'мэкашкэш',
+    translation: 'болтать',
+  },
+  {
+    word: 'מוזר',
+    pronouncing: 'музар',
+    translation: 'странный',
+  },
 ]
