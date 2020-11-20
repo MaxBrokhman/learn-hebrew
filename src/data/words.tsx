@@ -5455,4 +5455,14 @@ export const wordsClass5 = [
     pronouncing: 'музар',
     translation: 'странный',
   },
+  {
+    word: 'עקשן',
+    pronouncing: 'акшан',
+    translation: 'упрямый',
+  },
+  {
+    word: 'קליפה',
+    pronouncing: 'клипа',
+    translation: 'оболочка, кора',
+  },
 ]
