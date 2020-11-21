@@ -5465,4 +5465,89 @@ export const wordsClass5 = [
     pronouncing: 'клипа',
     translation: 'оболочка, кора',
   },
+  {
+    word: 'ניקוי',
+    pronouncing: 'никуй',
+    translation: 'чистка / очистка',
+  },
+  {
+    word: 'אוסף',
+    pronouncing: 'осэф',
+    translation: 'коллекция / набор',
+  },
+  {
+    word: 'מסוגל',
+    pronouncing: 'месугаль',
+    translation: 'способный',
+  },
+  {
+    word: 'ירושה',
+    pronouncing: 'еруша',
+    translation: 'наследство',
+  },
+  {
+    word: 'חיצון',
+    pronouncing: 'хицон',
+    translation: 'наружный / внешний',
+  },
+  {
+    word: 'לעומת',
+    pronouncing: 'лэумат',
+    translation: 'по сравнению с',
+  },
+  {
+    word: 'מגדיל',
+    pronouncing: 'магдиль',
+    translation: 'увеличивать / повышать',
+  },
+  {
+    word: 'השלכה',
+    pronouncing: 'хашлаха',
+    translation: 'последствие',
+  },
+  {
+    word: 'להתמודד',
+    pronouncing: 'лэхитмодэд',
+    translation: 'справиться / разобраться',
+  },
+  {
+    word: 'מצטבר',
+    pronouncing: 'мицтавэр',
+    translation: 'накапливающийся / кумулятивный',
+  },
+  {
+    word: 'סיבוך',
+    pronouncing: 'сибух',
+    translation: 'сложности',
+  },
+  {
+    word: 'בניגוד',
+    pronouncing: 'бэнигуд',
+    translation: 'в отличие от',
+  },
+  {
+    word: 'סכנה',
+    pronouncing: 'сакана',
+    translation: 'опасность',
+  },
+  {
+    word: 'התנגשויות',
+    pronouncing: 'хитнагшует',
+    translation: 'столкновения / конфликты',
+  },
+  {
+    word: 'תהום',
+    pronouncing: 'тэхом',
+    translation: 'бездна',
+  },
+  {
+    word: 'תמריץ',
+    pronouncing: 'тамриц',
+    translation: 'стимул / мотивация',
+  },
+  {
+    word: 'להנות',
+    pronouncing: 'лэханот',
+    translation: 'наслаждаться',
+  },
 ]
