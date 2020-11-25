@@ -5550,4 +5550,19 @@ export const wordsClass5 = [
     pronouncing: 'лэханот',
     translation: 'наслаждаться',
   },
+  {
+    word: 'במלואה',
+    pronouncing: 'бэмэлуа',
+    translation: 'полностью',
+  },
+  {
+    word: 'מרחיב',
+    pronouncing: 'мархив',
+    translation: 'расширять',
+  },
+  {
+    word: 'מוצפן',
+    pronouncing: 'муцпан',
+    translation: 'зашифрованный',
+  },
 ]
