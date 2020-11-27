@@ -5565,4 +5565,19 @@ export const wordsClass5 = [
     pronouncing: 'муцпан',
     translation: 'зашифрованный',
   },
+  {
+    word: 'לייבא',
+    pronouncing: 'лэявэ',
+    translation: 'импортировать',
+  },
+  {
+    word: 'מראה',
+    pronouncing: 'марэ',
+    translation: 'зеркало / вид',
+  },
+  {
+    word: 'סיכוי',
+    pronouncing: 'сикуй',
+    translation: 'шанс / вероятность',
+  },
 ]
