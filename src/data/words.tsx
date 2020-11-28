@@ -5580,4 +5580,9 @@ export const wordsClass5 = [
     pronouncing: 'сикуй',
     translation: 'шанс / вероятность',
   },
+  {
+    word: 'בילוי',
+    pronouncing: 'билуй',
+    translation: 'отдых',
+  },
 ]
