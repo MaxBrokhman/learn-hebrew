@@ -5585,4 +5585,14 @@ export const wordsClass5 = [
     pronouncing: 'билуй',
     translation: 'отдых',
   },
+  {
+    word: 'להינות',
+    pronouncing: 'лэханот',
+    translation: 'наслаждаться / получать удовольствие',
+  },
+  {
+    word: 'תקציב',
+    pronouncing: 'такцив',
+    translation: 'смета / бюджет',
+  },
 ]
