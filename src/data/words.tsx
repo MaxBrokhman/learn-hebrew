@@ -5595,4 +5595,14 @@ export const wordsClass5 = [
     pronouncing: 'такцив',
     translation: 'смета / бюджет',
   },
+  {
+    word: 'לגבי',
+    pronouncing: 'лэгабэй',
+    translation: 'что касается / на счет того, что',
+  },
+  {
+    word: 'הפרדה',
+    pronouncing: 'афрада',
+    translation: 'разделение / сегрегация',
+  },
 ]
