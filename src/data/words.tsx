@@ -5605,4 +5605,19 @@ export const wordsClass5 = [
     pronouncing: 'афрада',
     translation: 'разделение / сегрегация',
   },
+  {
+    word: 'מטרייה',
+    pronouncing: 'митрия',
+    translation: 'зонтик',
+  },
+  {
+    word: 'להצטיין',
+    pronouncing: 'лэхицтаен',
+    translation: 'преуспеть / отличиться',
+  },
+  {
+    word: 'להזהיר',
+    pronouncing: 'лэхазхир',
+    translation: 'предостерегать',
+  },
 ]
