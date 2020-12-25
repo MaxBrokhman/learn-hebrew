@@ -5620,4 +5620,14 @@ export const wordsClass5 = [
     pronouncing: 'лэхазхир',
     translation: 'предостерегать',
   },
+  {
+    word: 'סוללה',
+    pronouncing: 'солэла',
+    translation: 'батарейка',
+  },
+  {
+    word: 'זכוכית',
+    pronouncing: 'зхухит',
+    translation: 'стекло',
+  },
 ]
