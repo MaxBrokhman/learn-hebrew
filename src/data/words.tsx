@@ -42,7 +42,7 @@ export const wordsClass5 = [
   // },
   {
     word: 'מתכנת',
-    pronouncing: 'мэтахэнэт',
+    pronouncing: 'мэтахнэт',
     translation: 'программист',
   },
   // {
@@ -55,11 +55,11 @@ export const wordsClass5 = [
   //   pronouncing: 'маком',
   //   translation: 'место',
   // },
-  {
-    word: 'לידה',
-    pronouncing: 'лэйда',
-    translation: 'рождение',
-  },
+  // {
+  //   word: 'לידה',
+  //   pronouncing: 'лэйда',
+  //   translation: 'рождение',
+  // },
   // {
   //   word: 'תאריך',
   //   pronouncing: 'тарих',
@@ -90,46 +90,46 @@ export const wordsClass5 = [
   //   pronouncing: 'мацав',
   //   translation: 'положение / ситуация',
   // },
-  {
-    word: 'מין',
-    pronouncing: 'мин',
-    translation: 'пол',
-  },
+  // {
+  //   word: 'מין',
+  //   pronouncing: 'мин',
+  //   translation: 'пол',
+  // },
   {
     word: 'גרוש',
     pronouncing: 'гаруш',
     translation: 'в разводе',
   },
-  {
-    word: 'נשיא',
-    pronouncing: 'наси',
-    translation: 'президент',
-  },
+  // {
+  //   word: 'נשיא',
+  //   pronouncing: 'наси',
+  //   translation: 'президент',
+  // },
   // {
   //   word: 'השכלה',
   //   pronouncing: 'ашкала',
   //   translation: 'образование',
   // },
-  {
-    word: 'גיל',
-    pronouncing: 'гил',
-    translation: 'возраст',
-  },
-  {
-    word: 'אישי',
-    pronouncing: 'иши',
-    translation: 'личный',
-  },
+  // {
+  //   word: 'גיל',
+  //   pronouncing: 'гил',
+  //   translation: 'возраст',
+  // },
+  // {
+  //   word: 'אישי',
+  //   pronouncing: 'иши',
+  //   translation: 'личный',
+  // },
   // {
   //   word: 'משפט',
   //   pronouncing: 'мишпат',
   //   translation: 'предложение',
   // },
-  {
-    word: 'חוץ',
-    pronouncing: 'хуц',
-    translation: 'кроме',
-  },
+  // {
+  //   word: 'חוץ',
+  //   pronouncing: 'хуц',
+  //   translation: 'кроме',
+  // },
   {
     word: 'עיתון',
     pronouncing: 'итон',
@@ -180,11 +180,11 @@ export const wordsClass5 = [
   //   pronouncing: 'шээла',
   //   translation: 'вопрос',
   // },
-  {
-    word: 'תשובה',
-    pronouncing: 'тшува',
-    translation: 'ответ',
-  },
+  // {
+  //   word: 'תשובה',
+  //   pronouncing: 'тшува',
+  //   translation: 'ответ',
+  // },
   // {
   //   word: 'מקרר',
   //   pronouncing: 'мэкарэр',
@@ -200,11 +200,11 @@ export const wordsClass5 = [
   //   pronouncing: 'уга',
   //   translation: 'торт',
   // },
-  {
-    word: 'תפוז',
-    pronouncing: 'тапуз',
-    translation: 'апельсин',
-  },
+  // {
+  //   word: 'תפוז',
+  //   pronouncing: 'тапуз',
+  //   translation: 'апельсин',
+  // },
   // {
   //   word: 'מתנה',
   //   pronouncing: 'матана',
@@ -255,26 +255,26 @@ export const wordsClass5 = [
     pronouncing: 'шакэн',
     translation: 'сосед',
   },
-  {
-    word: 'זוג',
-    pronouncing: 'зуг',
-    translation: 'пара',
-  },
+  // {
+  //   word: 'זוג',
+  //   pronouncing: 'зуг',
+  //   translation: 'пара',
+  // },
   // {
   //   word: 'הולדת',
   //   pronouncing: 'улэдэт',
   //   translation: 'рождение',
   // },
-  {
-    word: 'רישיון',
-    pronouncing: 'ришайон',
-    translation: 'права / лицензия',
-  },
-  {
-    word: 'נהיגה',
-    pronouncing: 'нэига',
-    translation: 'вождение',
-  },
+  // {
+  //   word: 'רישיון',
+  //   pronouncing: 'ришайон',
+  //   translation: 'права / лицензия',
+  // },
+  // {
+  //   word: 'נהיגה',
+  //   pronouncing: 'нэига',
+  //   translation: 'вождение',
+  // },
   // {
   //   word: 'כריך',
   //   pronouncing: 'карих',
@@ -285,36 +285,36 @@ export const wordsClass5 = [
   //   pronouncing: 'рахав',
   //   translation: 'широкий',
   // },
-  {
-    word: 'כבד',
-    pronouncing: 'кавэд',
-    translation: 'тяжелый',
-  },
-  {
-    word: 'ארוך',
-    pronouncing: 'арох',
-    translation: 'длинный',
-  },
+  // {
+  //   word: 'כבד',
+  //   pronouncing: 'кавэд',
+  //   translation: 'тяжелый',
+  // },
+  // {
+  //   word: 'ארוך',
+  //   pronouncing: 'арох',
+  //   translation: 'длинный',
+  // },
   {
     word: 'מרפסת',
     pronouncing: 'мирпэсэт',
     translation: 'балкон',
   },
-  {
-    word: 'חד',
-    pronouncing: 'хад',
-    translation: 'острый',
-  },
+  // {
+  //   word: 'חד',
+  //   pronouncing: 'хад',
+  //   translation: 'острый',
+  // },
   // {
   //   word: 'חזק',
   //   pronouncing: 'хазак',
   //   translation: 'сильный / крепкий',
   // },
-  {
-    word: 'שמן',
-    pronouncing: 'шэмин',
-    translation: 'толстый / сытый',
-  },
+  // {
+  //   word: 'שמן',
+  //   pronouncing: 'шэмин',
+  //   translation: 'толстый / сытый',
+  // },
   {
     word: 'עמוק',
     pronouncing: 'амок',
@@ -325,11 +325,11 @@ export const wordsClass5 = [
   //   pronouncing: 'паним',
   //   translation: 'лицо',
   // },
-  {
-    word: 'ארון',
-    pronouncing: 'арон',
-    translation: 'шкаф',
-  },
+  // {
+  //   word: 'ארון',
+  //   pronouncing: 'арон',
+  //   translation: 'шкаф',
+  // },
   {
     word: 'ציפור',
     pronouncing: 'ципор',
@@ -470,15 +470,10 @@ export const wordsClass5 = [
   //   pronouncing: 'бгадим',
   //   translation: 'одежда',
   // },
-  {
-    word: 'כפר',
-    pronouncing: 'кфар',
-    translation: 'деревня',
-  },
   // {
-  //   word: 'כשומר',
-  //   pronouncing: 'кэшомэр',
-  //   translation: 'охранник',
+  //   word: 'כפר',
+  //   pronouncing: 'кфар',
+  //   translation: 'деревня',
   // },
   // {
   //   word: 'פקיד',
@@ -505,11 +500,11 @@ export const wordsClass5 = [
   //   pronouncing: 'хаи',
   //   translation: 'жить',
   // },
-  {
-    word: 'משחק',
-    pronouncing: 'мэсахэк',
-    translation: 'играть',
-  },
+  // {
+  //   word: 'משחק',
+  //   pronouncing: 'мэсахэк',
+  //   translation: 'играть',
+  // },
   // {
   //   word: 'מטפל',
   //   pronouncing: 'мэтапэль',
@@ -520,11 +515,11 @@ export const wordsClass5 = [
   //   pronouncing: 'тари',
   //   translation: 'свежий',
   // },
-  {
-    word: 'קצר',
-    pronouncing: 'кацар',
-    translation: 'короткий',
-  },
+  // {
+  //   word: 'קצר',
+  //   pronouncing: 'кацар',
+  //   translation: 'короткий',
+  // },
   // {
   //   word: 'נר',
   //   pronouncing: 'нэр',
@@ -570,11 +565,11 @@ export const wordsClass5 = [
   //   pronouncing: 'якирати',
   //   translation: 'дорогая',
   // },
-  {
-    word: 'אמיתי',
-    pronouncing: 'амити',
-    translation: 'настоящий / реальный',
-  },
+  // {
+  //   word: 'אמיתי',
+  //   pronouncing: 'амити',
+  //   translation: 'настоящий / реальный',
+  // },
   // {
   //   word: 'נכד',
   //   pronouncing: 'нэхад',
@@ -617,7 +612,7 @@ export const wordsClass5 = [
   // },
   {
     word: 'ציבור',
-    pronouncing: 'цивур',
+    pronouncing: 'цибур',
     translation: 'публичный',
   },
   // {
@@ -625,11 +620,11 @@ export const wordsClass5 = [
   //   pronouncing: 'мишкафаим',
   //   translation: 'очки',
   // },
-  {
-    word: 'חסר',
-    pronouncing: 'хасэр',
-    translation: 'отсутствовать / не хватает',
-  },
+  // {
+  //   word: 'חסר',
+  //   pronouncing: 'хасэр',
+  //   translation: 'отсутствовать / не хватает',
+  // },
   // {
   //   word: 'זקן',
   //   pronouncing: 'закэн',
@@ -655,11 +650,11 @@ export const wordsClass5 = [
   //   pronouncing: 'мэмшала',
   //   translation: 'правительство',
   // },
-  {
-    word: 'רוב',
-    pronouncing: 'ров',
-    translation: 'большинство',
-  },
+  // {
+  //   word: 'רוב',
+  //   pronouncing: 'ров',
+  //   translation: 'большинство',
+  // },
   // {
   //   word: 'שונה מ',
   //   pronouncing: 'шонэ мэ',
@@ -690,11 +685,11 @@ export const wordsClass5 = [
     pronouncing: 'ах',
     translation: 'но',
   },
-  {
-    word: 'אוצר',
-    pronouncing: 'оцар',
-    translation: 'сокровище / казначейство',
-  },
+  // {
+  //   word: 'אוצר',
+  //   pronouncing: 'оцар',
+  //   translation: 'сокровище / казначейство',
+  // },
   {
     word: 'שכור',
     pronouncing: 'шкур',
@@ -760,16 +755,16 @@ export const wordsClass5 = [
   //   pronouncing: 'аль ми',
   //   translation: 'о ком',
   // },
-  {
-    word: 'סופר',
-    pronouncing: 'софэр',
-    translation: 'писатель / считать',
-  },
-  {
-    word: 'מעונות',
-    pronouncing: 'мэонот',
-    translation: 'общежитие',
-  },
+  // {
+  //   word: 'סופר',
+  //   pronouncing: 'софэр',
+  //   translation: 'писатель / считать',
+  // },
+  // {
+  //   word: 'מעונות',
+  //   pronouncing: 'мэонот',
+  //   translation: 'общежитие',
+  // },
   // {
   //   word: 'נפגש',
   //   pronouncing: 'нифгаш',
@@ -840,11 +835,11 @@ export const wordsClass5 = [
   //   pronouncing: 'бхирот',
   //   translation: 'выборы',
   // },
-  // {
-  //   word: 'מפלגה',
-  //   pronouncing: 'мифлага',
-  //   translation: 'партия',
-  // },
+  {
+    word: 'מפלגה',
+    pronouncing: 'мифлага',
+    translation: 'партия',
+  },
   {
     word: 'אחוז',
     pronouncing: 'ахуз',
@@ -885,21 +880,21 @@ export const wordsClass5 = [
     pronouncing: 'лиглош',
     translation: 'кататься / серфить',
   },
-  {
-    word: 'לנהוג',
-    pronouncing: 'линхог',
-    translation: 'водить',
-  },
+  // {
+  //   word: 'לנהוג',
+  //   pronouncing: 'линхог',
+  //   translation: 'водить',
+  // },
   // {
   //   word: 'חופש',
   //   pronouncing: 'хофэш',
   //   translation: 'свобода / отпуск / выходные',
   // },
-  {
-    word: 'עגבניה',
-    pronouncing: 'агвания',
-    translation: 'помидор',
-  },
+  // {
+  //   word: 'עגבניה',
+  //   pronouncing: 'агвания',
+  //   translation: 'помидор',
+  // },
   // {
   //   word: 'בצל',
   //   pronouncing: 'бацаль',
@@ -970,11 +965,11 @@ export const wordsClass5 = [
   //   pronouncing: 'сиха',
   //   translation: 'разговор',
   // },
-  {
-    word: 'המשך',
-    pronouncing: 'хамшэх',
-    translation: 'продолжение',
-  },
+  // {
+  //   word: 'המשך',
+  //   pronouncing: 'хамшэх',
+  //   translation: 'продолжение',
+  // },
   // {
   //   word: 'כאן',
   //   pronouncing: 'кан',
@@ -991,11 +986,6 @@ export const wordsClass5 = [
   //   translation: 'помогать',
   // },
   // {
-  //   word: 'עומד',
-  //   pronouncing: 'омэд',
-  //   translation: 'стоять',
-  // },
-  // {
   //   word: 'קל',
   //   pronouncing: 'каль',
   //   translation: 'легкий',
@@ -1005,16 +995,16 @@ export const wordsClass5 = [
   //   pronouncing: 'бихлаль',
   //   translation: 'вообще / совсем',
   // },
-  {
-    word: 'מזרח',
-    pronouncing: 'мизрах',
-    translation: 'восток',
-  },
-  {
-    word: 'מערב',
-    pronouncing: 'маарэв',
-    translation: 'запад',
-  },
+  // {
+  //   word: 'מזרח',
+  //   pronouncing: 'мизрах',
+  //   translation: 'восток',
+  // },
+  // {
+  //   word: 'מערב',
+  //   pronouncing: 'маарэв',
+  //   translation: 'запад',
+  // },
   // {
   //   word: 'גבול',
   //   pronouncing: 'гвуль',
@@ -1030,11 +1020,11 @@ export const wordsClass5 = [
     pronouncing: 'агам',
     translation: 'озеро',
   },
-  {
-    word: 'שלג',
-    pronouncing: 'шэлэг',
-    translation: 'снег',
-  },
+  // {
+  //   word: 'שלג',
+  //   pronouncing: 'шэлэг',
+  //   translation: 'снег',
+  // },
   // {
   //   word: 'שכונה',
   //   pronouncing: 'шхуна',
@@ -1082,7 +1072,7 @@ export const wordsClass5 = [
   // },
   {
     word: 'עיניים',
-    pronouncing: 'енаим',
+    pronouncing: 'эйнаим',
     translation: 'глаза',
   },
   // {
@@ -1117,14 +1107,14 @@ export const wordsClass5 = [
   // },
   {
     word: 'אוזניים',
-    pronouncing: 'азнаим',
+    pronouncing: 'ознаим',
     translation: 'уши',
   },
-  {
-    word: 'יבשת',
-    pronouncing: 'явэшэт',
-    translation: 'континент',
-  },
+  // {
+  //   word: 'יבשת',
+  //   pronouncing: 'явэшэт',
+  //   translation: 'континент',
+  // },
   // {
   //   word: 'צבע',
   //   pronouncing: 'цэва',
@@ -1145,11 +1135,11 @@ export const wordsClass5 = [
   //   pronouncing: 'рэфуа',
   //   translation: 'медицина',
   // },
-  {
-    word: 'קבר',
-    pronouncing: 'кэвэр',
-    translation: 'могила',
-  },
+  // {
+  //   word: 'קבר',
+  //   pronouncing: 'кэвэр',
+  //   translation: 'могила',
+  // },
   // {
   //   word: 'פרה',
   //   pronouncing: 'пора',
@@ -1165,11 +1155,11 @@ export const wordsClass5 = [
   //   pronouncing: 'хаклаут',
   //   translation: 'сельское хозяйство',
   // },
-  {
-    word: 'לבשר',
-    pronouncing: 'лэвасэр',
-    translation: 'сообщить',
-  },
+  // {
+  //   word: 'לבשר',
+  //   pronouncing: 'лэвасэр',
+  //   translation: 'сообщить',
+  // },
   // {
   //   word: 'מכיר',
   //   pronouncing: 'макир',
@@ -1182,7 +1172,7 @@ export const wordsClass5 = [
   // },
   {
     word: 'לקשר',
-    pronouncing: 'лакэшэр',
+    pronouncing: 'лэкашэр',
     translation: 'связывать / ассоциировать / соединять',
   },
   // {
@@ -1190,11 +1180,11 @@ export const wordsClass5 = [
   //   pronouncing: 'рэцини',
   //   translation: 'серьезный',
   // },
-  {
-    word: 'היכרויות',
-    pronouncing: 'хэйкируйот',
-    translation: 'находящиеся в отношениях / встречающиеся',
-  },
+  // {
+  //   word: 'היכרויות',
+  //   pronouncing: 'хэйкируйот',
+  //   translation: 'находящиеся в отношениях / встречающиеся',
+  // },
   // {
   //   word: 'רזה',
   //   pronouncing: 'раза',
@@ -1230,11 +1220,11 @@ export const wordsClass5 = [
   //   pronouncing: 'мэзуман',
   //   translation: 'наличные',
   // },
-  {
-    word: 'מטלפן ל',
-    pronouncing: 'мэтальпэн лэ',
-    translation: 'звонить',
-  },
+  // {
+  //   word: 'מטלפן ל',
+  //   pronouncing: 'мэтальпэн лэ',
+  //   translation: 'звонить',
+  // },
   // {
   //   word: 'תרבות',
   //   pronouncing: 'тарвут',
@@ -1272,7 +1262,7 @@ export const wordsClass5 = [
   // },
   // {
   //   word: 'חצי',
-  //   pronouncing: 'хаци',
+  //   pronouncing: 'хэци',
   //   translation: 'половина',
   // },
   {
@@ -1285,11 +1275,11 @@ export const wordsClass5 = [
   //   pronouncing: 'цохораим',
   //   translation: 'полдень',
   // },
-  {
-    word: 'יממה',
-    pronouncing: 'ямама',
-    translation: 'сутки',
-  },
+  // {
+  //   word: 'יממה',
+  //   pronouncing: 'ямама',
+  //   translation: 'сутки',
+  // },
   // {
   //   word: 'חצות',
   //   pronouncing: 'хацот',
@@ -1302,7 +1292,7 @@ export const wordsClass5 = [
   // },
   // {
   //   word: 'ישן',
-  //   pronouncing: 'яшан',
+  //   pronouncing: 'яшэн',
   //   translation: 'спать',
   // },
   // {
@@ -1330,11 +1320,11 @@ export const wordsClass5 = [
   //   pronouncing: 'хазир',
   //   translation: 'свинья',
   // },
-  {
-    word: 'עצוב',
-    pronouncing: 'ацув',
-    translation: 'грустить',
-  },
+  // {
+  //   word: 'עצוב',
+  //   pronouncing: 'ацув',
+  //   translation: 'грустить',
+  // },
   // {
   //   word: 'שוכח',
   //   pronouncing: 'шохэах',
@@ -1385,16 +1375,16 @@ export const wordsClass5 = [
     pronouncing: 'хариф',
     translation: 'острый',
   },
-  {
-    word: 'טיפשי',
-    pronouncing: 'тифши',
-    translation: 'глупый',
-  },
-  {
-    word: 'תפוס',
-    pronouncing: 'тафус',
-    translation: 'занятый / занято',
-  },
+  // {
+  //   word: 'טיפשי',
+  //   pronouncing: 'тифши',
+  //   translation: 'глупый',
+  // },
+  // {
+  //   word: 'תפוס',
+  //   pronouncing: 'тафус',
+  //   translation: 'занятый / занято',
+  // },
   {
     word: 'ענק',
     pronouncing: 'анак',
@@ -1440,16 +1430,16 @@ export const wordsClass5 = [
   //   pronouncing: 'мэхин',
   //   translation: 'готовить / делать',
   // },
-  {
-    word: 'תוכן',
-    pronouncing: 'тохэн',
-    translation: 'содержимое / контент',
-  },
-  {
-    word: 'להחליף',
-    pronouncing: 'лэхахлиф',
-    translation: 'поменять',
-  },
+  // {
+  //   word: 'תוכן',
+  //   pronouncing: 'тохэн',
+  //   translation: 'содержимое / контент',
+  // },
+  // {
+  //   word: 'להחליף',
+  //   pronouncing: 'лэхахлиф',
+  //   translation: 'поменять',
+  // },
   // {
   //   word: 'מסדר',
   //   pronouncing: 'мэсадэр',
@@ -1475,16 +1465,16 @@ export const wordsClass5 = [
     pronouncing: 'мэорэр',
     translation: 'пробуждать / стимулировать',
   },
-  {
-    word: 'לספור',
-    pronouncing: 'лиспор',
-    translation: 'считать',
-  },
-  {
-    word: 'ספירה',
-    pronouncing: 'сфира',
-    translation: 'подсчет',
-  },
+  // {
+  //   word: 'לספור',
+  //   pronouncing: 'лиспор',
+  //   translation: 'считать',
+  // },
+  // {
+  //   word: 'ספירה',
+  //   pronouncing: 'сфира',
+  //   translation: 'подсчет',
+  // },
   // {
   //   word: 'תואר',
   //   pronouncing: 'тоар',
@@ -1500,11 +1490,11 @@ export const wordsClass5 = [
   //   pronouncing: 'пахот',
   //   translation: 'меньше',
   // },
-  // {
-  //   word: 'לוקח',
-  //   pronouncing: 'локэах',
-  //   translation: 'брать / принимать',
-  // },
+  {
+    word: 'לוקח',
+    pronouncing: 'локэах',
+    translation: 'брать / принимать',
+  },
   // {
   //   word: 'חיוך',
   //   pronouncing: 'хиюх',
@@ -1555,11 +1545,11 @@ export const wordsClass5 = [
   //   pronouncing: 'лимод',
   //   translation: 'занятие',
   // },
-  {
-    word: 'טבעת',
-    pronouncing: 'тават',
-    translation: 'кольцо',
-  },
+  // {
+  //   word: 'טבעת',
+  //   pronouncing: 'тават',
+  //   translation: 'кольцо',
+  // },
   {
     word: 'מפסיק',
     pronouncing: 'мафсик',
@@ -1645,11 +1635,11 @@ export const wordsClass5 = [
   //   pronouncing: 'шинуи',
   //   translation: 'изменение / перемены',
   // },
-  {
-    word: 'משעמם',
-    pronouncing: 'мэшамэм',
-    translation: 'скучный',
-  },
+  // {
+  //   word: 'משעמם',
+  //   pronouncing: 'мэшамэм',
+  //   translation: 'скучный',
+  // },
   {
     word: 'משקה',
     pronouncing: 'машкэ',
@@ -1700,11 +1690,11 @@ export const wordsClass5 = [
   //   pronouncing: 'тоцаа',
   //   translation: 'результат',
   // },
-  {
-    word: 'לבלות',
-    pronouncing: 'лэвалот',
-    translation: 'проводить время / тусоваться',
-  },
+  // {
+  //   word: 'לבלות',
+  //   pronouncing: 'лэвалот',
+  //   translation: 'проводить время / тусоваться',
+  // },
   {
     word: 'משאיר',
     pronouncing: 'машэир',
@@ -1751,25 +1741,20 @@ export const wordsClass5 = [
     translation: 'нервный',
   },
   // {
-  //   word: 'מחכה',
-  //   pronouncing: 'мэхакэ',
-  //   translation: 'ждать',
-  // },
-  // {
   //   word: 'תעשייה',
   //   pronouncing: 'таасия',
   //   translation: 'промышленность / индустрия',
   // },
-  {
-    word: 'ניתוח',
-    pronouncing: 'нитуах',
-    translation: 'операция',
-  },
-  {
-    word: 'המלצה',
-    pronouncing: 'хамлаца',
-    translation: 'рекомендация',
-  },
+  // {
+  //   word: 'ניתוח',
+  //   pronouncing: 'нитуах',
+  //   translation: 'операция',
+  // },
+  // {
+  //   word: 'המלצה',
+  //   pronouncing: 'хамлаца',
+  //   translation: 'рекомендация',
+  // },
   // {
   //   word: 'חינוך',
   //   pronouncing: 'хинух',
@@ -1780,15 +1765,10 @@ export const wordsClass5 = [
     pronouncing: 'михлала',
     translation: 'колледж',
   },
-  {
-    word: 'מעט',
-    pronouncing: 'мэат',
-    translation: 'мало',
-  },
   // {
-  //   word: 'מבלה',
-  //   pronouncing: 'мэвалэ',
-  //   translation: 'проводить время / наслаждаться',
+  //   word: 'מעט',
+  //   pronouncing: 'мэат',
+  //   translation: 'мало',
   // },
   {
     word: 'מסמך',
@@ -1851,11 +1831,11 @@ export const wordsClass5 = [
   //   pronouncing: 'рагиль',
   //   translation: 'обычный / нормальный',
   // },
-  {
-    word: 'נהדר',
-    pronouncing: 'нэхэдар',
-    translation: 'отлично',
-  },
+  // {
+  //   word: 'נהדר',
+  //   pronouncing: 'нэхэдар',
+  //   translation: 'отлично',
+  // },
   {
     word: 'שיער',
     pronouncing: 'шэйар',
@@ -1883,13 +1863,13 @@ export const wordsClass5 = [
   // },
   // {
   //   word: 'שעבר',
-  //   pronouncing: 'шавар',
+  //   pronouncing: 'шэавар',
   //   translation: 'прошлый',
   // },
   // {
   //   word: 'מבצע',
-  //   pronouncing: 'мэвца',
-  //   translation: 'распродажа',
+  //   pronouncing: 'мивца',
+  //   translation: 'акция',
   // },
   // {
   //   word: 'מקולקל',
@@ -1902,11 +1882,11 @@ export const wordsClass5 = [
   //   pronouncing: 'рэйах',
   //   translation: 'запах',
   // },
-  // {
-  //   word: 'מתגעגע',
-  //   pronouncing: 'митгагэа',
-  //   translation: 'скучать',
-  // },
+  {
+    word: 'מתגעגע',
+    pronouncing: 'митгагэа',
+    translation: 'скучать',
+  },
   // {
   //   word: 'חתונה',
   //   pronouncing: 'хатуна',
@@ -1947,11 +1927,11 @@ export const wordsClass5 = [
   //   pronouncing: 'масбир',
   //   translation: 'объяснять',
   // },
-  {
-    word: 'סוג',
-    pronouncing: 'суг',
-    translation: 'вид / тип',
-  },
+  // {
+  //   word: 'סוג',
+  //   pronouncing: 'суг',
+  //   translation: 'вид / тип',
+  // },
   {
     word: 'מאכל',
     pronouncing: 'маэхаль',
@@ -1963,11 +1943,11 @@ export const wordsClass5 = [
   //   pronouncing: 'аз',
   //   translation: 'тогда',
   // },
-  {
-    word: 'צמא',
-    pronouncing: 'цамэ',
-    translation: 'испытывать жажду',
-  },
+  // {
+  //   word: 'צמא',
+  //   pronouncing: 'цамэ',
+  //   translation: 'испытывать жажду',
+  // },
   {
     word: 'שותף',
     pronouncing: 'шутаф',
@@ -2003,11 +1983,11 @@ export const wordsClass5 = [
   //   pronouncing: 'бихлаль',
   //   translation: 'вообще / совсем',
   // },
-  {
-    word: 'אחריות',
-    pronouncing: 'ахарают',
-    translation: 'обязанности',
-  },
+  // {
+  //   word: 'אחריות',
+  //   pronouncing: 'ахарают',
+  //   translation: 'обязанности',
+  // },
   // {
   //   word: 'נוח',
   //   pronouncing: 'ноах',
@@ -2034,11 +2014,11 @@ export const wordsClass5 = [
   //   pronouncing: 'бонэ',
   //   translation: 'строить',
   // },
-  // {
-  //   word: 'מפריע',
-  //   pronouncing: 'мафриа',
-  //   translation: 'мешать / беспокоить',
-  // },
+  {
+    word: 'מפריע',
+    pronouncing: 'мафриа',
+    translation: 'мешать / беспокоить',
+  },
   {
     word: 'בידור',
     pronouncing: 'бидур',
@@ -2054,11 +2034,11 @@ export const wordsClass5 = [
     pronouncing: 'митэорэр',
     translation: 'просыпаться',
   },
-  {
-    word: 'נסה',
-    pronouncing: 'насэ',
-    translation: 'пробовать',
-  },
+  // {
+  //   word: 'נסה',
+  //   pronouncing: 'насэ',
+  //   translation: 'пробовать',
+  // },
   {
     word: 'אופנה',
     pronouncing: 'аофэна',
@@ -2095,20 +2075,10 @@ export const wordsClass5 = [
   //   pronouncing: 'сам лэв',
   //   translation: 'замечать / обращать внимание',
   // },
-  {
-    word: 'להסבר',
-    pronouncing: 'лахэсбэр',
-    translation: 'объяснение',
-  },
-  {
-    word: 'מצחיק',
-    pronouncing: 'мацхик',
-    translation: 'смешной',
-  },
   // {
-  //   word: 'מסביר',
-  //   pronouncing: 'масбир',
-  //   translation: 'объяснять',
+  //   word: 'מצחיק',
+  //   pronouncing: 'мацхик',
+  //   translation: 'смешной',
   // },
   {
     word: 'נופל',
@@ -2152,21 +2122,21 @@ export const wordsClass5 = [
   //   pronouncing: 'бохэр',
   //   translation: 'выбирать',
   // },
-  {
-    word: 'מחבר',
-    pronouncing: 'мэхавэр',
-    translation: 'соединять',
-  },
+  // {
+  //   word: 'מחבר',
+  //   pronouncing: 'мэхавэр',
+  //   translation: 'соединять',
+  // },
   {
     word: 'תספורת',
     pronouncing: 'тиспорэт',
     translation: 'стрижка',
   },
-  {
-    word: 'נהג',
-    pronouncing: 'нахаг',
-    translation: 'водитель',
-  },
+  // {
+  //   word: 'נהג',
+  //   pronouncing: 'нахаг',
+  //   translation: 'водитель',
+  // },
   // {
   //   word: 'מרוצה',
   //   pronouncing: 'мэроцэ',
@@ -2234,11 +2204,11 @@ export const wordsClass5 = [
     translation: 'влиять / действовать',
   },
   // Урок 26
-  {
-    word: 'נגמר',
-    pronouncing: 'нигмар',
-    translation: 'заканчиваться',
-  },
+  // {
+  //   word: 'נגמר',
+  //   pronouncing: 'нигмар',
+  //   translation: 'заканчиваться',
+  // },
   // {
   //   word: 'מטוס',
   //   pronouncing: 'матос',
@@ -2259,21 +2229,16 @@ export const wordsClass5 = [
   //   pronouncing: 'тиль',
   //   translation: 'ракета',
   // },
-  // {
-  //   word: 'הורג',
-  //   pronouncing: 'хорэг',
-  //   translation: 'убивать',
-  // },
   {
     word: 'להתפטר',
     pronouncing: 'лэхитпатэр',
     translation: 'увольняться',
   },
-  {
-    word: 'סערה',
-    pronouncing: 'сэара',
-    translation: 'шторм',
-  },
+  // {
+  //   word: 'סערה',
+  //   pronouncing: 'сэара',
+  //   translation: 'шторм',
+  // },
   {
     word: 'תיווך',
     pronouncing: 'тивух',
@@ -2335,11 +2300,11 @@ export const wordsClass5 = [
   //   pronouncing: 'ашпа',
   //   translation: 'мусор',
   // },
-  {
-    word: 'תחבורה',
-    pronouncing: 'тахбура',
-    translation: 'транспорт',
-  },
+  // {
+  //   word: 'תחבורה',
+  //   pronouncing: 'тахбура',
+  //   translation: 'транспорт',
+  // },
   // {
   //   word: 'גודל',
   //   pronouncing: 'годэль',
@@ -2386,11 +2351,11 @@ export const wordsClass5 = [
   //   translation: 'цена',
   // },
   // Урок 28
-  {
-    word: 'קובע',
-    pronouncing: 'ковэа',
-    translation: 'назначать / определять',
-  },
+  // {
+  //   word: 'קובע',
+  //   pronouncing: 'ковэа',
+  //   translation: 'назначать / определять',
+  // },
   // {
   //   word: 'נשק',
   //   pronouncing: 'нэшэк',
@@ -2416,11 +2381,11 @@ export const wordsClass5 = [
     pronouncing: 'хашух',
     translation: 'темный',
   },
-  {
-    word: 'בזבוז',
-    pronouncing: 'базбуз',
-    translation: 'трата',
-  },
+  // {
+  //   word: 'בזבוז',
+  //   pronouncing: 'базбуз',
+  //   translation: 'трата',
+  // },
   // {
   //   word: 'האזעקה',
   //   pronouncing: 'хаазака',
@@ -2447,11 +2412,11 @@ export const wordsClass5 = [
   //   pronouncing: 'лаавор',
   //   translation: 'переезжать',
   // },
-  {
-    word: 'להמליץ',
-    pronouncing: 'лэхамлиц',
-    translation: 'рекомендовать',
-  },
+  // {
+  //   word: 'להמליץ',
+  //   pronouncing: 'лэхамлиц',
+  //   translation: 'рекомендовать',
+  // },
   // {
   //   word: 'למכור',
   //   pronouncing: 'лимкор',
@@ -2462,11 +2427,11 @@ export const wordsClass5 = [
     pronouncing: 'литлот',
     translation: 'повесить',
   },
-  {
-    word: 'סביבה',
-    pronouncing: 'свива',
-    translation: 'окружение / обстановка',
-  },
+  // {
+  //   word: 'סביבה',
+  //   pronouncing: 'свива',
+  //   translation: 'окружение / обстановка',
+  // },
   // Урок 30
   {
     word: 'מנשק',
@@ -2478,21 +2443,21 @@ export const wordsClass5 = [
     pronouncing: 'мэхабэк',
     translation: 'обнимать',
   },
-  // {
-  //   word: 'מצלם',
-  //   pronouncing: 'мэцалэм',
-  //   translation: 'снимать / фотографировать',
-  // },
+  {
+    word: 'מצלם',
+    pronouncing: 'мэцалэм',
+    translation: 'снимать / фотографировать',
+  },
   // {
   //   word: 'מבטל',
   //   pronouncing: 'мэватэль',
   //   translation: 'отменять',
   // },
-  {
-    word: 'להמשך',
-    pronouncing: 'лэхамшэх',
-    translation: 'продолжаться',
-  },
+  // {
+  //   word: 'להמשך',
+  //   pronouncing: 'лэхамшэх',
+  //   translation: 'продолжаться',
+  // },
   // {
   //   word: 'בלש',
   //   pronouncing: 'балаш',
@@ -2538,40 +2503,40 @@ export const wordsClass5 = [
   //   pronouncing: 'аф',
   //   translation: 'нос',
   // },
-  {
-    word: 'שן',
-    pronouncing: 'шэн',
-    translation: 'зуб',
-  },
   // {
-  //   word: 'לשון',
-  //   pronouncing: 'лашон',
-  //   translation: 'язык',
+  //   word: 'שן',
+  //   pronouncing: 'шэн',
+  //   translation: 'зуб',
   // },
   {
-    word: 'צוואר',
-    pronouncing: 'цавар',
-    translation: 'шея',
+    word: 'לשון',
+    pronouncing: 'лашон',
+    translation: 'язык',
   },
+  // {
+  //   word: 'צוואר',
+  //   pronouncing: 'цавар',
+  //   translation: 'шея',
+  // },
   // {
   //   word: 'שריר',
   //   pronouncing: 'шэрир',
   //   translation: 'мускул',
   // },
   // Урок 31
-  {
-    word: 'קהילה',
-    pronouncing: 'кэхила',
-    translation: 'сообщество',
-  },
-  {
-    word: 'מהי',
-    pronouncing: 'махи',
-    translation: 'в чем',
-  },
+  // {
+  //   word: 'קהילה',
+  //   pronouncing: 'кэхила',
+  //   translation: 'сообщество',
+  // },
+  // {
+  //   word: 'מהי',
+  //   pronouncing: 'махи',
+  //   translation: 'в чем',
+  // },
   // {
   //   word: 'מועדון',
-  //   pronouncing: 'моадон',
+  //   pronouncing: 'муадон',
   //   translation: 'клуб',
   // },
   // {
@@ -2599,16 +2564,16 @@ export const wordsClass5 = [
   //   pronouncing: 'бизхут',
   //   translation: 'благодаря',
   // },
-  // {
-  //   word: 'מטוגן',
-  //   pronouncing: 'мэтуган',
-  //   translation: 'жаренный',
-  // },
   {
-    word: 'חשיבה',
-    pronouncing: 'хашива',
-    translation: 'мышление',
+    word: 'מטוגן',
+    pronouncing: 'мэтуган',
+    translation: 'жаренный',
   },
+  // {
+  //   word: 'חשיבה',
+  //   pronouncing: 'хашива',
+  //   translation: 'мышление',
+  // },
   // {
   //   word: 'חיובי',
   //   pronouncing: 'хиуви',
@@ -2619,11 +2584,11 @@ export const wordsClass5 = [
   //   pronouncing: 'шлили',
   //   translation: 'негативный / отрицательный',
   // },
-  {
-    word: 'אמונה',
-    pronouncing: 'эмуна',
-    translation: 'вера / доверие',
-  },
+  // {
+  //   word: 'אמונה',
+  //   pronouncing: 'эмуна',
+  //   translation: 'вера / доверие',
+  // },
   {
     word: 'תהליך',
     pronouncing: 'тахалих',
@@ -2645,26 +2610,21 @@ export const wordsClass5 = [
   //   pronouncing: 'ишур',
   //   translation: 'разрешение / справка',
   // },
-  // {
-  //   word: 'תנור',
-  //   pronouncing: 'танур',
-  //   translation: 'печь / духовка',
-  // },
   {
-    word: 'אסיפה',
-    pronouncing: 'асифа',
-    translation: 'собрание',
+    word: 'תנור',
+    pronouncing: 'танур',
+    translation: 'печь / духовка',
   },
   // {
-  //   word: 'תוצאה',
-  //   pronouncing: 'тоцаа',
-  //   translation: 'результат',
+  //   word: 'אסיפה',
+  //   pronouncing: 'асифа',
+  //   translation: 'собрание',
   // },
-  {
-    word: 'שביתה',
-    pronouncing: 'швита',
-    translation: 'забастовка',
-  },
+  // {
+  //   word: 'שביתה',
+  //   pronouncing: 'швита',
+  //   translation: 'забастовка',
+  // },
   // {
   //   word: 'מחס',
   //   pronouncing: 'мэхэс',
@@ -2686,11 +2646,11 @@ export const wordsClass5 = [
   //   pronouncing: 'гова',
   //   translation: 'высота',
   // },
-  {
-    word: 'משקל',
-    pronouncing: 'машкаль',
-    translation: 'вес',
-  },
+  // {
+  //   word: 'משקל',
+  //   pronouncing: 'машкаль',
+  //   translation: 'вес',
+  // },
   // {
   //   word: 'בדידות',
   //   pronouncing: 'бдидут',
@@ -2701,11 +2661,11 @@ export const wordsClass5 = [
   //   pronouncing: 'эмэт',
   //   translation: 'правда',
   // },
-  {
-    word: 'כוכב',
-    pronouncing: 'кохав',
-    translation: 'звезда',
-  },
+  // {
+  //   word: 'כוכב',
+  //   pronouncing: 'кохав',
+  //   translation: 'звезда',
+  // },
   // {
   //   word: 'ממשיך',
   //   pronouncing: 'мамших',
@@ -2757,11 +2717,11 @@ export const wordsClass5 = [
     pronouncing: 'хамхаа',
     translation: 'чек',
   },
-  {
-    word: 'חומר',
-    pronouncing: 'хомэр',
-    translation: 'материал / вещество / товар',
-  },
+  // {
+  //   word: 'חומר',
+  //   pronouncing: 'хомэр',
+  //   translation: 'материал / вещество / товар',
+  // },
   // {
   //   word: 'למעלה',
   //   pronouncing: 'лэмала',
@@ -2813,41 +2773,41 @@ export const wordsClass5 = [
   //   pronouncing: 'лэхиткадэм',
   //   translation: 'продвигаться',
   // }, 
-  {
-    word: 'להתרגל ל',
-    pronouncing: 'лэхитрагэль лэ',
-    translation: 'привыкать к',
-  }, 
+  // {
+  //   word: 'להתרגל ל',
+  //   pronouncing: 'лэхитрагэль лэ',
+  //   translation: 'привыкать к',
+  // }, 
   {
     word: 'להתנדב',
     pronouncing: 'лэхитнадэв',
     translation: 'вызываться добровольцем',
   }, 
-  {
-    word: 'להתאהב',
-    pronouncing: 'лэхитахэв',
-    translation: 'влюбляться',
-  }, 
-  {
-    word: 'משתתף',
-    pronouncing: 'миштатэф',
-    translation: 'участвовать',
-  }, 
+  // {
+  //   word: 'להתאהב',
+  //   pronouncing: 'лэхитахэв',
+  //   translation: 'влюбляться',
+  // }, 
+  // {
+  //   word: 'משתתף',
+  //   pronouncing: 'миштатэф',
+  //   translation: 'участвовать',
+  // }, 
   // {
   //   word: 'משתמש',
   //   pronouncing: 'миштамэш',
   //   translation: 'использовать',
   // }, 
-  {
-    word: 'להתנצל',
-    pronouncing: 'лэхитнацэль',
-    translation: 'извиняться',
-  }, 
-  {
-    word: 'להתנהג',
-    pronouncing: 'лэхитнахэг',
-    translation: 'вести себя',
-  }, 
+  // {
+  //   word: 'להתנצל',
+  //   pronouncing: 'лэхитнацэль',
+  //   translation: 'извиняться',
+  // }, 
+  // {
+  //   word: 'להתנהג',
+  //   pronouncing: 'лэхитнахэг',
+  //   translation: 'вести себя',
+  // }, 
   {
     word: 'להבריז',
     pronouncing: 'лэхавриз',
@@ -2869,31 +2829,31 @@ export const wordsClass5 = [
     pronouncing: 'мэхкар',
     translation: 'исследование',
   },
-  {
-    word: 'להבריא',
-    pronouncing: 'лэхаври',
-    translation: 'выздоравливать',
-  },
-  {
-    word: 'גורם',
-    pronouncing: 'горэм',
-    translation: 'вызывать / быть причиной',
-  },
+  // {
+  //   word: 'להבריא',
+  //   pronouncing: 'лэхаври',
+  //   translation: 'выздоравливать',
+  // },
+  // {
+  //   word: 'גורם',
+  //   pronouncing: 'горэм',
+  //   translation: 'вызывать / быть причиной',
+  // },
   // {
   //   word: 'מנוחה',
   //   pronouncing: 'мэнуха',
   //   translation: 'отдых',
   // },
-  {
-    word: 'מוצר',
-    pronouncing: 'муцар',
-    translation: 'продукт / товар',
-  },
-  {
-    word: 'תחרות',
-    pronouncing: 'тахарут',
-    translation: 'соревнование / конкурс',
-  },
+  // {
+  //   word: 'מוצר',
+  //   pronouncing: 'муцар',
+  //   translation: 'продукт / товар',
+  // },
+  // {
+  //   word: 'תחרות',
+  //   pronouncing: 'тахарут',
+  //   translation: 'соревнование / конкурс',
+  // },
   {
     word: 'מסתדר',
     pronouncing: 'мистадэр',
@@ -2939,11 +2899,11 @@ export const wordsClass5 = [
   //   pronouncing: 'коль кама',
   //   translation: 'как часто',
   // },
-  // {
-  //   word: 'ישיר',
-  //   pronouncing: 'яшир',
-  //   translation: 'прямой',
-  // },
+  {
+    word: 'ישיר',
+    pronouncing: 'яшир',
+    translation: 'прямой',
+  },
   {
     word: 'מאסף',
     pronouncing: 'мэасэф',
@@ -2955,31 +2915,31 @@ export const wordsClass5 = [
   //   translation: 'сдача',
   // },
   // Урок 37
-  {
-    word: 'נפרד',
-    pronouncing: 'нифрад',
-    translation: 'порывать / расставаться',
-  },
+  // {
+  //   word: 'נפרד',
+  //   pronouncing: 'нифрад',
+  //   translation: 'порывать / расставаться',
+  // },
   {
     word: 'נרטב',
     pronouncing: 'ниртав',
     translation: 'промокать',
   },
-  {
-    word: 'נשלח',
-    pronouncing: 'нишлах',
-    translation: 'быть отправленным',
-  },
-  {
-    word: 'חירש',
-    pronouncing: 'хэйрэш',
-    translation: 'глухой',
-  },
-  {
-    word: 'אילם',
-    pronouncing: 'илэм',
-    translation: 'немой',
-  },
+  // {
+  //   word: 'נשלח',
+  //   pronouncing: 'нишлах',
+  //   translation: 'быть отправленным',
+  // },
+  // {
+  //   word: 'חירש',
+  //   pronouncing: 'хэйрэш',
+  //   translation: 'глухой',
+  // },
+  // {
+  //   word: 'אילם',
+  //   pronouncing: 'илэм',
+  //   translation: 'немой',
+  // },
   // {
   //   word: 'ביקור',
   //   pronouncing: 'бикур',
@@ -2990,21 +2950,21 @@ export const wordsClass5 = [
   //   pronouncing: 'хазмана',
   //   translation: 'приглашение',
   // },
-  {
-    word: 'שמיעה',
-    pronouncing: 'шмия',
-    translation: 'слух',
-  },
+  // {
+  //   word: 'שמיעה',
+  //   pronouncing: 'шмия',
+  //   translation: 'слух',
+  // },
   {
     word: 'להתלונן',
     pronouncing: 'лэхитлонэн',
     translation: 'жаловаться',
   },
-  {
-    word: 'לחסוך',
-    pronouncing: 'лахсох',
-    translation: 'сэкономить / сберечь',
-  },
+  // {
+  //   word: 'לחסוך',
+  //   pronouncing: 'лахсох',
+  //   translation: 'сэкономить / сберечь',
+  // },
   {
     word: 'להוציא',
     pronouncing: 'лэхоци',
@@ -3015,11 +2975,11 @@ export const wordsClass5 = [
     pronouncing: 'лэхиткайем',
     translation: 'существовать / состояться',
   },
-  {
-    word: 'נוסף',
-    pronouncing: 'носаф',
-    translation: 'дополнительный',
-  },
+  // {
+  //   word: 'נוסף',
+  //   pronouncing: 'носаф',
+  //   translation: 'дополнительный',
+  // },
   {
     word: 'להודיע',
     pronouncing: 'лэходиа',
@@ -3035,26 +2995,26 @@ export const wordsClass5 = [
   //   pronouncing: 'мэсарон',
   //   translation: 'сообщение / смс',
   // },
-  {
-    word: 'לקבוע',
-    pronouncing: 'ликбоа',
-    translation: 'назначать / определять',
-  },
-  {
-    word: 'פנימה',
-    pronouncing: 'пнима',
-    translation: 'внутрь',
-  },
+  // {
+  //   word: 'לקבוע',
+  //   pronouncing: 'ликбоа',
+  //   translation: 'назначать / определять',
+  // },
+  // {
+  //   word: 'פנימה',
+  //   pronouncing: 'пнима',
+  //   translation: 'внутрь',
+  // },
   {
     word: 'כיוון',
     pronouncing: 'киван',
     translation: 'направление / курс',
   },
-  {
-    word: 'כתום',
-    pronouncing: 'кэтом',
-    translation: 'оранжевый',
-  },
+  // {
+  //   word: 'כתום',
+  //   pronouncing: 'кэтом',
+  //   translation: 'оранжевый',
+  // },
   // {
   //   word: 'סגול',
   //   pronouncing: 'саголь',
@@ -3080,21 +3040,21 @@ export const wordsClass5 = [
   //   pronouncing: 'мидай',
   //   translation: 'слишком',
   // },
-  {
-    word: 'ריבית',
-    pronouncing: 'рибит',
-    translation: 'проценты / ставки',
-  },
-  {
-    word: 'להחליף',
-    pronouncing: 'лэхахлиф',
-    translation: 'заменять',
-  },
-  {
-    word: 'החלפה',
-    pronouncing: 'хахлафа',
-    translation: 'замена',
-  },
+  // {
+  //   word: 'ריבית',
+  //   pronouncing: 'рибит',
+  //   translation: 'проценты / ставки',
+  // },
+  // {
+  //   word: 'להחליף',
+  //   pronouncing: 'лэхахлиф',
+  //   translation: 'заменять',
+  // },
+  // {
+  //   word: 'החלפה',
+  //   pronouncing: 'хахлафа',
+  //   translation: 'замена',
+  // },
   {
     word: 'סיגנון',
     pronouncing: 'сигнон',
@@ -3120,11 +3080,11 @@ export const wordsClass5 = [
   //   pronouncing: 'шэкэр',
   //   translation: 'ложь',
   // },
-  {
-    word: 'להחזיר',
-    pronouncing: 'лэхахзир',
-    translation: 'возвращать',
-  },
+  // {
+  //   word: 'להחזיר',
+  //   pronouncing: 'лэхахзир',
+  //   translation: 'возвращать',
+  // },
   // {
   //   word: 'בחינם',
   //   pronouncing: 'бэхинам',
@@ -3145,16 +3105,16 @@ export const wordsClass5 = [
   //   pronouncing: 'эйхут',
   //   translation: 'качество',
   // },
-  {
-    word: 'חוות דעת',
-    pronouncing: 'хават дат',
-    translation: 'отзыв / рекомендация',
-  },
-  {
-    word: 'להידבק',
-    pronouncing: 'лэхидбак',
-    translation: 'заражаться',
-  },
+  // {
+  //   word: 'חוות דעת',
+  //   pronouncing: 'хават дат',
+  //   translation: 'отзыв / рекомендация',
+  // },
+  // {
+  //   word: 'להידבק',
+  //   pronouncing: 'лэхидбак',
+  //   translation: 'заражаться',
+  // },
   {
     word: 'לשטוף',
     pronouncing: 'лиштоф',
@@ -3175,21 +3135,21 @@ export const wordsClass5 = [
     pronouncing: 'симан',
     translation: 'знак / признак / симптом',
   },
-  {
-    word: 'להתחמם',
-    pronouncing: 'лэхитхамэм',
-    translation: 'нагреваться',
-  },
-  {
-    word: 'להתקרר',
-    pronouncing: 'лэхиткарэр',
-    translation: 'охлаждаться / остывать',
-  },
-  {
-    word: 'התחממות',
-    pronouncing: 'хитхамэмут',
-    translation: 'потепление',
-  },
+  // {
+  //   word: 'להתחמם',
+  //   pronouncing: 'лэхитхамэм',
+  //   translation: 'нагреваться',
+  // },
+  // {
+  //   word: 'להתקרר',
+  //   pronouncing: 'лэхиткарэр',
+  //   translation: 'охлаждаться / остывать',
+  // },
+  // {
+  //   word: 'התחממות',
+  //   pronouncing: 'хитхамэмут',
+  //   translation: 'потепление',
+  // },
   // {
   //   word: 'מקרה',
   //   pronouncing: 'микрэ',
@@ -3200,11 +3160,11 @@ export const wordsClass5 = [
     pronouncing: 'улам',
     translation: 'зал',
   },
-  {
-    word: 'מחוץ ל',
-    pronouncing: 'мэхуц лэ',
-    translation: 'запределами / вне',
-  },
+  // {
+  //   word: 'מחוץ ל',
+  //   pronouncing: 'мэхуц лэ',
+  //   translation: 'запределами / вне',
+  // },
   {
     word: 'לזרום',
     pronouncing: 'лизром',
@@ -3250,11 +3210,11 @@ export const wordsClass5 = [
   //   pronouncing: 'лэходот',
   //   translation: 'благодарить',
   // },
-  {
-    word: 'חיסכון',
-    pronouncing: 'хисахон',
-    translation: 'экономия / спасение / сбережение',
-  },
+  // {
+  //   word: 'חיסכון',
+  //   pronouncing: 'хисахон',
+  //   translation: 'экономия / спасение / сбережение',
+  // },
   {
     word: 'להמתין',
     pronouncing: 'лэхамтин',
@@ -3285,21 +3245,21 @@ export const wordsClass5 = [
     pronouncing: 'амнам',
     translation: 'хотя',
   },
-  {
-    word: 'מולדת',
-    pronouncing: 'молэдэт',
-    translation: 'родина',
-  },
-  {
-    word: 'מהירות',
-    pronouncing: 'мэхирут',
-    translation: 'скорость',
-  },
   // {
-  //   word: 'זהירות',
-  //   pronouncing: 'зэхирот',
-  //   translation: 'осторожность / осторожно',
+  //   word: 'מולדת',
+  //   pronouncing: 'молэдэт',
+  //   translation: 'родина',
   // },
+  // {
+  //   word: 'מהירות',
+  //   pronouncing: 'мэхирут',
+  //   translation: 'скорость',
+  // },
+  {
+    word: 'זהירות',
+    pronouncing: 'зхирут',
+    translation: 'осторожность / осторожно',
+  },
   {
     word: 'צער',
     pronouncing: 'цаар',
@@ -3335,16 +3295,16 @@ export const wordsClass5 = [
     pronouncing: 'лэхицтарэф',
     translation: 'вливаться / присоединяться',
   },
-  {
-    word: 'לאסוף',
-    pronouncing: 'лээсоф',
-    translation: 'собирать / забирать',
-  },
-  {
-    word: 'ארגון',
-    pronouncing: 'иргун',
-    translation: 'организация',
-  },
+  // {
+  //   word: 'לאסוף',
+  //   pronouncing: 'лээсоф',
+  //   translation: 'собирать / забирать',
+  // },
+  // {
+  //   word: 'ארגון',
+  //   pronouncing: 'иргун',
+  //   translation: 'организация',
+  // },
   {
     word: 'מעטפה',
     pronouncing: 'маатафа',
@@ -3550,11 +3510,11 @@ export const wordsClass5 = [
     pronouncing: 'тэссумэт',
     translation: 'внимание',
   },
-  {
-    word: 'הבדל',
-    pronouncing: 'хэвдэль',
-    translation: 'разница / различие',
-  },
+  // {
+  //   word: 'הבדל',
+  //   pronouncing: 'хэвдэль',
+  //   translation: 'разница / различие',
+  // },
   {
     word: 'עצה',
     pronouncing: 'аца',
@@ -3580,26 +3540,26 @@ export const wordsClass5 = [
     pronouncing: 'митвасэс',
     translation: 'основываться',
   },
-  {
-    word: 'כללי',
-    pronouncing: 'клали',
-    translation: 'правила',
-  },
-  {
-    word: 'קבוע',
-    pronouncing: 'квуа',
-    translation: 'постоянный',
-  },
+  // {
+  //   word: 'כללי',
+  //   pronouncing: 'клали',
+  //   translation: 'правила',
+  // },
+  // {
+  //   word: 'קבוע',
+  //   pronouncing: 'квуа',
+  //   translation: 'постоянный',
+  // },
   {
     word: 'ירח',
     pronouncing: 'ярэах',
     translation: 'луна',
   },
-  {
-    word: 'להוסיף',
-    pronouncing: 'лэхосиф',
-    translation: 'добавлять',
-  },
+  // {
+  //   word: 'להוסיף',
+  //   pronouncing: 'лэхосиф',
+  //   translation: 'добавлять',
+  // },
   {
     word: 'לפגוע',
     pronouncing: 'лифгоа',
@@ -3625,16 +3585,16 @@ export const wordsClass5 = [
     pronouncing: 'мистовэв',
     translation: 'тусоваться',
   },
-  {
-    word: 'כיכר',
-    pronouncing: 'кикар',
-    translation: 'площадь',
-  },
-  {
-    word: 'צומת',
-    pronouncing: 'цомэт',
-    translation: 'перекресток',
-  },
+  // {
+  //   word: 'כיכר',
+  //   pronouncing: 'кикар',
+  //   translation: 'площадь',
+  // },
+  // {
+  //   word: 'צומת',
+  //   pronouncing: 'цомэт',
+  //   translation: 'перекресток',
+  // },
   // {
   //   word: 'ימינה',
   //   pronouncing: 'ямина',
@@ -3655,11 +3615,11 @@ export const wordsClass5 = [
   //   pronouncing: 'ахора',
   //   translation: 'назад',
   // },
-  {
-    word: 'בינתיים',
-    pronouncing: 'бэентаим',
-    translation: 'тем временем / а пока',
-  },
+  // {
+  //   word: 'בינתיים',
+  //   pronouncing: 'бэентаим',
+  //   translation: 'тем временем / а пока',
+  // },
   {
     word: 'שונא',
     pronouncing: 'сонэ',
@@ -3670,11 +3630,11 @@ export const wordsClass5 = [
     pronouncing: 'авэ',
     translation: 'толстый',
   },
-  {
-    word: 'דק',
-    pronouncing: 'дак',
-    translation: 'тонкий',
-  },
+  // {
+  //   word: 'דק',
+  //   pronouncing: 'дак',
+  //   translation: 'тонкий',
+  // },
   {
     word: 'מתרגם',
     pronouncing: 'метаргэм',
@@ -3710,16 +3670,16 @@ export const wordsClass5 = [
     pronouncing: 'линшом',
     translation: 'передохнуть / подышать',
   },
-  {
-    word: 'אכפת לי / לא אכפת לי',
-    pronouncing: 'ихпат ли / ло ихпат ли',
-    translation: 'мне важно / мне все равно',
-  },
-  {
-    word: 'בקיצור',
-    pronouncing: 'бэкицур',
-    translation: 'короче говоря / в общем',
-  },
+  // {
+  //   word: 'אכפת לי / לא אכפת לי',
+  //   pronouncing: 'ихпат ли / ло ихпат ли',
+  //   translation: 'мне важно / мне все равно',
+  // },
+  // {
+  //   word: 'בקיצור',
+  //   pronouncing: 'бэкицур',
+  //   translation: 'короче говоря / в общем',
+  // },
   {
     word: 'חידוש',
     pronouncing: 'хидуш',
@@ -3740,11 +3700,11 @@ export const wordsClass5 = [
     pronouncing: 'лашэм ма',
     translation: 'для чего',
   },
-  {
-    word: 'משלוח',
-    pronouncing: 'мишлоах',
-    translation: 'доставка',
-  },
+  // {
+  //   word: 'משלוח',
+  //   pronouncing: 'мишлоах',
+  //   translation: 'доставка',
+  // },
   {
     word: 'שליח',
     pronouncing: 'шалиах',
@@ -3765,11 +3725,11 @@ export const wordsClass5 = [
   //   pronouncing: 'сакит',
   //   translation: 'пакет',
   // },
-  {
-    word: 'תירס',
-    pronouncing: 'тирас',
-    translation: 'кукуруза',
-  },
+  // {
+  //   word: 'תירס',
+  //   pronouncing: 'тирас',
+  //   translation: 'кукуруза',
+  // },
   {
     word: 'מרשם',
     pronouncing: 'миршам',
@@ -3790,31 +3750,31 @@ export const wordsClass5 = [
     pronouncing: 'сфатаим',
     translation: 'губы',
   },
-  {
-    word: 'מבט',
-    pronouncing: 'мават',
-    translation: 'взгляд',
-  },
+  // {
+  //   word: 'מבט',
+  //   pronouncing: 'мават',
+  //   translation: 'взгляд',
+  // },
   {
     word: 'תמים',
     pronouncing: 'тамим',
     translation: 'наивный',
   },
-  {
-    word: 'כיצד',
-    pronouncing: 'кэйцад',
-    translation: 'как',
-  },
+  // {
+  //   word: 'כיצד',
+  //   pronouncing: 'кэйцад',
+  //   translation: 'как',
+  // },
   // {
   //   word: 'במקום',
   //   pronouncing: 'бимком',
   //   translation: 'вместо',
   // },
-  {
-    word: 'לדאוג',
-    pronouncing: 'лидог',
-    translation: 'беспокоиться',
-  },
+  // {
+  //   word: 'לדאוג',
+  //   pronouncing: 'лидог',
+  //   translation: 'беспокоиться',
+  // },
   {
     word: 'תקופה',
     pronouncing: 'ткуфа',
@@ -3841,11 +3801,6 @@ export const wordsClass5 = [
     translation: 'представлять',
   },
   {
-    word: 'קריאת',
-    pronouncing: 'криат',
-    translation: 'чтение',
-  },
-  {
     word: 'חווית',
     pronouncing: 'хавият',
     translation: 'опыт',
@@ -3860,21 +3815,21 @@ export const wordsClass5 = [
     pronouncing: 'лишбор',
     translation: 'ломать / разбивать',
   },
-  {
-    word: 'גרוע',
-    pronouncing: 'гаруа',
-    translation: 'ужасный / отвратительный',
-  },
+  // {
+  //   word: 'גרוע',
+  //   pronouncing: 'гаруа',
+  //   translation: 'ужасный / отвратительный',
+  // },
   {
     word: 'להישבר',
     pronouncing: 'лэхишавэр',
     translation: 'ломаться / разбиваться',
   },
-  {
-    word: 'רסיסים',
-    pronouncing: 'рэсисим',
-    translation: 'осколки',
-  },
+  // {
+  //   word: 'רסיסים',
+  //   pronouncing: 'рэсисим',
+  //   translation: 'осколки',
+  // },
   {
     word: 'להתקל',
     pronouncing: 'лэхитакэль',
@@ -3890,11 +3845,11 @@ export const wordsClass5 = [
     pronouncing: 'хиздамнует',
     translation: 'возможности',
   },
-  {
-    word: 'חשק',
-    pronouncing: 'хэшэк',
-    translation: 'желание',
-  },
+  // {
+  //   word: 'חשק',
+  //   pronouncing: 'хэшэк',
+  //   translation: 'желание',
+  // },
   {
     word: 'מיומנות',
     pronouncing: 'миоманут',
@@ -3935,11 +3890,11 @@ export const wordsClass5 = [
     pronouncing: 'мэшувим',
     translation: 'советы / отклик',
   },
-  {
-    word: 'מפגש',
-    pronouncing: 'мифгашь',
-    translation: 'встреча',
-  },
+  // {
+  //   word: 'מפגש',
+  //   pronouncing: 'мифгаш',
+  //   translation: 'встреча',
+  // },
   {
     word: 'קצב',
     pronouncing: 'кэцэв',
@@ -3965,11 +3920,11 @@ export const wordsClass5 = [
     pronouncing: 'хиштатфут',
     translation: 'участие',
   },
-  {
-    word: 'דורש',
-    pronouncing: 'дорэш',
-    translation: 'требовать',
-  },
+  // {
+  //   word: 'דורש',
+  //   pronouncing: 'дорэш',
+  //   translation: 'требовать',
+  // },
   {
     word: 'נושא',
     pronouncing: 'носэ',
@@ -4000,11 +3955,11 @@ export const wordsClass5 = [
     pronouncing: 'мисгэрэт',
     translation: 'рамка',
   },
-  {
-    word: 'אחלה',
-    pronouncing: 'эхлэ',
-    translation: 'отлично',
-  },
+  // {
+  //   word: 'אחלה',
+  //   pronouncing: 'ахла',
+  //   translation: 'отлично',
+  // },
   {
     word: 'מקליד',
     pronouncing: 'миклид',
@@ -4025,11 +3980,11 @@ export const wordsClass5 = [
     pronouncing: 'акраи',
     translation: 'случайный',
   },
-  {
-    word: 'הופך',
-    pronouncing: 'хофэх',
-    translation: 'превращать',
-  },
+  // {
+  //   word: 'הופך',
+  //   pronouncing: 'хофэх',
+  //   translation: 'превращать',
+  // },
   {
     word: 'שווה',
     pronouncing: 'шав',
@@ -4080,11 +4035,11 @@ export const wordsClass5 = [
     pronouncing: 'шакуф',
     translation: 'прозрачный / очевидный',
   },
-  {
-    word: 'צורה',
-    pronouncing: 'цура',
-    translation: 'форма / облик',
-  },
+  // {
+  //   word: 'צורה',
+  //   pronouncing: 'цура',
+  //   translation: 'форма / облик',
+  // },
   {
     word: 'מוחק',
     pronouncing: 'мохэк',
@@ -4145,26 +4100,26 @@ export const wordsClass5 = [
     pronouncing: 'исум',
     translation: 'приложение',
   },
-  {
-    word: 'אופן הבא',
-    pronouncing: 'офэн хабаа',
-    translation: 'следующим образом',
-  },
+  // {
+  //   word: 'אופן הבא',
+  //   pronouncing: 'офэн хабаа',
+  //   translation: 'следующим образом',
+  // },
   {
     word: 'מחזיק',
     pronouncing: 'махзик',
     translation: 'держать',
   },
-  {
-    word: 'הנה',
-    pronouncing: 'хинэ',
-    translation: 'вот',
-  },
-  {
-    word: 'קובץ',
-    pronouncing: 'ковэц',
-    translation: 'файл',
-  },
+  // {
+  //   word: 'הנה',
+  //   pronouncing: 'хинэ',
+  //   translation: 'вот',
+  // },
+  // {
+  //   word: 'קובץ',
+  //   pronouncing: 'ковэц',
+  //   translation: 'файл',
+  // },
   {
     word: 'שגיאה',
     pronouncing: 'шгиа',
@@ -4195,11 +4150,11 @@ export const wordsClass5 = [
     pronouncing: 'хадрагатит',
     translation: 'постепенно',
   },
-  {
-    word: 'לגרום',
-    pronouncing: 'лигром',
-    translation: 'заставлять',
-  },
+  // {
+  //   word: 'לגרום',
+  //   pronouncing: 'лигром',
+  //   translation: 'заставлять',
+  // },
   {
     word: 'לדלג',
     pronouncing: 'лэдалэг',
@@ -4214,11 +4169,6 @@ export const wordsClass5 = [
     word: 'הדיון',
     pronouncing: 'хадиун',
     translation: 'дебаты / обсуждение',
-  },
-  {
-    word: 'מורכב',
-    pronouncing: 'мэрукав',
-    translation: 'сложный',
   },
   {
     word: 'היכולת',
@@ -4250,16 +4200,16 @@ export const wordsClass5 = [
     pronouncing: 'матээ',
     translation: 'быть обманчивым / подводить',
   },
-  {
-    word: 'יוצר',
-    pronouncing: 'йоцэр',
-    translation: 'создавать',
-  },
-  {
-    word: 'מערכת',
-    pronouncing: 'марэхэт',
-    translation: 'система',
-  },
+  // {
+  //   word: 'יוצר',
+  //   pronouncing: 'йоцэр',
+  //   translation: 'создавать',
+  // },
+  // {
+  //   word: 'מערכת',
+  //   pronouncing: 'марэхэт',
+  //   translation: 'система',
+  // },
   {
     word: 'מתריע',
     pronouncing: 'матриа',
@@ -4270,11 +4220,11 @@ export const wordsClass5 = [
     pronouncing: 'магдир',
     translation: 'определять',
   },
-  {
-    word: 'ברור',
-    pronouncing: 'барур',
-    translation: 'ясно / очевидно',
-  },
+  // {
+  //   word: 'ברור',
+  //   pronouncing: 'барур',
+  //   translation: 'ясно / очевидно',
+  // },
   {
     word: 'מצפה',
     pronouncing: 'мэцапэ',
@@ -4295,11 +4245,11 @@ export const wordsClass5 = [
     pronouncing: 'асуй',
     translation: 'сделанный',
   },
-  {
-    word: 'להיראות',
-    pronouncing: 'лэхираот',
-    translation: 'выглядеть / казаться',
-  },
+  // {
+  //   word: 'להיראות',
+  //   pronouncing: 'лэхираот',
+  //   translation: 'выглядеть / казаться',
+  // },
   {
     word: 'בתור',
     pronouncing: 'бэтор',
@@ -4385,11 +4335,11 @@ export const wordsClass5 = [
     pronouncing: 'лэхитбальбэль',
     translation: 'запутаться',
   },
-  {
-    word: 'כולל',
-    pronouncing: 'колэль',
-    translation: 'включать в себя',
-  },
+  // {
+  //   word: 'כולל',
+  //   pronouncing: 'колэль',
+  //   translation: 'включать в себя',
+  // },
   {
     word: 'התקנת',
     pronouncing: 'хитканэт',
@@ -4435,21 +4385,21 @@ export const wordsClass5 = [
     pronouncing: 'тикэя',
     translation: 'папка',
   },
-  {
-    word: 'יחס',
-    pronouncing: 'яхас',
-    translation: 'отношение',
-  },
+  // {
+  //   word: 'יחס',
+  //   pronouncing: 'яхас',
+  //   translation: 'отношение',
+  // },
   {
     word: 'כלומר',
     pronouncing: 'кэломар',
     translation: 'то есть',
   },
-  {
-    word: 'מומלץ',
-    pronouncing: 'мумлац',
-    translation: 'рекомендуется',
-  },
+  // {
+  //   word: 'מומלץ',
+  //   pronouncing: 'мумлац',
+  //   translation: 'рекомендуется',
+  // },
   {
     word: 'עדיף',
     pronouncing: 'адиф',
@@ -4460,21 +4410,21 @@ export const wordsClass5 = [
     pronouncing: 'мэвадэ',
     translation: 'проверить / убедиться',
   },
-  {
-    word: 'גנרי',
-    pronouncing: 'гэнэри',
-    translation: 'универсальный',
-  },
+  // {
+  //   word: 'גנרי',
+  //   pronouncing: 'гэнэри',
+  //   translation: 'универсальный',
+  // },
   {
     word: 'צפוי',
     pronouncing: 'цафуй',
     translation: 'предсказуемый',
   },
-  {
-    word: 'להישמר',
-    pronouncing: 'лэхишамэр',
-    translation: 'храниться / поддерживаться',
-  },
+  // {
+  //   word: 'להישמר',
+  //   pronouncing: 'лэхишамэр',
+  //   translation: 'храниться / поддерживаться',
+  // },
   {
     word: 'תיעוד',
     pronouncing: 'тиуд',
@@ -4495,26 +4445,26 @@ export const wordsClass5 = [
     pronouncing: 'хибур',
     translation: 'связь / соединение',
   },
-  {
-    word: 'אינספור',
-    pronouncing: 'эйнспор',
-    translation: 'бесчисленное множество',
-  },
+  // {
+  //   word: 'אינספור',
+  //   pronouncing: 'эйнспор',
+  //   translation: 'бесчисленное множество',
+  // },
   {
     word: 'להיתקל',
     pronouncing: 'лэхитакэль',
     translation: 'сталкиваться / встречаться',
   },
-  {
-    word: 'הסבר',
-    pronouncing: 'эсбэр',
-    translation: 'объяснение',
-  },
-  {
-    word: 'משאיר',
-    pronouncing: 'машир',
-    translation: 'оставлять',
-  },
+  // {
+  //   word: 'הסבר',
+  //   pronouncing: 'эсбэр',
+  //   translation: 'объяснение',
+  // },
+  // {
+  //   word: 'משאיר',
+  //   pronouncing: 'машир',
+  //   translation: 'оставлять',
+  // },
   {
     word: 'מוריד',
     pronouncing: 'морид',
@@ -4525,16 +4475,16 @@ export const wordsClass5 = [
     pronouncing: 'ноар',
     translation: 'молодежь',
   },
-  {
-    word: 'מצטרף',
-    pronouncing: 'мицтарэф',
-    translation: 'присоединяться',
-  },
-  {
-    word: 'נרשם',
-    pronouncing: 'ниршам',
-    translation: 'записаться / зарегистрироваться',
-  },
+  // {
+  //   word: 'מצטרף',
+  //   pronouncing: 'мицтарэф',
+  //   translation: 'присоединяться',
+  // },
+  // {
+  //   word: 'נרשם',
+  //   pronouncing: 'ниршам',
+  //   translation: 'записаться / зарегистрироваться',
+  // },
   {
     word: 'מוכרח',
     pronouncing: 'мухрэах',
@@ -4620,11 +4570,11 @@ export const wordsClass5 = [
     pronouncing: 'цорэх',
     translation: 'необходимость',
   },
-  {
-    word: 'באמצעות',
-    pronouncing: 'бээмцаут',
-    translation: 'с помощью / при помощи',
-  },
+  // {
+  //   word: 'באמצעות',
+  //   pronouncing: 'бээмцаут',
+  //   translation: 'с помощью / при помощи',
+  // },
   {
     word: 'חלוקה',
     pronouncing: 'халука',
@@ -4820,11 +4770,11 @@ export const wordsClass5 = [
     pronouncing: 'шлита',
     translation: 'контроль',
   },
-  {
-    word: 'קריאה',
-    pronouncing: 'криа',
-    translation: 'вызов / чтение',
-  },
+  // {
+  //   word: 'קריאה',
+  //   pronouncing: 'криа',
+  //   translation: 'вызов / чтение',
+  // },
   {
     word: 'שיפור',
     pronouncing: 'шипур',
@@ -4845,11 +4795,11 @@ export const wordsClass5 = [
     pronouncing: 'мэнацэль',
     translation: 'использовать',
   },
-  {
-    word: 'דפדפן',
-    pronouncing: 'дафдэфан',
-    translation: 'браузер',
-  },
+  // {
+  //   word: 'דפדפן',
+  //   pronouncing: 'дафдэфан',
+  //   translation: 'браузер',
+  // },
   {
     word: 'שרת',
     pronouncing: 'шарат',
@@ -5010,11 +4960,11 @@ export const wordsClass5 = [
     pronouncing: 'лэкадэм',
     translation: 'повысить / продвинуть',
   },
-  {
-    word: 'החלפה',
-    pronouncing: 'ахлафа',
-    translation: 'обмен',
-  },
+  // {
+  //   word: 'החלפה',
+  //   pronouncing: 'ахлафа',
+  //   translation: 'обмен',
+  // },
   {
     word: 'גורל',
     pronouncing: 'гораль',
@@ -5195,11 +5145,11 @@ export const wordsClass5 = [
     pronouncing: 'сафэк',
     translation: 'сомнение',
   },
-  {
-    word: 'בסיסי',
-    pronouncing: 'бсиси',
-    translation: 'базовый',
-  },
+  // {
+  //   word: 'בסיסי',
+  //   pronouncing: 'бсиси',
+  //   translation: 'базовый',
+  // },
   {
     word: 'מקף',
     pronouncing: 'мэкаф',
@@ -5639,5 +5589,15 @@ export const wordsClass5 = [
     word: 'ספסל',
     pronouncing: 'сафсаль',
     translation: 'скамейка',
+  },
+  {
+    word: 'נזכר',
+    pronouncing: 'низкар',
+    translation: 'вспоминать',
+  },
+  {
+    word: 'צנוע',
+    pronouncing: 'цануа',
+    translation: 'скромный',
   },
 ]
