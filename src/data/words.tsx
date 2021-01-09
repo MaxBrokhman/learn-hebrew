@@ -5600,4 +5600,39 @@ export const wordsClass5 = [
     pronouncing: 'цануа',
     translation: 'скромный',
   },
+  {
+    word: 'קופסאת',
+    pronouncing: 'куфсат',
+    translation: 'коробка',
+  },
+  {
+    word: 'עקשן',
+    pronouncing: 'акшан',
+    translation: 'упрямый',
+  },
+  {
+    word: 'ביישן',
+    pronouncing: 'байшан',
+    translation: 'застенчевый  / стеснительный',
+  },
+  {
+    word: 'במאי',
+    pronouncing: 'бамай',
+    translation: 'режиссер',
+  },
+  {
+    word: 'להגיש',
+    pronouncing: 'лэхагиш',
+    translation: 'подавать / выдвигать',
+  },
+  {
+    word: 'להרים',
+    pronouncing: 'лэхарим',
+    translation: 'поднять / подобрать',
+  },
+  {
+    word: 'להגיב',
+    pronouncing: 'лэхагив',
+    translation: 'ответить / прокомментировать',
+  },
 ]
