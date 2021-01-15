@@ -5635,4 +5635,14 @@ export const wordsClass5 = [
     pronouncing: 'лэхагив',
     translation: 'ответить / прокомментировать',
   },
+  {
+    word: 'לכבות',
+    pronouncing: 'лэхабот',
+    translation: 'выключить / потушить',
+  },
+  {
+    word: 'לגלות',
+    pronouncing: 'лэгалот',
+    translation: 'узнать / выяснить',
+  },
 ]
