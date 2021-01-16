@@ -5645,4 +5645,24 @@ export const wordsClass5 = [
     pronouncing: 'лэгалот',
     translation: 'узнать / выяснить',
   },
+  {
+    word: 'להתרכז',
+    pronouncing: 'лэхитракэз',
+    translation: 'сосредоточиться',
+  },
+  {
+    word: 'להרדם',
+    pronouncing: 'лэхирадэм',
+    translation: 'заснуть',
+  },
+  {
+    word: 'נורא',
+    pronouncing: 'нора',
+    translation: 'ужасный / ужасно',
+  },
+  {
+    word: 'בדיחה',
+    pronouncing: 'бдиха',
+    translation: 'шутка',
+  },
 ]
