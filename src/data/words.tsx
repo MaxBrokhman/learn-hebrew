@@ -5665,4 +5665,39 @@ export const wordsClass5 = [
     pronouncing: 'бдиха',
     translation: 'шутка',
   },
+  {
+    word: 'נסבל',
+    pronouncing: 'нисбаль',
+    translation: 'терпимо',
+  },
+  {
+    word: 'בלתי',
+    pronouncing: 'билти',
+    translation: 'не',
+  },
+  {
+    word: 'פעמון',
+    pronouncing: 'паамон',
+    translation: 'звонок / колокольчик',
+  },
+  {
+    word: 'תאונה',
+    pronouncing: 'тэуна',
+    translation: 'несчастный случай / авария',
+  },
+  {
+    word: 'להתאושש',
+    pronouncing: 'лэхитошэш',
+    translation: 'восстановиться / прийтий в себя',
+  },
+  {
+    word: 'אשם',
+    pronouncing: 'ашэм',
+    translation: 'виновен',
+  },
+  {
+    word: 'להצטרך',
+    pronouncing: 'лэхицтарэх',
+    translation: 'нуждаться',
+  },
 ]
