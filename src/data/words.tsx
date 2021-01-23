@@ -5700,4 +5700,14 @@ export const wordsClass5 = [
     pronouncing: 'лэхицтарэх',
     translation: 'нуждаться',
   },
+  {
+    word: 'נוטע',
+    pronouncing: 'нотэа',
+    translation: 'выращивать',
+  },
+  {
+    word: 'להעניש',
+    pronouncing: 'лэханиш',
+    translation: 'наказать',
+  },
 ]
