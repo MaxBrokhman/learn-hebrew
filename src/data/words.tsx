@@ -5710,4 +5710,14 @@ export const wordsClass5 = [
     pronouncing: 'лэханиш',
     translation: 'наказать',
   },
+  {
+    word: 'שעמום',
+    pronouncing: 'шиамум',
+    translation: 'скука',
+  },
+  {
+    word: 'מסור',
+    pronouncing: 'масур',
+    translation: 'преданный',
+  },
 ]
