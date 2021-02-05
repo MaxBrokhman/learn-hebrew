@@ -5720,4 +5720,24 @@ export const wordsClass5 = [
     pronouncing: 'масур',
     translation: 'преданный',
   },
+  {
+    word: 'תמורה',
+    pronouncing: 'тмура',
+    translation: 'вознаграждение',
+  },
+  {
+    word: 'משוחח',
+    pronouncing: 'мэшухах',
+    translation: 'разговаривать / беседовать',
+  },
+  {
+    word: 'מייעץ',
+    pronouncing: 'мэяэц',
+    translation: 'консультировать / советовать',
+  },
+  {
+    word: 'היגיון',
+    pronouncing: 'хигайон',
+    translation: 'логика',
+  },
 ]
