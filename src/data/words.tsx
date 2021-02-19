@@ -4188,7 +4188,7 @@ export const wordsClass5 = [
   {
     word: 'לטעון',
     pronouncing: 'лэтаон',
-    translation: 'утверждать',
+    translation: 'утверждать / грузить',
   },
   {
     word: 'מופיע',
@@ -5739,5 +5739,45 @@ export const wordsClass5 = [
     word: 'היגיון',
     pronouncing: 'хигайон',
     translation: 'логика',
+  },
+  {
+    word: 'כעבור',
+    pronouncing: 'кавор',
+    translation: 'спустя / через',
+  },
+  {
+    word: 'ביקורת',
+    pronouncing: 'бикорэт',
+    translation: 'критика',
+  },
+  {
+    word: 'מכשיר',
+    pronouncing: 'махшир',
+    translation: 'прибор / устройство',
+  },
+  {
+    word: 'לחנך',
+    pronouncing: 'лэханэх',
+    translation: 'воспитывать',
+  },
+  {
+    word: 'לדחוף',
+    pronouncing: 'лидхоф',
+    translation: 'толкать / отталкивать',
+  },
+  {
+    word: 'להתנגד',
+    pronouncing: 'лэхитнагэд',
+    translation: 'сопротивляться / возражать',
+  },
+  {
+    word: 'לחייב',
+    pronouncing: 'лэхайэв',
+    translation: 'обязывать / требовать',
+  },
+  {
+    word: 'עבירה',
+    pronouncing: 'авира',
+    translation: 'преступление / нарушение',
   },
 ]
