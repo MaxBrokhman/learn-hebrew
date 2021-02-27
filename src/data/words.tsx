@@ -5780,4 +5780,29 @@ export const wordsClass5 = [
     pronouncing: 'авира',
     translation: 'преступление / нарушение',
   },
+  {
+    word: 'סקרן',
+    pronouncing: 'сакрэн',
+    translation: 'испытывать любопытство / интересоваться',
+  },
+  {
+    word: 'למנוע',
+    pronouncing: 'лимноа',
+    translation: 'не допускать / препятствовать',
+  },
+  {
+    word: 'תדריך',
+    pronouncing: 'тадрих',
+    translation: 'инструктаж / бриффинг',
+  },
+  {
+    word: 'ליפול',
+    pronouncing: 'липоль',
+    translation: 'падать',
+  },
+  {
+    word: 'דמיון',
+    pronouncing: 'димийон',
+    translation: 'воображение / фантазия',
+  },
 ]
