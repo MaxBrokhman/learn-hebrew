@@ -4813,7 +4813,7 @@ export const wordsClass5 = [
   {
     word: 'לוותר',
     pronouncing: 'лэватэр',
-    translation: 'отказаться',
+    translation: 'отказаться / уступить',
   },
   {
     word: 'ציון',
@@ -5804,5 +5804,20 @@ export const wordsClass5 = [
     word: 'דמיון',
     pronouncing: 'димийон',
     translation: 'воображение / фантазия',
+  },
+  {
+    word: 'למסור',
+    pronouncing: 'лимсор',
+    translation: 'отдать / сдать',
+  },
+  {
+    word: 'לקלוט',
+    pronouncing: 'ликлот',
+    translation: 'понять / осознать',
+  },
+  {
+    word: 'להתבייש',
+    pronouncing: 'лэхитбаеш',
+    translation: 'стесняться / стыдиться',
   },
 ]
