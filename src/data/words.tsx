@@ -5820,4 +5820,44 @@ export const wordsClass5 = [
     pronouncing: 'лэхитбаеш',
     translation: 'стесняться / стыдиться',
   },
+  {
+    word: 'מקלדת',
+    pronouncing: 'миклэдэт',
+    translation: 'клавиатура',
+  },
+  {
+    word: 'צג',
+    pronouncing: 'цаг',
+    translation: 'монитор / экран',
+  },
+  {
+    word: 'שולט',
+    pronouncing: 'шолэт',
+    translation: 'контролировать / управлять',
+  },
+  {
+    word: 'ביקורת',
+    pronouncing: 'бикорэт',
+    translation: 'критика / рецензия',
+  },
+  {
+    word: 'לפרנס',
+    pronouncing: 'лэфарнэс',
+    translation: 'содержать / обеспечивать',
+  },
+  {
+    word: 'פגם',
+    pronouncing: 'пгам',
+    translation: 'брак / дефект',
+  },
+  {
+    word: 'סרטון',
+    pronouncing: 'сиртон',
+    translation: 'видеоролик',
+  },
+  {
+    word: 'לאיים',
+    pronouncing: 'лэайем',
+    translation: 'угрожать',
+  },
 ]
