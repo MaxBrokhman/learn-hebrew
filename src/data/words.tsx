@@ -5860,4 +5860,19 @@ export const wordsClass5 = [
     pronouncing: 'лэайем',
     translation: 'угрожать',
   },
+  {
+    word: 'להרוס',
+    pronouncing: 'лахарос',
+    translation: 'разрушить / испортить',
+  },
+  {
+    word: 'למחרת',
+    pronouncing: 'лэмахорат',
+    translation: 'на следующий день',
+  },
+  {
+    word: 'הצבעה',
+    pronouncing: 'хацваа',
+    translation: 'голосование',
+  },
 ]
