@@ -4951,7 +4951,7 @@ export const wordsClass5 = [
     translation: 'на протяжении / в течении',
   },
   {
-    word: 'זקוק',
+    word: 'זקוק ל',
     pronouncing: 'закук',
     translation: 'нуждаться в',
   },
@@ -5874,5 +5874,55 @@ export const wordsClass5 = [
     word: 'הצבעה',
     pronouncing: 'хацваа',
     translation: 'голосование',
+  },
+  {
+    word: 'קינא',
+    pronouncing: 'кинэ',
+    translation: 'завидовать',
+  },
+  {
+    word: 'מועמד',
+    pronouncing: 'маомад',
+    translation: 'кандидат',
+  },
+  {
+    word: 'משמעות',
+    pronouncing: 'машмаут',
+    translation: 'смысл / значение',
+  },
+  {
+    word: 'מנוסה',
+    pronouncing: 'мэнусэ',
+    translation: 'опытный',
+  },
+  {
+    word: 'הוצאה',
+    pronouncing: 'хоцаа',
+    translation: 'статья расходов',
+  },
+  {
+    word: 'דיכאון',
+    pronouncing: 'дикаон',
+    translation: 'депрессия',
+  },
+  {
+    word: 'להגזים',
+    pronouncing: 'лэхагзим',
+    translation: 'преувеличивать',
+  },
+  {
+    word: 'קידום',
+    pronouncing: 'кидум',
+    translation: 'повышение',
+  },
+  {
+    word: 'לצוות',
+    pronouncing: 'лэцавот',
+    translation: 'приказать',
+  },
+  {
+    word: 'להשיב',
+    pronouncing: 'лэхашив',
+    translation: 'возвращать / отвечать',
   },
 ]
