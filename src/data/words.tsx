@@ -5925,4 +5925,29 @@ export const wordsClass5 = [
     pronouncing: 'лэхашив',
     translation: 'возвращать / отвечать',
   },
+  {
+    word: 'מטרייה',
+    pronouncing: 'митриа',
+    translation: 'зонтик',
+  },
+  {
+    word: 'פיטריות',
+    pronouncing: 'питриот',
+    translation: 'грибы',
+  },
+  {
+    word: 'להבחין ב',
+    pronouncing: 'лэхавхин',
+    translation: 'заметить / разглядеть',
+  },
+  {
+    word: 'להתפנק',
+    pronouncing: 'лэхитфанэк',
+    translation: 'побаловать себя',
+  },
+  {
+    word: 'לשרוד',
+    pronouncing: 'лисрод',
+    translation: 'выжить / уцелеть',
+  },
 ]
