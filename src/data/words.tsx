@@ -5950,4 +5950,69 @@ export const wordsClass5 = [
     pronouncing: 'лисрод',
     translation: 'выжить / уцелеть',
   },
+  {
+    word: 'לכבות',
+    pronouncing: 'лэкабот',
+    translation: 'выключить / погасить',
+  },
+  {
+    word: 'משחה',
+    pronouncing: 'мисха',
+    translation: 'мазь / крем',
+  },
+  {
+    word: 'מברשת',
+    pronouncing: 'мэварэшэт',
+    translation: 'расческа / щетка',
+  },
+  {
+    word: 'מגבת',
+    pronouncing: 'магэвэт',
+    translation: 'полотенце',
+  },
+  {
+    word: 'מברג',
+    pronouncing: 'мавэрэг',
+    translation: 'отвертка',
+  },
+  {
+    word: 'סדין',
+    pronouncing: 'садин',
+    translation: 'простыня',
+  },
+  {
+    word: 'כרית',
+    pronouncing: 'карит',
+    translation: 'подушка',
+  },
+  {
+    word: 'שמיכה',
+    pronouncing: 'смика',
+    translation: 'одеяло',
+  },
+  {
+    word: 'פטיש',
+    pronouncing: 'патиш',
+    translation: 'молоток',
+  },
+  {
+    word: 'סיר',
+    pronouncing: 'сир',
+    translation: 'кастрюля / горшок',
+  },
+  {
+    word: 'מחבת',
+    pronouncing: 'махват',
+    translation: 'сковорода',
+  },
+  {
+    word: 'סכין',
+    pronouncing: 'сакин',
+    translation: 'нож',
+  },
+  {
+    word: 'מזלג',
+    pronouncing: 'мазэлэг',
+    translation: 'вилка',
+  },
 ]
