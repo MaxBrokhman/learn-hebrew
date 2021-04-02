@@ -6015,4 +6015,39 @@ export const wordsClass5 = [
     pronouncing: 'мазэлэг',
     translation: 'вилка',
   },
+  {
+    word: 'להתרגז',
+    pronouncing: 'лэхитрагэз',
+    translation: 'злиться',
+  },
+  {
+    word: 'תחביב',
+    pronouncing: 'тахбиб',
+    translation: 'хобби',
+  },
+  {
+    word: 'להשלים',
+    pronouncing: 'лэхашлим',
+    translation: 'закончить / завершить',
+  },
+  {
+    word: 'להכריח',
+    pronouncing: 'лэхахриах',
+    translation: 'заставлять / принуждать',
+  },
+  {
+    word: 'לרשת',
+    pronouncing: 'ларэшэт',
+    translation: 'получать наследство',
+  },
+  {
+    word: 'לממן',
+    pronouncing: 'лэмамэн',
+    translation: 'финансировать / субсидировать',
+  },
+  {
+    word: 'להזיק',
+    pronouncing: 'лэхазик',
+    translation: 'причинять вред',
+  },
 ]
