@@ -6050,4 +6050,24 @@ export const wordsClass5 = [
     pronouncing: 'лэхазик',
     translation: 'причинять вред',
   },
+  {
+    word: 'לגזור',
+    pronouncing: 'лигзор',
+    translation: 'вырезать / обрезать',
+  },
+  {
+    word: 'לסמן',
+    pronouncing: 'лэсамэн',
+    translation: 'отметить / обозначить',
+  },
+  {
+    word: 'להדפיס',
+    pronouncing: 'лэхадпис',
+    translation: 'напечатать / распечатать',
+  },
+  {
+    word: 'להעתיק',
+    pronouncing: 'лэхатик',
+    translation: 'скопировать',
+  },
 ]
