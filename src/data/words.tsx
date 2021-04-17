@@ -6070,4 +6070,74 @@ export const wordsClass5 = [
     pronouncing: 'лэхатик',
     translation: 'скопировать',
   },
+  {
+    word: 'השלטונות',
+    pronouncing: 'хашэльтунот',
+    translation: 'власти',
+  },
+  {
+    word: 'ספינה',
+    pronouncing: 'сфина',
+    translation: 'корабль',
+  },
+  {
+    word: 'לקלוט',
+    pronouncing: 'ликлот',
+    translation: 'принять / понять',
+  },
+  {
+    word: 'מפנק',
+    pronouncing: 'мэфанэк',
+    translation: 'баловать',
+  },
+  {
+    word: 'מחנך',
+    pronouncing: 'мэханэх',
+    translation: 'воспитывать',
+  },
+  {
+    word: 'לקשט',
+    pronouncing: 'лэкашэт',
+    translation: 'украшать',
+  },
+  {
+    word: 'אבל',
+    pronouncing: 'эвэль',
+    translation: 'траур / скорбь',
+  },
+  {
+    word: 'לאכזב',
+    pronouncing: 'лэахзэв',
+    translation: 'подвести / разочаровать',
+  },
+  {
+    word: 'להפר',
+    pronouncing: 'лэхафэр',
+    translation: 'нарушать',
+  },
+  {
+    word: 'עוצמה',
+    pronouncing: 'оцма',
+    translation: 'сила / мощь',
+  },
+  {
+    word: 'מגבת',
+    pronouncing: 'магэвэт',
+    translation: 'полотенце',
+  },
+  {
+    word: 'לבעור',
+    pronouncing: 'ливор',
+    translation: 'гореть /пылать',
+  },
+  {
+    word: 'להסתתר',
+    pronouncing: 'лэхистатэр',
+    translation: 'прятаться / скрываться',
+  },
+  {
+    word: 'להכריח',
+    pronouncing: 'лэхахриах',
+    translation: 'заставлять / принуждать',
+  },
 ]

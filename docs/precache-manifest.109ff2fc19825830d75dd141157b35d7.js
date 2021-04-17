@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf5f1b6102e20ff397b33919cbdfa2ea",
+    "revision": "77bed39a3439410059df3a02445f3fe1",
     "url": "/learn-hebrew/index.html"
   },
   {
-    "revision": "144dc875ca1570b8be6f",
+    "revision": "eded364b9aa1286a5f4d",
     "url": "/learn-hebrew/static/css/main.3455a260.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-hebrew/static/js/2.f2328476.chunk.js"
   },
   {
-    "revision": "144dc875ca1570b8be6f",
-    "url": "/learn-hebrew/static/js/main.4406c2d5.chunk.js"
+    "revision": "eded364b9aa1286a5f4d",
+    "url": "/learn-hebrew/static/js/main.f9e209dd.chunk.js"
   },
   {
     "revision": "70ac039ed8670654bbea",
