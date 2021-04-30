@@ -3377,7 +3377,7 @@ export const wordsClass5 = [
   // },
   {
     word: 'לנצח',
-    pronouncing: 'лэнацэах',
+    pronouncing: 'лэнэцах',
     translation: 'навсегда',
   },
   {
@@ -6139,5 +6139,55 @@ export const wordsClass5 = [
     word: 'להכריח',
     pronouncing: 'лэхахриах',
     translation: 'заставлять / принуждать',
+  },
+  {
+    word: 'מצטיין',
+    pronouncing: 'мицтаен',
+    translation: 'преуспевать',
+  },
+  {
+    word: 'קיצוני',
+    pronouncing: 'кицони',
+    translation: 'радикальный',
+  },
+  {
+    word: 'מתון',
+    pronouncing: 'матун',
+    translation: 'умеренный',
+  },
+  {
+    word: 'למען',
+    pronouncing: 'лэман',
+    translation: 'ради',
+  },
+  {
+    word: 'סכסוך',
+    pronouncing: 'сиксух',
+    translation: 'конфликт',
+  },
+  {
+    word: 'התמחות',
+    pronouncing: 'хитмахут',
+    translation: 'стажировка',
+  },
+  {
+    word: 'סולם',
+    pronouncing: 'сулам',
+    translation: 'лестница / шкала',
+  },
+  {
+    word: 'להשגיח על',
+    pronouncing: 'лэхашгиах',
+    translation: 'присматривать / надзирать',
+  },
+  {
+    word: 'אומנות',
+    pronouncing: 'оманут',
+    translation: 'искусство',
+  },
+  {
+    word: 'אמין',
+    pronouncing: 'амин',
+    translation: 'достоверный / надежный',
   },
 ]
