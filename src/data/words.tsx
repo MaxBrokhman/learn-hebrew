@@ -6190,4 +6190,29 @@ export const wordsClass5 = [
     pronouncing: 'амин',
     translation: 'достоверный / надежный',
   },
+  {
+    word: 'מוצלח',
+    pronouncing: 'муцлах',
+    translation: 'успешный / удачный',
+  },
+  {
+    word: 'להיערך',
+    pronouncing: 'лэхиарэх',
+    translation: 'состояться / подготовиться',
+  },
+  {
+    word: 'טקס',
+    pronouncing: 'тэкэс',
+    translation: 'церемония / ритуал',
+  },
+  {
+    word: 'אנושיות',
+    pronouncing: 'эношиют',
+    translation: 'человечность',
+  },
+  {
+    word: 'מצפון',
+    pronouncing: 'мацпун',
+    translation: 'совесть',
+  },
 ]
