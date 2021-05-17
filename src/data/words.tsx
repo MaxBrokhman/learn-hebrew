@@ -6215,4 +6215,34 @@ export const wordsClass5 = [
     pronouncing: 'мацпун',
     translation: 'совесть',
   },
+  {
+    word: 'להילקח',
+    pronouncing: 'лэхилакэах',
+    translation: 'отнимать',
+  },
+  {
+    word: 'להישמע',
+    pronouncing: 'лэхишамэа',
+    translation: 'звучать / прозвучать',
+  },
+  {
+    word: 'להתגונן',
+    pronouncing: 'лэхитгонэн',
+    translation: 'защищаться / обороняться',
+  },
+  {
+    word: 'לתקוף',
+    pronouncing: 'литкоф',
+    translation: 'нападать / атаковать',
+  },
+  {
+    word: 'להצית',
+    pronouncing: 'лэхацит',
+    translation: 'поджигать / подстрекать',
+  },
+  {
+    word: 'להאציל',
+    pronouncing: 'лэхаациль',
+    translation: 'делегировать',
+  },
 ]
