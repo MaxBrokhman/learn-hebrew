@@ -6245,4 +6245,24 @@ export const wordsClass5 = [
     pronouncing: 'лэхаациль',
     translation: 'делегировать',
   },
+  {
+    word: 'להיהרס',
+    pronouncing: 'лэхихарэс',
+    translation: 'быть разрушенным / уничтоженным',
+  },
+  {
+    word: 'להיערך',
+    pronouncing: 'лэхиарэх',
+    translation: 'состояться / быть подготовленным',
+  },
+  {
+    word: 'להיעזר',
+    pronouncing: 'лэхиазэр',
+    translation: 'воспользовать / задействовать',
+  },
+  {
+    word: 'מקביל',
+    pronouncing: 'макбиль',
+    translation: 'параллельно',
+  },
 ]
