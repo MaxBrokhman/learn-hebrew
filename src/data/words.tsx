@@ -6265,4 +6265,19 @@ export const wordsClass5 = [
     pronouncing: 'макбиль',
     translation: 'параллельно',
   },
+  {
+    word: 'לשחרר',
+    pronouncing: 'лэшахрэр',
+    translation: 'освободить / отпустить',
+  },
+  {
+    word: 'להיבנות',
+    pronouncing: 'лэхибанот',
+    translation: 'строиться',
+  },
+  {
+    word: 'להיעשות',
+    pronouncing: 'лэхиасут',
+    translation: 'делаться',
+  },
 ]
