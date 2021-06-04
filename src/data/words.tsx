@@ -6278,6 +6278,51 @@ export const wordsClass5 = [
   {
     word: 'להיעשות',
     pronouncing: 'лэхиасут',
-    translation: 'делаться',
+    translation: 'делаться / становиться',
+  },
+  {
+    word: 'צלול',
+    pronouncing: 'цалуль',
+    translation: 'чистый / ясный',
+  },
+  {
+    word: 'מעל',
+    pronouncing: 'мэаль',
+    translation: 'над',
+  },
+  {
+    word: 'לזייף',
+    pronouncing: 'лэзайэф',
+    translation: 'подделывать / фальсифицировать',
+  },
+  {
+    word: 'בגידה',
+    pronouncing: 'бгида',
+    translation: 'предательство / измена',
+  },
+  {
+    word: 'הרגל',
+    pronouncing: 'харгель',
+    translation: 'привычка',
+  },
+  {
+    word: 'סדרה',
+    pronouncing: 'сидра',
+    translation: 'сериал / комплект / ряд',
+  },
+  {
+    word: 'לקלל',
+    pronouncing: 'лэкалэль',
+    translation: 'ругать / проклинать',
+  },
+  {
+    word: 'לארוז',
+    pronouncing: 'лээроз',
+    translation: 'упаковывать / складывать',
+  },
+  {
+    word: 'לעקוף',
+    pronouncing: 'лаакоф',
+    translation: 'обгонять / обходить / объезжать / избегать',
   },
 ]
