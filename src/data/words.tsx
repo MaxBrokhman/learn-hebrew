@@ -6325,4 +6325,19 @@ export const wordsClass5 = [
     pronouncing: 'лаакоф',
     translation: 'обгонять / обходить / объезжать / избегать',
   },
+  {
+    word: 'חורבן',
+    pronouncing: 'хорбан',
+    translation: 'разрушение / уничтожение',
+  },
+  {
+    word: 'מחול',
+    pronouncing: 'махоль',
+    translation: 'танец',
+  },
+  {
+    word: 'חומה',
+    pronouncing: 'хома',
+    translation: 'стена',
+  },
 ]
