@@ -1,0 +1,10 @@
+type Word {
+  id: String!
+  word: String!
+  pronouncing: String
+  translation: String
+}
+
+type Query {
+  words: [Word]!
+}
