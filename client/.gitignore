@@ -3,14 +3,14 @@
 # dependencies
 /.pnp
 .pnp.js
-client/node_modules/
+node_modules/
 **/node_modules/
 package-lock.json
 *.map
 
 # testing
 /coverage
-node_modules/
+node_modules
 
 # misc
 .DS_Store

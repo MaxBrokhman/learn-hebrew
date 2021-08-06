@@ -1,0 +1,30 @@
+type User {
+  _id: String!
+  email: String!
+  password: String!
+  words: [Word]!
+}
+
+enum Sex {
+  male,
+  female
+}
+
+type Word {
+  _id: String!
+  word: String!
+  pronouncing: String
+  translation: String
+  user: User
+  sex: Sex
+}
+
+input WordInput {
+  word: String!
+  pronouncing: String
+  translation: String
+}
+
+type Query {
+  words: [Word]!
+}
