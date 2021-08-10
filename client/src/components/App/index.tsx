@@ -1,26 +1,26 @@
-import React, { useReducer } from 'react'
-import { 
-  BrowserRouter as Router, 
+import React, { useReducer } from 'react';
+import {
+  BrowserRouter as Router,
   Route,
   Switch,
-} from 'react-router-dom'
+} from 'react-router-dom';
 
-import { Header } from '../Header'
-import { RandomPage } from '../RandomPage'
-import { SearchPage } from '../SearchPage'
-import { getRoute } from '../../utils'
-import { 
-  reducer, 
-  initialState, 
+import { Header } from '../Header';
+import { RandomPage } from '../RandomPage';
+import { SearchPage } from '../SearchPage';
+import { getRoute } from '../../utils';
+import {
+  reducer,
+  initialState,
   Context,
-} from '../../reducer'
+} from '../../reducer';
 
-import './App.css'
+import './App.css';
 
 export const App = () => {
-  const [state, dispatch] = useReducer(reducer, initialState)
+  const [state, dispatch] = useReducer(reducer, initialState);
   return (
-    <div className='container'>
+    <div className="container">
       <Context.Provider value={{ state, dispatch }}>
         <Router>
           <Header />
@@ -31,4 +31,5 @@ export const App = () => {
         </Router>
       </Context.Provider>
     </div>
-)}
+  );
+};

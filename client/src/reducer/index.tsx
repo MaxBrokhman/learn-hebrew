@@ -33,7 +33,7 @@ type TInitialContext = {
 export type TReducer = (state: TState, action: TAction) => TState
 
 const storedWordsType = localStorage.getItem('learn-hebrew-words')
-const wordsType = storedWordsType ? storedWordsType : defaultClass
+const wordsType = storedWordsType || defaultClass
 
 const initialWords = get(wordsMapper, wordsType, [])
 
@@ -48,7 +48,7 @@ export const initialState: TState = {
 
 const initialContext: TInitialContext = {
   state: initialState,
-  dispatch: () => {},
+  dispatch: () => null,
 }
 
 export const Context = createContext(initialContext)

@@ -6,7 +6,7 @@ import { TWord } from '../data/words'
 import { 
   isSearched,
   normalizeString,
-} from './'
+} from "."
 
 export const getSearchedWords = (words: Array<TWord>, term: string, type: string) => {
   return term.length 

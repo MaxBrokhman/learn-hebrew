@@ -11,9 +11,9 @@ import { getRoute } from '../../utils'
 export const RandomPage = () => {
  const { nextBtnClickHandler, currentWord } = useWords()
   return (
-    <Fragment>
+    <>
       <Link to={getRoute('search/')}>
-        <Arrow className={'right'} />
+        <Arrow className="right" />
       </Link>
       <WordCard currentWord={currentWord} />
       <div className='next-btn-wrapper d-flex justify-content-center'>
@@ -23,6 +23,6 @@ export const RandomPage = () => {
           value={nextBtnCaption}
         />
       </div>
-    </Fragment>
+    </>
   )
 }
