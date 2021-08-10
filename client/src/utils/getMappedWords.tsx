@@ -1,6 +1,6 @@
+import map from 'lodash/map'
 import { TWordUnmapped } from "../data";
 
-import map from 'lodash/map'
 
 export const getMappedWords = (words: Array<TWordUnmapped>) => map(
   words, 

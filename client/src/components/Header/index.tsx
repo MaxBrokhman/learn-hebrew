@@ -13,15 +13,15 @@ export const Header = () => {
       currentWords,
     },
   } = useAppContext()
-  const length = words.length
+  const {length} = words
   const passedLength = length - currentWords.length
   return (
-  <Fragment>
+  <>
     <ThemeSwitcher />
     <ClassSwitcherBtn defaultValue={classWords} />
     <h1 className='text-center'>Иврит</h1>
     <p className='text-center'>
       {`${passedLength} ${getCaption(passedLength)} из ${length}`}
     </p>
-  </Fragment>
+  </>
 )}

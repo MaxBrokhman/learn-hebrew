@@ -1876,7 +1876,7 @@ export const wordsClass5 = [
   //   pronouncing: 'мэкулькаль',
   //   translation: 'быть сломанным',
   // },
-  //Урок 19
+  // Урок 19
   // {
   //   word: 'ריח',
   //   pronouncing: 'рэйах',
@@ -2640,7 +2640,7 @@ export const wordsClass5 = [
   //   pronouncing: 'квиса',
   //   translation: 'стирка',
   // },
-  //Урок 33
+  // Урок 33
   // {
   //   word: 'גובה',
   //   pronouncing: 'гова',

@@ -16,15 +16,15 @@ export const SearchPage = () => {
   } = useSearch()
 
   return (
-    <Fragment>
+    <>
       <Link to={getRoute()}>
-        <Arrow className={'left'} />
+        <Arrow className="left" />
       </Link>
       <div className="input-group mb-3">
         <SelectSearchType onChange={searchTypeSelectHandler} />
         <SearchInput ref={inputEl} />
       </div>
       <SearchResultsList wordsToShow={wordsToShow} />
-    </Fragment>
+    </>
   )
 }
