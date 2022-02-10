@@ -19,7 +19,7 @@ export const Header = () => {
   <>
     <ThemeSwitcher />
     <ClassSwitcherBtn defaultValue={classWords} />
-    <h1 className='text-center'>Иврит</h1>
+    <h1 className='text-center'>{classWords === 'en'? 'English' : 'Иврит'}</h1>
     <p className='text-center'>
       {`${passedLength} ${getCaption(passedLength)} из ${length}`}
     </p>

@@ -33,12 +33,12 @@ export const WordCard = ({ currentWord }: TProps) => {
     <div className='card'>
       <ul className='list-group list-group-flush'>
         <ListItem value={word} className={firstListItemClassName} />
-        <ListItemWithBtn
+        {pronouncing && <ListItemWithBtn
           value={pronouncing} 
           isOpen={isPronouncingShowed}
           onClick={() => setPronouncingShowed(true)}
           btnValue={showPronouncingBtn}
-        />
+        />}
         <ListItemWithBtn 
           value={translation} 
           isOpen={isTranslationShowed} 

@@ -26,5 +26,8 @@ export const ClassSwitcherBtn = ({ defaultValue }: TProps) => (
     >
       כיתה 5
     </option>
+    <option value="en" defaultValue={defaultValue === 'en' ? " " : undefined}>
+      English
+    </option>
   </select>
 )

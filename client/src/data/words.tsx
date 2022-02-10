@@ -1,6 +1,6 @@
 export type TWordUnmapped = {
   word: string,
-  pronouncing: string,
+  pronouncing?: string,
   translation: string,
   sex?: string,
 }
