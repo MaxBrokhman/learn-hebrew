@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 const fs = require('fs');
 
-const file = fs.readFileSync('./client/words.txt', 'utf-8');
+const file = fs.readFileSync('./words.txt', 'utf-8');
 
 const isLatinWord = word => /^[a-z]+$/.test(word);
 
@@ -27,7 +27,9 @@ const processWords = (fileString) => {
     };
   });
 
-  fs.writeFileSync('./client/src/data/en.ts', `export const en = ${JSON.stringify(objects)}`);
+  const filtered = objects.filter(o => o.word.length);
+
+  fs.writeFileSync('./src/data/en.ts', `export const en = ${JSON.stringify(filtered)}`);
 }
 
 processWords(file);
