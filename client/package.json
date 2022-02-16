@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "change": "rm -R ../docs && mv 'build' '../docs'",
-    "words": "node ./parseWords.js && npm run build && git add . && git commit -m \"words updated\" && git push origin master",
+    "words": "node ./parseWords.js && npm run build && cd ../ && git add . && git commit -m \"words updated\" && git push origin master",
     "lint": "eslint . --ext .ts,.tsx --fix"
   },
   "eslintConfig": {
