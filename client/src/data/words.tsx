@@ -6450,4 +6450,308 @@ export const wordsClass5 = [
     pronouncing: 'мокэд',
     translation: 'фокус / центр / колл-центр / очаг',
   },
+  {
+    word: 'לשלוף',
+    translation: 'вытаскивать, извлекать',
+  },
+  {
+    word: 'מומחה',
+    pronouncing: 'мумхэ',
+    translation: 'квалифицированный, опытный, эксперт',
+  },
+  {
+    word: 'מקנה',
+    pronouncing: 'микнэ',
+    translation: 'приобретение', 
+  },
+  {
+    word: 'ריכוז',
+    pronouncing: 'рикуз',
+    translation: 'концентрация', 
+  },
+  {
+    word: 'מתוכנן',
+    pronouncing: 'мэтухнан',
+    translation: 'запланирован', 
+  },
+  {
+    word: 'במקביל',
+    pronouncing: 'бэмакбил',
+    translation: 'параллельно', 
+  },
+  {
+    word: 'מתרחש',
+    pronouncing: 'митрахэш',
+    translation: 'происходить, действовать', 
+  },
+  {
+    word: 'מתווה',
+    pronouncing: 'митвэ',
+    translation: 'контур', 
+  },
+  {
+    word: 'להתמיד',
+    pronouncing: 'лэхатмид',
+    translation: 'сопротивляться, упорствовать', 
+  },
+  {
+    word: 'מרכאות',
+    pronouncing: 'мэркаот',
+    translation: 'кавычки', 
+  },
+  {
+    word: 'אשליה',
+    pronouncing: 'ашлая',
+    translation: 'иллюзия', 
+  },
+  {
+    word: 'להפיץ',
+    pronouncing: 'лэхафиц',
+    translation: 'распространять', 
+  },
+  {
+    word: 'להעליב',
+    pronouncing: 'лэхалив',
+    translation: 'оскорблять', 
+  },
+  {
+    word: 'ניסוי',
+    pronouncing: 'нисуй',
+    translation: 'пробный', 
+  },
+  {
+    word: 'שבב',
+    pronouncing: 'швав',
+    translation: 'чип', 
+  },
+  {
+    word: 'מפורש',
+    pronouncing: 'мэфураш',
+    translation: 'явный', 
+  },
+  {
+    word: 'לתמצת',
+    pronouncing: 'лэтамцэт',
+    translation: 'резюмировать', 
+  },
+  {
+    word: 'לטפס על',
+    pronouncing: 'лэтапэс',
+    translation: 'карабкаться, залезать', 
+  },
+  {
+    word: 'להתאמץ',
+    pronouncing: 'лэхитамэц',
+    translation: 'стараться', 
+  },
+  {
+    word: 'להסיח',
+    pronouncing: 'лэхасиах',
+    translation: 'отвлечь', 
+  },
+  {
+    word: 'צמיחה',
+    pronouncing: 'цмиха',
+    translation: 'подъем, рост', 
+  },
+  {
+    word: 'לעכב',
+    pronouncing: 'лэакэв',
+    translation: 'отложить, задерживать', 
+  },
+  {
+    word: 'לחסום',
+    pronouncing: 'лахсом',
+    translation: 'блокировать', 
+  },
+  {
+    word: 'לקטר',
+    pronouncing: 'лэкатэр',
+    translation: 'жаловаться', 
+  },
+  {
+    word: 'הקדמה',
+    pronouncing: 'хакдама',
+    translation: 'введение', 
+  },
+  {
+    word: 'לנדוף',
+    pronouncing: 'линдоф',
+    translation: 'пахнуть, запах', 
+  },
+  {
+    word: 'לכונן',
+    pronouncing: 'лэхонэн',
+    translation: 'настроить, установить', 
+  },
+  {
+    word: 'שורד',
+    pronouncing: 'сорэд',
+    translation: 'выживать', 
+  },
+  {
+    word: 'סקרן',
+    pronouncing: 'сакран',
+    translation: 'любопытный', 
+  },
+  {
+    word: 'לשפוך',
+    pronouncing: 'лищпох',
+    translation: 'выливать', 
+  },
+  {
+    word: 'לקפוץ',
+    pronouncing: 'ликпоц',
+    translation: 'прыгать, перепрыгивать', 
+  },
+  {
+    word: 'לדפוק',
+    pronouncing: 'лидпок',
+    translation: 'бить, стучать', 
+  },
+  {
+    word: 'מצוי',
+    pronouncing: 'мацуй',
+    translation: 'имеющийся, существующий', 
+  },
+  {
+    word: 'הימצאות',
+    pronouncing: 'имацут',
+    translation: 'нахождение, наличие', 
+  },
+  {
+    word: 'להתמצא',
+    pronouncing: 'лэхитмацэ',
+    translation: 'разбираться, ориентироваться', 
+  },
+  {
+    word: 'להמציא',
+    pronouncing: 'лэхамци',
+    translation: 'придумать, выдумать', 
+  },
+  {
+    word: 'המצאה',
+    pronouncing: 'хамцаа',
+    translation: 'изобретение, плод', 
+  },
+  {
+    word: 'להוכיח',
+    pronouncing: 'лэохиах',
+    translation: 'доказать', 
+  },
+  {
+    word: 'לסקור',
+    pronouncing: 'лискор',
+    translation: 'обозревать, осматривать', 
+  },
+  {
+    word: 'אומן',
+    pronouncing: 'оман',
+    translation: 'исполнитель', 
+  },
+  {
+    word: 'דמות',
+    pronouncing: 'дмут',
+    translation: 'образ, персонаж', 
+  },
+  {
+    word: 'לחפור',
+    pronouncing: 'лахпор',
+    translation: 'копать, рыть', 
+  },
+  {
+    word: 'ישירות',
+    pronouncing: 'яширут',
+    translation: 'напрямую, непостредственно', 
+  },
+  {
+    word: 'עמוס',
+    pronouncing: 'амос',
+    translation: 'полный, нагруженный', 
+  },
+  {
+    word: 'מאוחסן',
+    pronouncing: 'мэухсан',
+    translation: 'храниться', 
+  },
+  {
+    word: 'להעתיק',
+    pronouncing: 'лэхатик',
+    translation: 'копировать, переписывать', 
+  },
+  {
+    word: 'להניח',
+    pronouncing: 'лэханиах',
+    translation: 'позволять', 
+  },
+  {
+    word: 'אלחוטי',
+    pronouncing: 'алхути',
+    translation: 'беспроводной', 
+  },
+  {
+    word: 'דביק',
+    pronouncing: 'давик',
+    translation: 'липкий', 
+  },
+  {
+    word: 'מציל',
+    pronouncing: 'мацил',
+    translation: 'спасатель, заставка', 
+  },
+  {
+    word: 'ללוות',
+    pronouncing: 'лэлавот',
+    translation: 'заимствовать', 
+  },
+  {
+    word: 'עליון',
+    pronouncing: 'эльон',
+    translation: 'верхний', 
+  },
+  {
+    word: 'פטור',
+    pronouncing: 'патур',
+    translation: 'освобожденный', 
+  },
+  {
+    word: 'להפטיר',
+    pronouncing: 'лэхафтир',
+    translation: 'отпустить, освободить', 
+  },
+  {
+    word: 'לפטר',
+    pronouncing: 'лэфатэр',
+    translation: 'увольнять', 
+  },
+  {
+    word: 'פיטורים',
+    pronouncing: 'питурим',
+    translation: 'сокращение, увольнение', 
+  },
+  {
+    word: 'פטירה',
+    pronouncing: 'птира',
+    translation: 'смерть', 
+  },
+  {
+    word: 'תענוג',
+    pronouncing: 'таануг',
+    translation: 'удовольствие', 
+  },
+  {
+    word: 'הדחף',
+    pronouncing: 'хадАхаф',
+    translation: 'стремление', 
+  },
+  {
+    word: 'להקל',
+    pronouncing: 'лэхакэль',
+    translation: 'облегчать', 
+  },
+  {
+    word: 'מגבלה',
+    pronouncing: 'микбала',
+    translation: 'ограничение', 
+  },
 ]
