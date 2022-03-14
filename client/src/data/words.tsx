@@ -6751,7 +6751,207 @@ export const wordsClass5 = [
   },
   {
     word: 'מגבלה',
-    pronouncing: 'микбала',
+    pronouncing: 'мигбала',
     translation: 'ограничение', 
+  },
+  {
+    word: 'בנימוס',
+    pronouncing: 'бэнимус',
+    translation: 'вежливо', 
+  },
+  {
+    word: 'תחום',
+    pronouncing: 'тхум',
+    translation: 'домен, область', 
+  },
+  {
+    word: 'להתפתות',
+    pronouncing: 'лэхитпатут',
+    translation: 'соблазниться', 
+  },
+  {
+    word: 'ניכר',
+    pronouncing: 'никар',
+    translation: 'значительный', 
+  },
+  {
+    word: 'ממושמעם',
+    pronouncing: 'мэмушмаам',
+    translation: 'дисципинированный', 
+  },
+  {
+    word: 'לתכנן',
+    pronouncing: 'лэтахнэн',
+    translation: 'планировать', 
+  },
+  {
+    word: 'תסכול',
+    pronouncing: 'тискуль',
+    translation: 'разочарование', 
+  },
+  {
+    word: 'ישג',
+    pronouncing: 'ешэг',
+    translation: 'достижение', 
+  },
+  {
+    word: 'נדיר',
+    pronouncing: 'надир',
+    translation: 'редкий', 
+  },
+  {
+    word: 'מהנה',
+    pronouncing: 'мэханэ',
+    translation: 'приятный', 
+  },
+  {
+    word: 'ריפוי',
+    pronouncing: 'рипуй',
+    translation: 'лечение, терапия', 
+  },
+  {
+    word: 'להתרפא',
+    pronouncing: 'лэхитрапэ',
+    translation: 'выздоравливать', 
+  },
+  {
+    word: 'מהווה',
+    pronouncing: 'мэхавэ',
+    translation: 'составлять, образовывать', 
+  },
+  {
+    word: 'שייך ל',
+    pronouncing: 'шаях',
+    translation: 'принадлежать', 
+  },
+  {
+    word: 'תת',
+    pronouncing: 'тат',
+    translation: 'суб, под', 
+  },
+  {
+    word: 'חוסם',
+    pronouncing: 'хосэм',
+    translation: 'блокировщик', 
+  },
+  {
+    word: 'לקפל',
+    pronouncing: 'лэкапэль',
+    translation: 'складывать, вмещать', 
+  },
+  {
+    word: 'מכשול',
+    pronouncing: 'михшоль',
+    translation: 'преграда, препятствие', 
+  },
+  {
+    word: 'מתפרק',
+    pronouncing: 'митпарэк',
+    translation: 'разваливаться', 
+  },
+  {
+    word: 'קפואי',
+    pronouncing: 'кафуй',
+    translation: 'замороженный', 
+  },
+  {
+    word: 'קהל',
+    pronouncing: 'кахаль',
+    translation: 'толпа, народ', 
+  },
+  {
+    word: 'מהלך',
+    pronouncing: 'мэхалэх',
+    translation: 'ходячий', 
+  },
+  {
+    word: 'חסין',
+    pronouncing: 'хасин',
+    translation: 'стойкий, невосприимчивый', 
+  },
+  {
+    word: 'שבירה',
+    pronouncing: 'швира',
+    translation: 'поломка, перелом', 
+  },
+  {
+    word: 'סומך',
+    pronouncing: 'сомэх',
+    translation: 'доверять', 
+  },
+  {
+    word: 'הובלה',
+    pronouncing: 'ховала',
+    translation: 'доставка', 
+  },
+  {
+    word: 'טלאי',
+    pronouncing: 'тлай',
+    translation: 'пластырь, повязка', 
+  },
+  {
+    word: 'צאן',
+    pronouncing: 'цон',
+    translation: 'стадо, скот', 
+  },
+  {
+    word: 'טבח',
+    pronouncing: 'тэвах',
+    translation: 'убой, резня', 
+  },
+  {
+    word: 'מדהים',
+    pronouncing: 'мадим',
+    translation: 'поразительный, замечательно', 
+  },
+  {
+    word: 'מתאסיף',
+    pronouncing: 'митасиф',
+    translation: 'собираться, встречаться', 
+  },
+  {
+    word: 'מפוזר',
+    pronouncing: 'мэфузар',
+    translation: 'разбросанный, рассеяный', 
+  },
+  {
+    word: 'אמיד',
+    pronouncing: 'амид',
+    translation: 'состоятельный', 
+  },
+  {
+    word: 'מעמד',
+    pronouncing: 'маамад',
+    translation: 'положение дел, статус', 
+  },
+  {
+    word: 'לספק',
+    pronouncing: 'лэсапэк',
+    translation: 'предоставлять, доставлять, успевать', 
+  },
+  {
+    word: 'להתחבא',
+    pronouncing: 'лэхитхабэ',
+    translation: 'прятаться', 
+  },
+  {
+    word: 'מזרון',
+    pronouncing: 'мизрон',
+    translation: 'матрас', 
+  },
+  {
+    word: 'הדף',
+    pronouncing: 'хадаф',
+    translation: 'взрыв', 
+  },
+  {
+    word: 'לנפץ',
+    pronouncing: 'лэнапэц',
+    translation: 'разбить', 
+  },
+  {
+    word: 'פינה',
+    pronouncing: 'пина',
+    translation: 'угол', 
   },
 ]
