@@ -6954,4 +6954,139 @@ export const wordsClass5 = [
     pronouncing: 'пина',
     translation: 'угол', 
   },
+  {
+    word: 'להציב',
+    pronouncing: 'лэхацив',
+    translation: 'ставить', 
+  },
+  {
+    word: 'פליט',
+    pronouncing: 'палит',
+    translation: 'беженец', 
+  },
+  {
+    word: 'להציל',
+    pronouncing: 'лэхацил',
+    translation: 'спасать, выручать', 
+  },
+  {
+    word: 'מכוער',
+    pronouncing: 'мэхоар',
+    translation: 'уродливый', 
+  },
+  {
+    word: 'כיס',
+    pronouncing: 'кис',
+    translation: 'карман', 
+  },
+  {
+    word: 'טיפטוף',
+    pronouncing: 'тифтуф',
+    translation: 'капля, капать', 
+  },
+  {
+    word: 'לעטות',
+    pronouncing: 'лаатот',
+    translation: 'надеть, покрывать', 
+  },
+  {
+    word: 'מסתבך',
+    pronouncing: 'мистабэх',
+    translation: 'запутываться, втягиваться', 
+  },
+  {
+    word: 'מעצמה',
+    pronouncing: 'маацма',
+    translation: 'держава, власть', 
+  },
+  {
+    word: 'עצום',
+    pronouncing: 'ацум',
+    translation: 'могучий, мощный', 
+  },
+  {
+    word: 'להעצים',
+    pronouncing: 'лэхацим',
+    translation: 'усиливать, увеличивать', 
+  },
+  {
+    word: 'להתעצם',
+    pronouncing: 'лэхитацэм',
+    translation: 'усиливаться', 
+  },
+  {
+    word: 'לכשור',
+    pronouncing: 'лихшор',
+    translation: 'быть успешным, быть пригодным', 
+  },
+  {
+    word: 'כישורים',
+    pronouncing: 'кишурим',
+    translation: 'квалификация', 
+  },
+  {
+    word: 'כשיר',
+    pronouncing: 'кашир',
+    translation: 'квалифицированный, дееспособный', 
+  },
+  {
+    word: 'כשרון',
+    pronouncing: 'кишрон',
+    translation: 'талант, способность', 
+  },
+  {
+    word: 'תכשיר',
+    pronouncing: 'тахшир',
+    translation: 'препарат', 
+  },
+  {
+    word: 'לרסס',
+    pronouncing: 'лэрасэс',
+    translation: 'разбрызгивать', 
+  },
+  {
+    word: 'מצקת',
+    pronouncing: 'мацэкэт',
+    translation: 'ковш, половник', 
+  },
+  {
+    word: 'מתיחה',
+    pronouncing: 'матиха',
+    translation: 'натягивание, розыгрыш', 
+  },
+  {
+    word: 'למתוח',
+    pronouncing: 'лимтоах',
+    translation: 'натягивать, тянуть', 
+  },
+  {
+    word: 'לקרוע',
+    pronouncing: 'ликроа',
+    translation: 'рвать, разрывать', 
+  },
+  {
+    word: 'רצוי',
+    pronouncing: 'рацуй',
+    translation: 'желательный, желанный', 
+  },
+  {
+    word: 'לרצות',
+    pronouncing: 'лэрацот',
+    translation: 'удовлетворять, задабривать', 
+  },
+  {
+    word: 'להתרצות',
+    pronouncing: 'лэхитрацот',
+    translation: 'примиряться, соглашаться', 
+  },
+  {
+    word: 'להרצות',
+    pronouncing: 'лэхарцот',
+    translation: 'читать лекцию, доклад', 
+  },
+  {
+    word: 'גיבוי',
+    pronouncing: 'гибуй',
+    translation: 'резервный, бэкап', 
+  },
 ]
