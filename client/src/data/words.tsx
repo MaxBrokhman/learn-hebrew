@@ -1690,11 +1690,11 @@ export const wordsClass5 = [
   //   pronouncing: 'тоцаа',
   //   translation: 'результат',
   // },
-  // {
-  //   word: 'לבלות',
-  //   pronouncing: 'лэвалот',
-  //   translation: 'проводить время / тусоваться',
-  // },
+  {
+    word: 'לבלות',
+    pronouncing: 'лэвалот',
+    translation: 'проводить время / тусоваться',
+  },
   {
     word: 'משאיר',
     pronouncing: 'машэир',
@@ -6026,11 +6026,6 @@ export const wordsClass5 = [
     translation: 'напечатать / распечатать',
   },
   {
-    word: 'להעתיק',
-    pronouncing: 'лэхатик',
-    translation: 'скопировать',
-  },
-  {
     word: 'השלטונות',
     pronouncing: 'хашэльтунот',
     translation: 'власти',
@@ -6452,7 +6447,7 @@ export const wordsClass5 = [
   },
   {
     word: 'לשלוף',
-    translation: 'вытаскивать, извлекать',
+    translation: 'вытаскивать, извлекать, забрать',
   },
   {
     word: 'מומחה',
@@ -7088,5 +7083,280 @@ export const wordsClass5 = [
     word: 'גיבוי',
     pronouncing: 'гибуй',
     translation: 'резервный, бэкап', 
+  },
+  {
+    word: 'גלות',
+    pronouncing: 'галут',
+    translation: 'изгнание', 
+  },
+  {
+    word: 'נחל',
+    pronouncing: 'нахаль',
+    translation: 'ручей', 
+  },
+  {
+    word: 'מרחק',
+    pronouncing: 'марэхак',
+    translation: 'расстояние', 
+  },
+  {
+    word: 'כישלון',
+    pronouncing: 'кишалон',
+    translation: 'провал, поражение', 
+  },
+  {
+    word: 'כנוס',
+    pronouncing: 'кинус',
+    translation: 'конференция, съезд', 
+  },
+  {
+    word: 'דיווח',
+    pronouncing: 'дивуах',
+    translation: 'отчет', 
+  },
+  {
+    word: 'רשמי',
+    pronouncing: 'ришми',
+    translation: 'официальный', 
+  },
+  {
+    word: 'עמדה',
+    pronouncing: 'эмда',
+    translation: 'позиция', 
+  },
+  {
+    word: 'נחוצה',
+    pronouncing: 'нэхуца',
+    translation: 'необходимо, требуемо', 
+  },
+  {
+    word: 'לתרום',
+    pronouncing: 'литром',
+    translation: 'пожертвовать', 
+  },
+  {
+    word: 'התארגנות',
+    pronouncing: 'хитаргэнут',
+    translation: 'организация', 
+  },
+  {
+    word: 'מופגז',
+    pronouncing: 'муфгаз',
+    translation: 'разбомбленный', 
+  },
+  {
+    word: 'מחסה',
+    pronouncing: 'махасэ',
+    translation: 'приют', 
+  },
+  {
+    word: 'תירוץ',
+    pronouncing: 'тируц',
+    translation: 'извинение', 
+  },
+  {
+    word: 'מחריד',
+    pronouncing: 'махрид',
+    translation: 'жуткий', 
+  },
+  {
+    word: 'רצוף',
+    pronouncing: 'рацуф',
+    translation: 'последовательный', 
+  },
+  {
+    word: 'מצוקה',
+    pronouncing: 'мэцука',
+    translation: 'горе, нужда', 
+  },
+  {
+    word: 'כתף',
+    pronouncing: 'катэф',
+    translation: 'плечо', 
+  },
+  {
+    word: 'מסורב',
+    pronouncing: 'мэсурав',
+    translation: 'отказано', 
+  },
+  {
+    word: 'מייגעה',
+    pronouncing: 'мэягэ',
+    translation: 'утомительный', 
+  },
+  {
+    word: 'בזרועות פתוחות',
+    pronouncing: 'бэзрот птухот',
+    translation: 'с распростертыми объятиями', 
+  },
+  {
+    word: 'להשתזף',
+    pronouncing: 'лэхиштазэф',
+    translation: 'загорать', 
+  },
+  {
+    word: 'אשרה',
+    pronouncing: 'эшра',
+    translation: 'виза', 
+  },
+  {
+    word: 'להשתקע',
+    pronouncing: 'лэхиштакэа',
+    translation: 'селиться', 
+  },
+  {
+    word: 'הגירה',
+    pronouncing: 'хагира',
+    translation: 'иммиграция', 
+  },
+  {
+    word: 'נוהל',
+    pronouncing: 'нохаль',
+    translation: 'процедура', 
+  },
+  {
+    word: 'להעניק',
+    pronouncing: 'лэханик',
+    translation: 'предоставлять', 
+  },
+  {
+    word: 'קולט',
+    pronouncing: 'колэт',
+    translation: 'поглощать, впитывать', 
+  },
+  {
+    word: 'מפגינה',
+    pronouncing: 'мафгина',
+    translation: 'демонстрация', 
+  },
+  {
+    word: 'להימלט',
+    pronouncing: 'лэхималэт',
+    translation: 'сбежать', 
+  },
+  {
+    word: 'מחרב',
+    pronouncing: 'мэхарэв',
+    translation: 'разрушать', 
+  },
+  {
+    word: 'פלישה',
+    pronouncing: 'плиша',
+    translation: 'вторжение', 
+  },
+  {
+    word: 'דאגה',
+    pronouncing: 'даага',
+    translation: 'забота', 
+  },
+  {
+    word: 'מבולבל',
+    pronouncing: 'мэвульбаль',
+    translation: 'сумбурный, хаотичный', 
+  },
+  {
+    word: 'פשרה',
+    pronouncing: 'пшара',
+    translation: 'компромисс', 
+  },
+  {
+    word: 'תשתית',
+    pronouncing: 'таштит',
+    translation: 'инфраструктура', 
+  },
+  {
+    word: 'משוקלל',
+    pronouncing: 'мэшуклаль',
+    translation: 'средневзвешенный', 
+  },
+  {
+    word: 'אמיץ',
+    pronouncing: 'амиц',
+    translation: 'храбрый', 
+  },
+  {
+    word: 'מסתמן',
+    pronouncing: 'мистамэн',
+    translation: 'по-видимому', 
+  },
+  {
+    word: 'מדיניות',
+    pronouncing: 'мидиньют',
+    translation: 'политика', 
+  },
+  {
+    word: 'צפוף',
+    pronouncing: 'цафуф',
+    translation: 'плотный, тесный', 
+  },
+  {
+    word: 'צביון',
+    pronouncing: 'цивион',
+    translation: 'персонаж, характер, сущность', 
+  },
+  {
+    word: 'השבות',
+    pronouncing: 'хашавут',
+    translation: 'возврат, возвращение', 
+  },
+  {
+    word: 'להירתם',
+    pronouncing: 'лэхиратэм',
+    translation: 'учавствовать, помогать', 
+  },
+  {
+    word: 'טובה',
+    pronouncing: 'това',
+    translation: 'услуга, одолжение', 
+  },
+  {
+    word: 'עקורי',
+    pronouncing: 'акори',
+    translation: 'перемещенный удаленный', 
+  },
+  {
+    word: 'בוחן',
+    pronouncing: 'бохэн',
+    translation: 'проверять, тест', 
+  },
+  {
+    word: 'מתן',
+    pronouncing: 'матан',
+    translation: 'предоставление, выдача', 
+  },
+  {
+    word: 'נמלט',
+    pronouncing: 'нимлат',
+    translation: 'беглец, беженец', 
+  },
+  {
+    word: 'סביר',
+    pronouncing: 'савир',
+    translation: 'приемлемый, логичный, вероятный', 
+  },
+  {
+    word: 'ראוי',
+    pronouncing: 'рауй',
+    translation: 'правильный, подходящий, соответствующий', 
+  },
+  {
+    word: 'להגביל',
+    pronouncing: 'лэхагвиль',
+    translation: 'ограничивать', 
+  },
+  {
+    word: 'חסד',
+    pronouncing: 'хэсэд',
+    translation: 'милость, благодеяние', 
+  },
+  {
+    word: 'להושיט',
+    pronouncing: 'лэхошит',
+    translation: 'достигать протягивать', 
+  },
+  {
+    word: 'אדיר',
+    pronouncing: 'адир',
+    translation: 'классно, шикарно', 
   },
 ]
