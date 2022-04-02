@@ -7107,7 +7107,7 @@ export const wordsClass5 = [
   {
     word: 'כנוס',
     pronouncing: 'кинус',
-    translation: 'конференция, съезд', 
+    translation: 'собирание', 
   },
   {
     word: 'דיווח',
@@ -7358,5 +7358,160 @@ export const wordsClass5 = [
     word: 'אדיר',
     pronouncing: 'адир',
     translation: 'классно, шикарно', 
+  },
+  {
+    word: 'כנס',
+    pronouncing: 'кэнэс',
+    translation: 'конференция, съезд', 
+  },
+  {
+    word: 'על מנת',
+    pronouncing: 'аль манат',
+    translation: 'к, для того чтобы', 
+  },
+  {
+    word: 'הצהרה',
+    pronouncing: 'хацара',
+    translation: 'заявление, декларация', 
+  },
+  {
+    word: 'הגרלה',
+    pronouncing: 'хаграла',
+    translation: 'лотерея', 
+  },
+  {
+    word: 'להאריך',
+    pronouncing: 'лэхарих',
+    translation: 'продлевать', 
+  },
+  {
+    word: 'סידרה',
+    pronouncing: 'сидра',
+    translation: 'комплект, ряд', 
+  },
+  {
+    word: 'כבישה',
+    pronouncing: 'квиша',
+    translation: 'утаптывание, утрамбовывание; подавление', 
+  },
+  {
+    word: 'כבש',
+    pronouncing: 'кэвэс',
+    translation: 'баран', 
+  },
+  {
+    word: 'לכבוש',
+    pronouncing: 'лихбош',
+    translation: 'завоевывать, покорять; квасить, мариновать', 
+  },
+  {
+    word: 'לשקם',
+    pronouncing: 'лэшакэм',
+    translation: 'восстанавливать, реабилитировать', 
+  },
+  {
+    word: 'לפלל',
+    pronouncing: 'лэфалэль',
+    translation: 'ожидать, надеяться на что-либо', 
+  },
+  {
+    word: 'גביע',
+    pronouncing: 'гвиа',
+    translation: 'кубок, чаша, бокал, рожок', 
+  },
+  {
+    word: 'גבעה',
+    pronouncing: 'гива',
+    translation: 'холм', 
+  },
+  {
+    word: 'מחשבון',
+    pronouncing: 'махшэвон',
+    translation: 'калькулятор', 
+  },
+  {
+    word: 'רטוב',
+    pronouncing: 'ратув',
+    translation: 'мокрый', 
+  },
+  {
+    word: 'שימושי',
+    pronouncing: 'шимуши',
+    translation: 'полезный', 
+  },
+  {
+    word: 'תחזוקה',
+    pronouncing: 'тахзука',
+    translation: 'обслуживание, техническое обслуживание', 
+  },
+  {
+    word: 'רכילות',
+    pronouncing: 'рэхилут',
+    translation: 'слухи, сплетни', 
+  },
+  {
+    word: 'לזהות',
+    pronouncing: 'лэзаот',
+    translation: 'опознавать, распознать, идентифицировать', 
+  },
+  {
+    word: 'לגייס',
+    pronouncing: 'лэгайэс',
+    translation: 'подготовить', 
+  },
+  {
+    word: 'צמיחה',
+    pronouncing: 'цмиха',
+    translation: 'рост', 
+  },
+  {
+    word: 'מתחר',
+    pronouncing: 'митхар',
+    translation: 'конкурент', 
+  },
+  {
+    word: 'רכש',
+    pronouncing: 'рэхэш',
+    translation: 'приобретение', 
+  },
+  {
+    word: 'מנוע',
+    pronouncing: 'маноа',
+    translation: 'двигатель', 
+  },
+  {
+    word: 'בוודאות',
+    pronouncing: 'бэвадаут',
+    translation: 'для уверенности', 
+  },
+  {
+    word: 'דלק',
+    pronouncing: 'дэлэк',
+    translation: 'топливо', 
+  },
+  {
+    word: 'התפטרות',
+    pronouncing: 'хитпатрут',
+    translation: 'отставка', 
+  },
+  {
+    word: 'שידור חי',
+    pronouncing: 'шидур хай',
+    translation: 'прямая трансляция', 
+  },
+  {
+    word: 'ניחום',
+    pronouncing: 'нихум',
+    translation: 'утешение', 
+  },
+  {
+    word: 'מחבל',
+    pronouncing: 'мэхабэль',
+    translation: 'террорист', 
+  },
+  {
+    word: 'מטומטם',
+    pronouncing: 'мэтумтам',
+    translation: 'тупой', 
   },
 ]
