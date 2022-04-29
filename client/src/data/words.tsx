@@ -1545,11 +1545,11 @@ export const wordsClass5 = [
   //   pronouncing: 'лимод',
   //   translation: 'занятие',
   // },
-  // {
-  //   word: 'טבעת',
-  //   pronouncing: 'тават',
-  //   translation: 'кольцо',
-  // },
+  {
+    word: 'טבעת',
+    pronouncing: 'табаат',
+    translation: 'кольцо',
+  },
   // {
   //   word: 'מפסיק',
   //   pronouncing: 'мафсик',
@@ -3067,7 +3067,7 @@ export const wordsClass5 = [
   // },
   {
     word: 'תחזית',
-    pronouncing: 'тахзит',
+    pronouncing: 'тахазит',
     translation: 'прогноз',
   },
   // {
@@ -5977,7 +5977,7 @@ export const wordsClass5 = [
   },
   {
     word: 'מזלג',
-    pronouncing: 'мазэлэг',
+    pronouncing: 'мазлэг',
     translation: 'вилка',
   },
   {
@@ -7513,5 +7513,310 @@ export const wordsClass5 = [
     word: 'מטומטם',
     pronouncing: 'мэтумтам',
     translation: 'тупой', 
+  },
+  {
+    word: 'לחלוט',
+    pronouncing: 'лахлот',
+    translation: 'заваривать чай, заливать кипятком', 
+  },
+  {
+    word: 'נתב',
+    pronouncing: 'натав',
+    translation: 'роутер', 
+  },
+  {
+    word: 'סריקה',
+    pronouncing: 'срика',
+    translation: 'поиск, анализ', 
+  },
+  {
+    word: 'עקום',
+    pronouncing: 'акум',
+    translation: 'кривой', 
+  },
+  {
+    word: 'מפוזר',
+    pronouncing: 'мэфузар',
+    translation: 'разбросанный', 
+  },
+  {
+    word: 'המאה',
+    pronouncing: 'хамаа',
+    translation: 'масло', 
+  },
+  {
+    word: 'חבוק',
+    pronouncing: 'хибук',
+    translation: 'объятие', 
+  },
+  {
+    word: 'בדקה התשעים',
+    pronouncing: 'бадака хатишим',
+    translation: 'в последней момент', 
+  },
+  {
+    word: 'להתברבר',
+    pronouncing: 'лэхитбарбэр',
+    translation: 'запутаться, заблудиться', 
+  },
+  {
+    word: 'משלחת',
+    pronouncing: 'мишлахат',
+    translation: 'экспедиция, делегация', 
+  },
+  {
+    word: 'שלוחה',
+    pronouncing: 'шлуха',
+    translation: 'отросток, филиал', 
+  },
+  {
+    word: 'שליחות',
+    pronouncing: 'шлихут',
+    translation: 'поручение, задание', 
+  },
+  {
+    word: 'להשתלח',
+    pronouncing: 'лэхишталэах',
+    translation: 'наброситься', 
+  },
+  {
+    word: 'מוצא',
+    pronouncing: 'моца',
+    translation: 'выход из положения', 
+  },
+  {
+    word: 'מונה',
+    pronouncing: 'монэ',
+    translation: 'счетчик, индикатор', 
+  },
+  {
+    word: 'מנין',
+    pronouncing: 'миньян',
+    translation: 'подсчет, количество, кворум', 
+  },
+  {
+    word: 'ללטש',
+    pronouncing: 'лэлатэш',
+    translation: 'шлифовать, полировать', 
+  },
+  {
+    word: 'גזענות',
+    pronouncing: 'гизанут',
+    translation: 'расизм', 
+  },
+  {
+    word: 'צלחת',
+    pronouncing: 'цалахат',
+    translation: 'тарелка', 
+  },
+  {
+    word: 'לזרז',
+    pronouncing: 'лэзарэз',
+    translation: 'подгонять, ускорить', 
+  },
+  {
+    word: 'צמיד',
+    pronouncing: 'цамид',
+    translation: 'браслет', 
+  },
+  {
+    word: 'עגיל',
+    pronouncing: 'агиль',
+    translation: 'серьга', 
+  },
+  {
+    word: 'לערוב',
+    pronouncing: 'лааров',
+    translation: 'гарантировать, ручаться, вечереть', 
+  },
+  {
+    word: 'ערבות',
+    pronouncing: 'арвут',
+    translation: 'гарантия, поручительство', 
+  },
+  {
+    word: 'ערובה',
+    pronouncing: 'аруба',
+    translation: 'гарантия, залог', 
+  },
+  {
+    word: 'להתערב',
+    pronouncing: 'лэхитарэв',
+    translation: 'вмешиваться, держать пари', 
+  },
+  {
+    word: 'התערבות',
+    pronouncing: 'хитарвут',
+    translation: 'пари', 
+  },
+  {
+    word: 'ערבה',
+    pronouncing: 'арава',
+    translation: 'ива', 
+  },
+  {
+    word: 'לחצות',
+    pronouncing: 'лэхацот',
+    translation: 'разделить, пресекать', 
+  },
+  {
+    word: 'לכרוך',
+    pronouncing: 'лихрох',
+    translation: 'связывать, обматывать, переплетать', 
+  },
+  {
+    word: 'שולחן עורך',
+    pronouncing: 'шульхан орэх',
+    translation: 'праздничная трапеза', 
+  },
+  {
+    word: 'צפון',
+    pronouncing: 'цафун',
+    translation: 'спрятанный, скрытый, утаенный', 
+  },
+  {
+    word: 'לצפון',
+    pronouncing: 'лицпон',
+    translation: 'скрывать, прятать', 
+  },
+  {
+    word: 'הלל',
+    pronouncing: 'халэль',
+    translation: 'хвала, восхваление', 
+  },
+  {
+    word: 'להלל',
+    pronouncing: 'лэхалэль',
+    translation: 'хвалить, восхвалять', 
+  },
+  {
+    word: 'קערה',
+    pronouncing: 'кэара',
+    translation: 'миска', 
+  },
+  {
+    word: 'מסחר',
+    pronouncing: 'мисхар',
+    translation: 'торговля', 
+  },
+  {
+    word: 'שליפה',
+    pronouncing: 'шлифа',
+    translation: 'извлечение, воспроизведение', 
+  },
+  {
+    word: 'חד משמעית',
+    pronouncing: 'хад машмаит',
+    translation: 'однозначно', 
+  },
+  {
+    word: 'חזון',
+    pronouncing: 'хазон',
+    translation: 'мечта, идеал, видение', 
+  },
+  {
+    word: 'לחזות',
+    pronouncing: 'лахазот',
+    translation: 'предвидеть, наблюдать', 
+  },
+  {
+    word: 'הסרטה',
+    pronouncing: 'хасрата',
+    translation: 'съемка', 
+  },
+  {
+    word: 'להסריט',
+    pronouncing: 'лэхасрит',
+    translation: 'снимать фильм', 
+  },
+  {
+    word: 'מסרטה',
+    pronouncing: 'масрэта',
+    translation: 'видеокамера', 
+  },
+  {
+    word: 'תסריט',
+    pronouncing: 'тасрит',
+    translation: 'сценарий', 
+  },
+  {
+    word: 'לסרוט',
+    pronouncing: 'лисрот',
+    translation: 'царапать', 
+  },
+  {
+    word: 'להיבהל',
+    pronouncing: 'лэхибахэль',
+    translation: 'пугаться, паниковать', 
+  },
+  {
+    word: 'כלבלב',
+    pronouncing: 'клавлав',
+    translation: 'щенок', 
+  },
+  {
+    word: 'כליב',
+    pronouncing: 'клив',
+    translation: 'скрепка', 
+  },
+  {
+    word: 'מכלב',
+    pronouncing: 'махлэв',
+    translation: 'степлер', 
+  },
+  {
+    word: 'להכליב',
+    pronouncing: 'лэхахлив',
+    translation: 'скреплять, сшивать', 
+  },
+  {
+    word: 'אילוץ',
+    pronouncing: 'илуц',
+    translation: 'принуждение', 
+  },
+  {
+    word: 'אילוץ',
+    pronouncing: 'илуц',
+    translation: 'принуждение', 
+  },
+  {
+    word: 'פרץ האוויר',
+    pronouncing: 'пэрэц хаавир',
+    translation: 'сквозняк', 
+  },
+  {
+    word: 'התקפה',
+    pronouncing: 'хаткафа',
+    translation: 'атака, теракт', 
+  },
+  {
+    word: 'מוחין',
+    pronouncing: 'мохин',
+    translation: 'мозг', 
+  },
+  {
+    word: 'השראה',
+    pronouncing: 'хашраа',
+    translation: 'вдохновение', 
+  },
+  {
+    word: 'להרגיז',
+    pronouncing: 'лэхаргиз',
+    translation: 'раздражать, злить', 
+  },
+  {
+    word: 'זמר',
+    pronouncing: 'замэр',
+    translation: 'песня, мелодия, напев', 
+  },
+  {
+    word: 'לזמור',
+    pronouncing: 'лизмор',
+    translation: 'подрезать', 
+  },
+  {
+    word: 'זמירה',
+    pronouncing: 'змира',
+    translation: 'укорачивание, подрезание', 
   },
 ]
