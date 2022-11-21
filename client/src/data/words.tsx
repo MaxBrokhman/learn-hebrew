@@ -7819,4 +7819,427 @@ export const wordsClass5 = [
     pronouncing: 'змира',
     translation: 'укорачивание, подрезание', 
   },
+  {
+    word: 'חטיבה',
+    pronouncing: 'хатива',
+    translation: 'бригада, совокупность', 
+  },
+  {
+    word: 'לְהִתְלַבֵּט',
+    translation: 'Колебаться, быть нерешительным', 
+  },
+  {
+    word: 'מַתאֵם',
+    pronouncing: 'Матъе́м',
+    translation: 'Адаптер, переходник', 
+  },
+  {
+    word: 'בּוֹחַן',
+    pronouncing: 'Бо́хан',
+    translation: 'Тест, контрольная работа', 
+  },
+  {
+    word: 'בְּחִינָה',
+    pronouncing: 'Бхина́',
+    translation: 'Проверка, следствие', 
+  },
+  {
+    word: 'הַבְחָנָה',
+    pronouncing: 'hавхана́',
+    translation: 'Различие', 
+  },
+  {
+    word: 'מַבְחֵנָה',
+    pronouncing: 'Мавхена́',
+    translation: 'Пробирка', 
+  },
+  {
+    word: 'אַבְחָנָה',
+    pronouncing: 'Авхана́',
+    translation: 'Диагноз', 
+  },
+  {
+    word: 'דֶגֶם',
+    pronouncing: 'Де́гем',
+    translation: 'Образец, модель, пример', 
+  },
+  {
+    word: 'לְהַפִּיל',
+    pronouncing: 'Леhапи́ль',
+    translation: 'Сбрасывать, ронять, свергать', 
+  },
+  {
+    word: 'מלְתָחָה',
+    pronouncing: 'мэлтахА',
+    translation: 'Гардеробная', 
+  },
+  {
+    word: 'מַר',
+    pronouncing: 'мАр',
+    translation: 'Горький', 
+  },
+  {
+    word: 'מרוהט',
+    pronouncing: 'мэрухат',
+    translation: 'меблированный', 
+  },
+  {
+    word: 'עָגִילִים',
+    pronouncing: 'агилИм',
+    translation: 'Серьги', 
+  },
+  {
+    word: 'עיגּוּל',
+    pronouncing: 'игУль',
+    translation: 'Круг; округление', 
+  },
+  {
+    word: 'לְגָרֵד',
+    pronouncing: 'Легаре́д',
+    translation: 'Чесать, чесаться, скрести', 
+  },
+  {
+    word: 'צמִיד',
+    pronouncing: 'цамИд',
+    translation: 'Браслет', 
+  },
+  {
+    word: 'צָמוּד',
+    pronouncing: 'цамУд',
+    translation: 'Прикреплённый, находящийся вплотную; облегающий', 
+  },
+  {
+    word: 'לְהַצְמִיד',
+    pronouncing: 'лэhацмИд',
+    translation: 'Прикреплять, присоединять', 
+  },
+  {
+    word: 'הַרְגָּשָׁה',
+    pronouncing: 'hаргаша́',
+    translation: 'Чувство, самочувствие', 
+  },
+  {
+    word: 'לְהִתְרַגֵּשׁ',
+    pronouncing: 'Леhитраге́ш',
+    translation: 'Расчувствоваться, волноваться', 
+  },
+  {
+    word: 'מַרְגָּשׁ',
+    pronouncing: 'Марга́ш',
+    translation: 'Настроение, самочувствие', 
+  },
+  {
+    word: 'לְהֵירָגֵשׁ',
+    pronouncing: 'Леhераге́ш',
+    translation: 'Волноваться', 
+  },
+  {
+    word: 'הִתְרַגְּשׁוּת',
+    pronouncing: 'hитрагшу́т',
+    translation: 'Волнение', 
+  },
+  {
+    word: 'מאַמֵן',
+    pronouncing: 'мэамЭн',
+    translation: 'Тренер', 
+  },
+  {
+    word: 'אִימּוּן',
+    pronouncing: 'имУн',
+    translation: 'Тренировка', 
+  },
+  {
+    word: 'אִימּוּנִית',
+    pronouncing: 'имунИт',
+    translation: 'Тренировочный костюм', 
+  },
+  {
+    word: 'לְאַמֵּן',
+    pronouncing: 'лэамЭн',
+    translation: 'Тренировать', 
+  },
+  {
+    word: 'לְהִתְאַמֵּן',
+    pronouncing: 'лэhитъамЭн',
+    translation: 'Тренироваться, упражняться', 
+  },
+  {
+    word: 'לצְלוֹל',
+    pronouncing: 'лицлОль',
+    translation: 'Нырять, погружаться', 
+  },
+  {
+    word: 'לְהִתְפַּייֵּס',
+    pronouncing: 'Леhитпайе́с',
+    translation: 'Примириться', 
+  },
+  {
+    word: 'לְהִזְדַּמֵּן',
+    pronouncing: 'Леhиздаме́н',
+    translation: 'Случиться, случайно встретиться', 
+  },
+  {
+    word: 'לְתַזְמֵן',
+    pronouncing: 'Летазме́н',
+    translation: 'Координировать время, сроки', 
+  },
+  {
+    word: 'צִיפִּית',
+    pronouncing: 'ципИт',
+    translation: 'Наволочка', 
+  },
+  {
+    word: 'צִיפָּה',
+    pronouncing: 'ципА',
+    translation: 'Пододеяльник', 
+  },
+  {
+    word: 'מִדְרָכָה',
+    pronouncing: 'мидрахА',
+    translation: 'Тротуар', 
+  },
+  {
+    word: 'לְאַכֵּל',
+    pronouncing: 'Леаке́ль',
+    translation: 'Разъедать, травить', 
+  },
+  {
+    word: 'אֲכִילָה',
+    pronouncing: 'Ахила́',
+    translation: 'Принятие пищи, еда', 
+  },
+  {
+    word: 'לְהִידָּבֵר',
+    pronouncing: 'Леhидаве́р',
+    translation: 'Договориться, сговориться', 
+  },
+  {
+    word: 'לְהִתעַצֵל',
+    pronouncing: 'Леhитъаце́ль',
+    translation: 'Лениться', 
+  },
+  {
+    word: 'צַלָּם',
+    pronouncing: 'Цала́м',
+    translation: 'Фотограф, видеооператор', 
+  },
+  {
+    word: 'צִילּוּם',
+    pronouncing: 'Цилу́м',
+    translation: 'Фотосъемка, киносъемка', 
+  },
+  {
+    word: 'תמְרוּר',
+    pronouncing: 'тамрУр',
+    translation: 'Дорожный знак', 
+  },
+  {
+    word: 'לְהָפִיץ',
+    pronouncing: 'Леhафи́ц',
+    translation: 'Распространять, рассеивать, распускать', 
+  },
+  {
+    word: 'מקֵּל',
+    pronouncing: 'макЭль',
+    translation: 'Палка, трость, дубина', 
+  },
+  {
+    word: 'דבוֹרָה',
+    pronouncing: 'дворА',
+    translation: 'Пчела', 
+  },
+  {
+    word: 'לזְכּוֹת',
+    pronouncing: 'лизкОт',
+    translation: 'Заслужить, удостоиться, выиграть', 
+  },
+  {
+    word: 'מקדמה',
+    pronouncing: 'микдама',
+    translation: 'предоплата', 
+  },
+  {
+    word: 'שפוי',
+    pronouncing: 'шафуй',
+    translation: 'разумный', 
+  },
+  {
+    word: 'רכישה',
+    pronouncing: 'рэхиша',
+    translation: 'приобретение', 
+  },
+  {
+    word: 'דמעות',
+    pronouncing: 'дмаот',
+    translation: 'слезы', 
+  },
+  {
+    word: 'קרצוף',
+    pronouncing: 'кирцуф',
+    translation: 'оттирание', 
+  },
+  {
+    word: 'לְבַייֵת',
+    pronouncing: 'Левайе́т',
+    translation: 'Одомашнивать, приручать', 
+  },
+  {
+    word: 'גַּל',
+    translation: 'Волна, куча, груда', 
+  },
+  {
+    word: 'גְּלִילָה',
+    pronouncing: 'Глила́',
+    translation: 'Моток, рулон', 
+  },
+  {
+    word: 'לִגְלוֹל',
+    pronouncing: 'Лигло́ль',
+    translation: 'Скатывать, свертывать', 
+  },
+  {
+    word: 'גָּלִיל',
+    pronouncing: 'Гали́ль',
+    translation: 'Цилиндр, рулон', 
+  },
+  {
+    word: 'גְּלוּלָה',
+    pronouncing: 'Глула́',
+    translation: 'Таблетка, пилюля', 
+  },
+  {
+    word: 'תמיסה',
+    pronouncing: 'тмиса',
+    translation: 'решение', 
+  },
+  {
+    word: 'סלק',
+    pronouncing: 'сэлэк',
+    translation: 'свекла', 
+  },
+  {
+    word: 'גאווה',
+    pronouncing: 'гэава',
+    translation: 'гордость', 
+  },
+  {
+    word: 'חטא',
+    pronouncing: 'хэт',
+    translation: 'грех', 
+  },
+  {
+    word: 'השערה',
+    pronouncing: 'ашара',
+    translation: 'гипотеза, предположение', 
+  },
+  {
+    word: 'מיעוטים',
+    pronouncing: 'миютим',
+    translation: 'меньшинства', 
+  },
+  {
+    word: 'מפשעה',
+    pronouncing: 'мафсаа',
+    translation: 'пах, промежность', 
+  },
+  {
+    word: 'מבסוט',
+    pronouncing: 'мабсут',
+    translation: 'доволен', 
+  },
+  {
+    word: 'מתיחה',
+    pronouncing: 'мэтиха',
+    translation: 'розыгрыш', 
+  },
+  {
+    word: 'סמים',
+    pronouncing: 'самим',
+    translation: 'наркотики', 
+  },
+  {
+    word: 'כתם',
+    pronouncing: 'кэтэм',
+    translation: 'пятно', 
+  },
+  {
+    word: 'תווית',
+    pronouncing: 'тавит',
+    translation: 'этикетка', 
+  },
+  {
+    word: 'לגדוע',
+    pronouncing: 'лигдоа',
+    translation: 'обстригать, обрубать', 
+  },
+  {
+    word: 'הלאה',
+    pronouncing: 'хала',
+    translation: 'дальше', 
+  },
+  {
+    word: 'גמד',
+    pronouncing: 'гамад',
+    translation: 'карлик', 
+  },
+  {
+    word: 'ארוז',
+    pronouncing: 'аруз',
+    translation: 'упакованный', 
+  },
+  {
+    word: 'לְתַחְקֵר',
+    pronouncing: 'Летахке́р',
+    translation: 'Исследовать, расследовать, допрашивать', 
+  },
+  {
+    word: 'בול',
+    pronouncing: 'буль',
+    translation: 'прямо в точку', 
+  },
+  {
+    word: 'קמצן',
+    pronouncing: 'камцан',
+    translation: 'скряга', 
+  },
+  {
+    word: 'פדיחות',
+    pronouncing: 'фадихот',
+    translation: 'грубость', 
+  },
+  {
+    word: 'לאכזב',
+    pronouncing: 'лэахзэв',
+    translation: 'Разочаровывать', 
+  },
+  {
+    word: 'בושם',
+    pronouncing: 'босэм',
+    translation: 'духи, аромат', 
+  },
+  {
+    word: 'תעלומה',
+    pronouncing: 'таалума',
+    translation: 'тайна', 
+  },
+  {
+    word: 'ניתז',
+    pronouncing: 'нитаз',
+    translation: 'брызги', 
+  },
+  {
+    word: 'גפרור',
+    pronouncing: 'гафрур',
+    translation: 'спичка', 
+  },
+  {
+    word: 'מציף',
+    pronouncing: 'мациф',
+    translation: 'заливать, топить', 
+  },
+  {
+    word: 'נאלץ',
+    pronouncing: 'нээлац',
+    translation: 'быть вынужденным', 
+  },
 ]
