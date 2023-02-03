@@ -2,7 +2,7 @@ import React, { useReducer } from 'react';
 import {
   BrowserRouter as Router,
   Route,
-  Switch,
+  Routes,
 } from 'react-router-dom';
 
 import { Header } from '../Header';
@@ -24,10 +24,10 @@ export const App = () => {
       <Context.Provider value={{ state, dispatch }}>
         <Router>
           <Header />
-          <Switch>
-            <Route path={getRoute('search/')} component={SearchPage} />
-            <Route path={getRoute()} component={RandomPage} />
-          </Switch>
+          <Routes>
+            <Route path={getRoute('search/')} element={<SearchPage />} />
+            <Route path={getRoute()} element={<RandomPage />} />
+          </Routes>
         </Router>
       </Context.Provider>
     </div>
